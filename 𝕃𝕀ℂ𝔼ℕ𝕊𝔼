@@ -1,661 +1,661 @@
-                    GNU AFFERO GENERAL PUBLIC LICENSE
-                       Version 3, 19 November 2007
-
- Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
-
-                            Preamble
-
-  The GNU Affero General Public License is a free, copyleft license for
-software and other kinds of works, specifically designed to ensure
-cooperation with the community in the case of network server software.
-
-  The licenses for most software and other practical works are designed
-to take away your freedom to share and change the works.  By contrast,
-our General Public Licenses are intended to guarantee your freedom to
-share and change all versions of a program--to make sure it remains free
-software for all its users.
-
-  When we speak of free software, we are referring to freedom, not
-price.  Our General Public Licenses are designed to make sure that you
-have the freedom to distribute copies of free software (and charge for
-them if you wish), that you receive source code or can get it if you
-want it, that you can change the software or use pieces of it in new
-free programs, and that you know you can do these things.
-
-  Developers that use our General Public Licenses protect your rights
-with two steps: (1) assert copyright on the software, and (2) offer
-you this License which gives you legal permission to copy, distribute
-and/or modify the software.
-
-  A secondary benefit of defending all users' freedom is that
-improvements made in alternate versions of the program, if they
-receive widespread use, become available for other developers to
-incorporate.  Many developers of free software are heartened and
-encouraged by the resulting cooperation.  However, in the case of
-software used on network servers, this result may fail to come about.
-The GNU General Public License permits making a modified version and
-letting the public access it on a server without ever releasing its
-source code to the public.
-
-  The GNU Affero General Public License is designed specifically to
-ensure that, in such cases, the modified source code becomes available
-to the community.  It requires the operator of a network server to
-provide the source code of the modified version running there to the
-users of that server.  Therefore, public use of a modified version, on
-a publicly accessible server, gives the public access to the source
-code of the modified version.
-
-  An older license, called the Affero General Public License and
-published by Affero, was designed to accomplish similar goals.  This is
-a different license, not a version of the Affero GPL, but Affero has
-released a new version of the Affero GPL which permits relicensing under
-this license.
-
-  The precise terms and conditions for copying, distribution and
-modification follow.
-
-                       TERMS AND CONDITIONS
-
-  0. Definitions.
-
-  "This License" refers to version 3 of the GNU Affero General Public License.
-
-  "Copyright" also means copyright-like laws that apply to other kinds of
-works, such as semiconductor masks.
-
-  "The Program" refers to any copyrightable work licensed under this
-License.  Each licensee is addressed as "you".  "Licensees" and
-"recipients" may be individuals or organizations.
-
-  To "modify" a work means to copy from or adapt all or part of the work
-in a fashion requiring copyright permission, other than the making of an
-exact copy.  The resulting work is called a "modified version" of the
-earlier work or a work "based on" the earlier work.
-
-  A "covered work" means either the unmodified Program or a work based
-on the Program.
-
-  To "propagate" a work means to do anything with it that, without
-permission, would make you directly or secondarily liable for
-infringement under applicable copyright law, except executing it on a
-computer or modifying a private copy.  Propagation includes copying,
-distribution (with or without modification), making available to the
-public, and in some countries other activities as well.
-
-  To "convey" a work means any kind of propagation that enables other
-parties to make or receive copies.  Mere interaction with a user through
-a computer network, with no transfer of a copy, is not conveying.
-
-  An interactive user interface displays "Appropriate Legal Notices"
-to the extent that it includes a convenient and prominently visible
-feature that (1) displays an appropriate copyright notice, and (2)
-tells the user that there is no warranty for the work (except to the
-extent that warranties are provided), that licensees may convey the
-work under this License, and how to view a copy of this License.  If
-the interface presents a list of user commands or options, such as a
-menu, a prominent item in the list meets this criterion.
-
-  1. Source Code.
-
-  The "source code" for a work means the preferred form of the work
-for making modifications to it.  "Object code" means any non-source
-form of a work.
-
-  A "Standard Interface" means an interface that either is an official
-standard defined by a recognized standards body, or, in the case of
-interfaces specified for a particular programming language, one that
-is widely used among developers working in that language.
-
-  The "System Libraries" of an executable work include anything, other
-than the work as a whole, that (a) is included in the normal form of
-packaging a Major Component, but which is not part of that Major
-Component, and (b) serves only to enable use of the work with that
-Major Component, or to implement a Standard Interface for which an
-implementation is available to the public in source code form.  A
-"Major Component", in this context, means a major essential component
-(kernel, window system, and so on) of the specific operating system
-(if any) on which the executable work runs, or a compiler used to
-produce the work, or an object code interpreter used to run it.
-
-  The "Corresponding Source" for a work in object code form means all
-the source code needed to generate, install, and (for an executable
-work) run the object code and to modify the work, including scripts to
-control those activities.  However, it does not include the work's
-System Libraries, or general-purpose tools or generally available free
-programs which are used unmodified in performing those activities but
-which are not part of the work.  For example, Corresponding Source
-includes interface definition files associated with source files for
-the work, and the source code for shared libraries and dynamically
-linked subprograms that the work is specifically designed to require,
-such as by intimate data communication or control flow between those
-subprograms and other parts of the work.
-
-  The Corresponding Source need not include anything that users
-can regenerate automatically from other parts of the Corresponding
-Source.
-
-  The Corresponding Source for a work in source code form is that
-same work.
-
-  2. Basic Permissions.
-
-  All rights granted under this License are granted for the term of
-copyright on the Program, and are irrevocable provided the stated
-conditions are met.  This License explicitly affirms your unlimited
-permission to run the unmodified Program.  The output from running a
-covered work is covered by this License only if the output, given its
-content, constitutes a covered work.  This License acknowledges your
-rights of fair use or other equivalent, as provided by copyright law.
-
-  You may make, run and propagate covered works that you do not
-convey, without conditions so long as your license otherwise remains
-in force.  You may convey covered works to others for the sole purpose
-of having them make modifications exclusively for you, or provide you
-with facilities for running those works, provided that you comply with
-the terms of this License in conveying all material for which you do
-not control copyright.  Those thus making or running the covered works
-for you must do so exclusively on your behalf, under your direction
-and control, on terms that prohibit them from making any copies of
-your copyrighted material outside their relationship with you.
-
-  Conveying under any other circumstances is permitted solely under
-the conditions stated below.  Sublicensing is not allowed; section 10
-makes it unnecessary.
-
-  3. Protecting Users' Legal Rights From Anti-Circumvention Law.
-
-  No covered work shall be deemed part of an effective technological
-measure under any applicable law fulfilling obligations under article
-11 of the WIPO copyright treaty adopted on 20 December 1996, or
-similar laws prohibiting or restricting circumvention of such
-measures.
-
-  When you convey a covered work, you waive any legal power to forbid
-circumvention of technological measures to the extent such circumvention
-is effected by exercising rights under this License with respect to
-the covered work, and you disclaim any intention to limit operation or
-modification of the work as a means of enforcing, against the work's
-users, your or third parties' legal rights to forbid circumvention of
-technological measures.
-
-  4. Conveying Verbatim Copies.
-
-  You may convey verbatim copies of the Program's source code as you
-receive it, in any medium, provided that you conspicuously and
-appropriately publish on each copy an appropriate copyright notice;
-keep intact all notices stating that this License and any
-non-permissive terms added in accord with section 7 apply to the code;
-keep intact all notices of the absence of any warranty; and give all
-recipients a copy of this License along with the Program.
-
-  You may charge any price or no price for each copy that you convey,
-and you may offer support or warranty protection for a fee.
-
-  5. Conveying Modified Source Versions.
-
-  You may convey a work based on the Program, or the modifications to
-produce it from the Program, in the form of source code under the
-terms of section 4, provided that you also meet all of these conditions:
-
-    a) The work must carry prominent notices stating that you modified
-    it, and giving a relevant date.
-
-    b) The work must carry prominent notices stating that it is
-    released under this License and any conditions added under section
-    7.  This requirement modifies the requirement in section 4 to
-    "keep intact all notices".
-
-    c) You must license the entire work, as a whole, under this
-    License to anyone who comes into possession of a copy.  This
-    License will therefore apply, along with any applicable section 7
-    additional terms, to the whole of the work, and all its parts,
-    regardless of how they are packaged.  This License gives no
-    permission to license the work in any other way, but it does not
-    invalidate such permission if you have separately received it.
-
-    d) If the work has interactive user interfaces, each must display
-    Appropriate Legal Notices; however, if the Program has interactive
-    interfaces that do not display Appropriate Legal Notices, your
-    work need not make them do so.
-
-  A compilation of a covered work with other separate and independent
-works, which are not by their nature extensions of the covered work,
-and which are not combined with it such as to form a larger program,
-in or on a volume of a storage or distribution medium, is called an
-"aggregate" if the compilation and its resulting copyright are not
-used to limit the access or legal rights of the compilation's users
-beyond what the individual works permit.  Inclusion of a covered work
-in an aggregate does not cause this License to apply to the other
-parts of the aggregate.
-
-  6. Conveying Non-Source Forms.
-
-  You may convey a covered work in object code form under the terms
-of sections 4 and 5, provided that you also convey the
-machine-readable Corresponding Source under the terms of this License,
-in one of these ways:
-
-    a) Convey the object code in, or embodied in, a physical product
-    (including a physical distribution medium), accompanied by the
-    Corresponding Source fixed on a durable physical medium
-    customarily used for software interchange.
-
-    b) Convey the object code in, or embodied in, a physical product
-    (including a physical distribution medium), accompanied by a
-    written offer, valid for at least three years and valid for as
-    long as you offer spare parts or customer support for that product
-    model, to give anyone who possesses the object code either (1) a
-    copy of the Corresponding Source for all the software in the
-    product that is covered by this License, on a durable physical
-    medium customarily used for software interchange, for a price no
-    more than your reasonable cost of physically performing this
-    conveying of source, or (2) access to copy the
-    Corresponding Source from a network server at no charge.
-
-    c) Convey individual copies of the object code with a copy of the
-    written offer to provide the Corresponding Source.  This
-    alternative is allowed only occasionally and noncommercially, and
-    only if you received the object code with such an offer, in accord
-    with subsection 6b.
-
-    d) Convey the object code by offering access from a designated
-    place (gratis or for a charge), and offer equivalent access to the
-    Corresponding Source in the same way through the same place at no
-    further charge.  You need not require recipients to copy the
-    Corresponding Source along with the object code.  If the place to
-    copy the object code is a network server, the Corresponding Source
-    may be on a different server (operated by you or a third party)
-    that supports equivalent copying facilities, provided you maintain
-    clear directions next to the object code saying where to find the
-    Corresponding Source.  Regardless of what server hosts the
-    Corresponding Source, you remain obligated to ensure that it is
-    available for as long as needed to satisfy these requirements.
-
-    e) Convey the object code using peer-to-peer transmission, provided
-    you inform other peers where the object code and Corresponding
-    Source of the work are being offered to the general public at no
-    charge under subsection 6d.
-
-  A separable portion of the object code, whose source code is excluded
-from the Corresponding Source as a System Library, need not be
-included in conveying the object code work.
-
-  A "User Product" is either (1) a "consumer product", which means any
-tangible personal property which is normally used for personal, family,
-or household purposes, or (2) anything designed or sold for incorporation
-into a dwelling.  In determining whether a product is a consumer product,
-doubtful cases shall be resolved in favor of coverage.  For a particular
-product received by a particular user, "normally used" refers to a
-typical or common use of that class of product, regardless of the status
-of the particular user or of the way in which the particular user
-actually uses, or expects or is expected to use, the product.  A product
-is a consumer product regardless of whether the product has substantial
-commercial, industrial or non-consumer uses, unless such uses represent
-the only significant mode of use of the product.
-
-  "Installation Information" for a User Product means any methods,
-procedures, authorization keys, or other information required to install
-and execute modified versions of a covered work in that User Product from
-a modified version of its Corresponding Source.  The information must
-suffice to ensure that the continued functioning of the modified object
-code is in no case prevented or interfered with solely because
-modification has been made.
-
-  If you convey an object code work under this section in, or with, or
-specifically for use in, a User Product, and the conveying occurs as
-part of a transaction in which the right of possession and use of the
-User Product is transferred to the recipient in perpetuity or for a
-fixed term (regardless of how the transaction is characterized), the
-Corresponding Source conveyed under this section must be accompanied
-by the Installation Information.  But this requirement does not apply
-if neither you nor any third party retains the ability to install
-modified object code on the User Product (for example, the work has
-been installed in ROM).
-
-  The requirement to provide Installation Information does not include a
-requirement to continue to provide support service, warranty, or updates
-for a work that has been modified or installed by the recipient, or for
-the User Product in which it has been modified or installed.  Access to a
-network may be denied when the modification itself materially and
-adversely affects the operation of the network or violates the rules and
-protocols for communication across the network.
-
-  Corresponding Source conveyed, and Installation Information provided,
-in accord with this section must be in a format that is publicly
-documented (and with an implementation available to the public in
-source code form), and must require no special password or key for
-unpacking, reading or copying.
-
-  7. Additional Terms.
-
-  "Additional permissions" are terms that supplement the terms of this
-License by making exceptions from one or more of its conditions.
-Additional permissions that are applicable to the entire Program shall
-be treated as though they were included in this License, to the extent
-that they are valid under applicable law.  If additional permissions
-apply only to part of the Program, that part may be used separately
-under those permissions, but the entire Program remains governed by
-this License without regard to the additional permissions.
-
-  When you convey a copy of a covered work, you may at your option
-remove any additional permissions from that copy, or from any part of
-it.  (Additional permissions may be written to require their own
-removal in certain cases when you modify the work.)  You may place
-additional permissions on material, added by you to a covered work,
-for which you have or can give appropriate copyright permission.
-
-  Notwithstanding any other provision of this License, for material you
-add to a covered work, you may (if authorized by the copyright holders of
-that material) supplement the terms of this License with terms:
-
-    a) Disclaiming warranty or limiting liability differently from the
-    terms of sections 15 and 16 of this License; or
-
-    b) Requiring preservation of specified reasonable legal notices or
-    author attributions in that material or in the Appropriate Legal
-    Notices displayed by works containing it; or
-
-    c) Prohibiting misrepresentation of the origin of that material, or
-    requiring that modified versions of such material be marked in
-    reasonable ways as different from the original version; or
-
-    d) Limiting the use for publicity purposes of names of licensors or
-    authors of the material; or
-
-    e) Declining to grant rights under trademark law for use of some
-    trade names, trademarks, or service marks; or
-
-    f) Requiring indemnification of licensors and authors of that
-    material by anyone who conveys the material (or modified versions of
-    it) with contractual assumptions of liability to the recipient, for
-    any liability that these contractual assumptions directly impose on
-    those licensors and authors.
-
-  All other non-permissive additional terms are considered "further
-restrictions" within the meaning of section 10.  If the Program as you
-received it, or any part of it, contains a notice stating that it is
-governed by this License along with a term that is a further
-restriction, you may remove that term.  If a license document contains
-a further restriction but permits relicensing or conveying under this
-License, you may add to a covered work material governed by the terms
-of that license document, provided that the further restriction does
-not survive such relicensing or conveying.
-
-  If you add terms to a covered work in accord with this section, you
-must place, in the relevant source files, a statement of the
-additional terms that apply to those files, or a notice indicating
-where to find the applicable terms.
-
-  Additional terms, permissive or non-permissive, may be stated in the
-form of a separately written license, or stated as exceptions;
-the above requirements apply either way.
-
-  8. Termination.
-
-  You may not propagate or modify a covered work except as expressly
-provided under this License.  Any attempt otherwise to propagate or
-modify it is void, and will automatically terminate your rights under
-this License (including any patent licenses granted under the third
-paragraph of section 11).
-
-  However, if you cease all violation of this License, then your
-license from a particular copyright holder is reinstated (a)
-provisionally, unless and until the copyright holder explicitly and
-finally terminates your license, and (b) permanently, if the copyright
-holder fails to notify you of the violation by some reasonable means
-prior to 60 days after the cessation.
-
-  Moreover, your license from a particular copyright holder is
-reinstated permanently if the copyright holder notifies you of the
-violation by some reasonable means, this is the first time you have
-received notice of violation of this License (for any work) from that
-copyright holder, and you cure the violation prior to 30 days after
-your receipt of the notice.
-
-  Termination of your rights under this section does not terminate the
-licenses of parties who have received copies or rights from you under
-this License.  If your rights have been terminated and not permanently
-reinstated, you do not qualify to receive new licenses for the same
-material under section 10.
-
-  9. Acceptance Not Required for Having Copies.
-
-  You are not required to accept this License in order to receive or
-run a copy of the Program.  Ancillary propagation of a covered work
-occurring solely as a consequence of using peer-to-peer transmission
-to receive a copy likewise does not require acceptance.  However,
-nothing other than this License grants you permission to propagate or
-modify any covered work.  These actions infringe copyright if you do
-not accept this License.  Therefore, by modifying or propagating a
-covered work, you indicate your acceptance of this License to do so.
-
-  10. Automatic Licensing of Downstream Recipients.
-
-  Each time you convey a covered work, the recipient automatically
-receives a license from the original licensors, to run, modify and
-propagate that work, subject to this License.  You are not responsible
-for enforcing compliance by third parties with this License.
-
-  An "entity transaction" is a transaction transferring control of an
-organization, or substantially all assets of one, or subdividing an
-organization, or merging organizations.  If propagation of a covered
-work results from an entity transaction, each party to that
-transaction who receives a copy of the work also receives whatever
-licenses to the work the party's predecessor in interest had or could
-give under the previous paragraph, plus a right to possession of the
-Corresponding Source of the work from the predecessor in interest, if
-the predecessor has it or can get it with reasonable efforts.
-
-  You may not impose any further restrictions on the exercise of the
-rights granted or affirmed under this License.  For example, you may
-not impose a license fee, royalty, or other charge for exercise of
-rights granted under this License, and you may not initiate litigation
-(including a cross-claim or counterclaim in a lawsuit) alleging that
-any patent claim is infringed by making, using, selling, offering for
-sale, or importing the Program or any portion of it.
-
-  11. Patents.
-
-  A "contributor" is a copyright holder who authorizes use under this
-License of the Program or a work on which the Program is based.  The
-work thus licensed is called the contributor's "contributor version".
-
-  A contributor's "essential patent claims" are all patent claims
-owned or controlled by the contributor, whether already acquired or
-hereafter acquired, that would be infringed by some manner, permitted
-by this License, of making, using, or selling its contributor version,
-but do not include claims that would be infringed only as a
-consequence of further modification of the contributor version.  For
-purposes of this definition, "control" includes the right to grant
-patent sublicenses in a manner consistent with the requirements of
-this License.
-
-  Each contributor grants you a non-exclusive, worldwide, royalty-free
-patent license under the contributor's essential patent claims, to
-make, use, sell, offer for sale, import and otherwise run, modify and
-propagate the contents of its contributor version.
-
-  In the following three paragraphs, a "patent license" is any express
-agreement or commitment, however denominated, not to enforce a patent
-(such as an express permission to practice a patent or covenant not to
-sue for patent infringement).  To "grant" such a patent license to a
-party means to make such an agreement or commitment not to enforce a
-patent against the party.
-
-  If you convey a covered work, knowingly relying on a patent license,
-and the Corresponding Source of the work is not available for anyone
-to copy, free of charge and under the terms of this License, through a
-publicly available network server or other readily accessible means,
-then you must either (1) cause the Corresponding Source to be so
-available, or (2) arrange to deprive yourself of the benefit of the
-patent license for this particular work, or (3) arrange, in a manner
-consistent with the requirements of this License, to extend the patent
-license to downstream recipients.  "Knowingly relying" means you have
-actual knowledge that, but for the patent license, your conveying the
-covered work in a country, or your recipient's use of the covered work
-in a country, would infringe one or more identifiable patents in that
-country that you have reason to believe are valid.
-
-  If, pursuant to or in connection with a single transaction or
-arrangement, you convey, or propagate by procuring conveyance of, a
-covered work, and grant a patent license to some of the parties
-receiving the covered work authorizing them to use, propagate, modify
-or convey a specific copy of the covered work, then the patent license
-you grant is automatically extended to all recipients of the covered
-work and works based on it.
-
-  A patent license is "discriminatory" if it does not include within
-the scope of its coverage, prohibits the exercise of, or is
-conditioned on the non-exercise of one or more of the rights that are
-specifically granted under this License.  You may not convey a covered
-work if you are a party to an arrangement with a third party that is
-in the business of distributing software, under which you make payment
-to the third party based on the extent of your activity of conveying
-the work, and under which the third party grants, to any of the
-parties who would receive the covered work from you, a discriminatory
-patent license (a) in connection with copies of the covered work
-conveyed by you (or copies made from those copies), or (b) primarily
-for and in connection with specific products or compilations that
-contain the covered work, unless you entered into that arrangement,
-or that patent license was granted, prior to 28 March 2007.
-
-  Nothing in this License shall be construed as excluding or limiting
-any implied license or other defenses to infringement that may
-otherwise be available to you under applicable patent law.
-
-  12. No Surrender of Others' Freedom.
-
-  If conditions are imposed on you (whether by court order, agreement or
-otherwise) that contradict the conditions of this License, they do not
-excuse you from the conditions of this License.  If you cannot convey a
-covered work so as to satisfy simultaneously your obligations under this
-License and any other pertinent obligations, then as a consequence you may
-not convey it at all.  For example, if you agree to terms that obligate you
-to collect a royalty for further conveying from those to whom you convey
-the Program, the only way you could satisfy both those terms and this
-License would be to refrain entirely from conveying the Program.
-
-  13. Remote Network Interaction; Use with the GNU General Public License.
-
-  Notwithstanding any other provision of this License, if you modify the
-Program, your modified version must prominently offer all users
-interacting with it remotely through a computer network (if your version
-supports such interaction) an opportunity to receive the Corresponding
-Source of your version by providing access to the Corresponding Source
-from a network server at no charge, through some standard or customary
-means of facilitating copying of software.  This Corresponding Source
-shall include the Corresponding Source for any work covered by version 3
-of the GNU General Public License that is incorporated pursuant to the
-following paragraph.
-
-  Notwithstanding any other provision of this License, you have
-permission to link or combine any covered work with a work licensed
-under version 3 of the GNU General Public License into a single
-combined work, and to convey the resulting work.  The terms of this
-License will continue to apply to the part which is the covered work,
-but the work with which it is combined will remain governed by version
-3 of the GNU General Public License.
-
-  14. Revised Versions of this License.
-
-  The Free Software Foundation may publish revised and/or new versions of
-the GNU Affero General Public License from time to time.  Such new versions
-will be similar in spirit to the present version, but may differ in detail to
-address new problems or concerns.
-
-  Each version is given a distinguishing version number.  If the
-Program specifies that a certain numbered version of the GNU Affero General
-Public License "or any later version" applies to it, you have the
-option of following the terms and conditions either of that numbered
-version or of any later version published by the Free Software
-Foundation.  If the Program does not specify a version number of the
-GNU Affero General Public License, you may choose any version ever published
-by the Free Software Foundation.
-
-  If the Program specifies that a proxy can decide which future
-versions of the GNU Affero General Public License can be used, that proxy's
-public statement of acceptance of a version permanently authorizes you
-to choose that version for the Program.
-
-  Later license versions may give you additional or different
-permissions.  However, no additional obligations are imposed on any
-author or copyright holder as a result of your choosing to follow a
-later version.
-
-  15. Disclaimer of Warranty.
-
-  THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
-APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
-HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY
-OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
-THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
-PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
-IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
-ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
-
-  16. Limitation of Liability.
-
-  IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
-WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS
-THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
-GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE
-USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF
-DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
-PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),
-EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
-SUCH DAMAGES.
-
-  17. Interpretation of Sections 15 and 16.
-
-  If the disclaimer of warranty and limitation of liability provided
-above cannot be given local legal effect according to their terms,
-reviewing courts shall apply local law that most closely approximates
-an absolute waiver of all civil liability in connection with the
-Program, unless a warranty or assumption of liability accompanies a
-copy of the Program in return for a fee.
-
-                     END OF TERMS AND CONDITIONS
-
-            How to Apply These Terms to Your New Programs
-
-  If you develop a new program, and you want it to be of the greatest
-possible use to the public, the best way to achieve this is to make it
-free software which everyone can redistribute and change under these terms.
-
-  To do so, attach the following notices to the program.  It is safest
-to attach them to the start of each source file to most effectively
-state the exclusion of warranty; and each file should have at least
-the "copyright" line and a pointer to where the full notice is found.
-
-    <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
-
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU Affero General Public License as published
-    by the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU Affero General Public License for more details.
-
-    You should have received a copy of the GNU Affero General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-Also add information on how to contact you by electronic and paper mail.
-
-  If your software can interact with users remotely through a computer
-network, you should also make sure that it provides a way for users to
-get its source.  For example, if your program is a web application, its
-interface could display a "Source" link that leads users to an archive
-of the code.  There are many ways you could offer source, and different
-solutions will be better for different programs; see section 13 for the
-specific requirements.
-
-  You should also get your employer (if you work as a programmer) or school,
-if any, to sign a "copyright disclaimer" for the program, if necessary.
-For more information on this, and how to apply and follow the GNU AGPL, see
-<http://www.gnu.org/licenses/>.
+░░░░░░░░░░░░░░░░░░░░ＧＮＵ░ΛＦＦΞＲ♢░ＧΣＮΞＲΛＬ░ＰＵＢＬＩＣ░ＬＩＣΞＮＳΞ
+░░░░░░░░░░░░░░░░░░░░░░░Ｖｅｒｓｉｏｎ░３，░１９░Ｎｏｖｅｍｂｅｒ░２００７
+
+░Ｃｏｐｙｒｉｇｈｔ░（Ｃ）░２００７░Ｆｒｅｅ░Ｓｏｆｔｗａｒｅ░Ｆｏｕｎｄａｔｉｏｎ，░Ｉｎｃ．░<ｈｔｔｐ：／／ｆｓｆ．ｏｒｇ／>
+░Σｖｅｒｙｏｎｅ░ｉｓ░ｐｅｒｍｉｔｔｅｄ░ｔｏ░ｃｏｐｙ░ａｎｄ░ｄｉｓｔｒｉｂｕｔｅ░ｖｅｒｂａｔｉｍ░ｃｏｐｉｅｓ
+░ｏｆ░ｔｈｉｓ░ｌｉｃｅｎｓｅ░ｄｏｃｕｍｅｎｔ，░ｂｕｔ░ｃｈａｎｇｉｎｇ░ｉｔ░ｉｓ░ｎｏｔ░ａｌｌｏｗｅｄ．
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░Ｐｒｅａｍｂｌｅ
+
+░░Ｔｈｅ░ＧＮＵ░Λｆｆｅｒｏ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅ░ｉｓ░ａ░ｆｒｅｅ，░ｃｏｐｙｌｅｆｔ░ｌｉｃｅｎｓｅ░ｆｏｒ
+ｓｏｆｔｗａｒｅ░ａｎｄ░ｏｔｈｅｒ░ｋｉｎｄｓ░ｏｆ░ｗｏｒｋｓ，░ｓｐｅｃｉｆｉｃａｌｌｙ░ｄｅｓｉｇｎｅｄ░ｔｏ░ｅｎｓｕｒｅ
+ｃｏｏｐｅｒａｔｉｏｎ░ｗｉｔｈ░ｔｈｅ░ｃｏｍｍｕｎｉｔｙ░ｉｎ░ｔｈｅ░ｃａｓｅ░ｏｆ░ｎｅｔｗｏｒｋ░ｓｅｒｖｅｒ░ｓｏｆｔｗａｒｅ．
+
+░░Ｔｈｅ░ｌｉｃｅｎｓｅｓ░ｆｏｒ░ｍｏｓｔ░ｓｏｆｔｗａｒｅ░ａｎｄ░ｏｔｈｅｒ░ｐｒａｃｔｉｃａｌ░ｗｏｒｋｓ░ａｒｅ░ｄｅｓｉｇｎｅｄ
+ｔｏ░ｔａｋｅ░ａｗａｙ░ｙｏｕｒ░ｆｒｅｅｄｏｍ░ｔｏ░ｓｈａｒｅ░ａｎｄ░ｃｈａｎｇｅ░ｔｈｅ░ｗｏｒｋｓ．░░Ｂｙ░ｃｏｎｔｒａｓｔ，
+ｏｕｒ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅｓ░ａｒｅ░ｉｎｔｅｎｄｅｄ░ｔｏ░ｇｕａｒａｎｔｅｅ░ｙｏｕｒ░ｆｒｅｅｄｏｍ░ｔｏ
+ｓｈａｒｅ░ａｎｄ░ｃｈａｎｇｅ░ａｌｌ░ｖｅｒｓｉｏｎｓ░ｏｆ░ａ░ｐｒｏｇｒａｍ－－ｔｏ░ｍａｋｅ░ｓｕｒｅ░ｉｔ░ｒｅｍａｉｎｓ░ｆｒｅｅ
+ｓｏｆｔｗａｒｅ░ｆｏｒ░ａｌｌ░ｉｔｓ░ｕｓｅｒｓ．
+
+░░Ｗｈｅｎ░ｗｅ░ｓｐｅａｋ░ｏｆ░ｆｒｅｅ░ｓｏｆｔｗａｒｅ，░ｗｅ░ａｒｅ░ｒｅｆｅｒｒｉｎｇ░ｔｏ░ｆｒｅｅｄｏｍ，░ｎｏｔ
+ｐｒｉｃｅ．░░♢ｕｒ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅｓ░ａｒｅ░ｄｅｓｉｇｎｅｄ░ｔｏ░ｍａｋｅ░ｓｕｒｅ░ｔｈａｔ░ｙｏｕ
+ｈａｖｅ░ｔｈｅ░ｆｒｅｅｄｏｍ░ｔｏ░ｄｉｓｔｒｉｂｕｔｅ░ｃｏｐｉｅｓ░ｏｆ░ｆｒｅｅ░ｓｏｆｔｗａｒｅ░（ａｎｄ░ｃｈａｒｇｅ░ｆｏｒ
+ｔｈｅｍ░ｉｆ░ｙｏｕ░ｗｉｓｈ），░ｔｈａｔ░ｙｏｕ░ｒｅｃｅｉｖｅ░ｓｏｕｒｃｅ░ｃｏｄｅ░ｏｒ░ｃａｎ░ｇｅｔ░ｉｔ░ｉｆ░ｙｏｕ
+ｗａｎｔ░ｉｔ，░ｔｈａｔ░ｙｏｕ░ｃａｎ░ｃｈａｎｇｅ░ｔｈｅ░ｓｏｆｔｗａｒｅ░ｏｒ░ｕｓｅ░ｐｉｅｃｅｓ░ｏｆ░ｉｔ░ｉｎ░ｎｅｗ
+ｆｒｅｅ░ｐｒｏｇｒａｍｓ，░ａｎｄ░ｔｈａｔ░ｙｏｕ░ｋｎｏｗ░ｙｏｕ░ｃａｎ░ｄｏ░ｔｈｅｓｅ░ｔｈｉｎｇｓ．
+
+░░Ｄｅｖｅｌｏｐｅｒｓ░ｔｈａｔ░ｕｓｅ░ｏｕｒ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅｓ░ｐｒｏｔｅｃｔ░ｙｏｕｒ░ｒｉｇｈｔｓ
+ｗｉｔｈ░ｔｗｏ░ｓｔｅｐｓ：░（１）░ａｓｓｅｒｔ░ｃｏｐｙｒｉｇｈｔ░ｏｎ░ｔｈｅ░ｓｏｆｔｗａｒｅ，░ａｎｄ░（２）░ｏｆｆｅｒ
+ｙｏｕ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ｗｈｉｃｈ░ｇｉｖｅｓ░ｙｏｕ░ｌｅｇａｌ░ｐｅｒｍｉｓｓｉｏｎ░ｔｏ░ｃｏｐｙ，░ｄｉｓｔｒｉｂｕｔｅ
+ａｎｄ／ｏｒ░ｍｏｄｉｆｙ░ｔｈｅ░ｓｏｆｔｗａｒｅ．
+
+░░Λ░ｓｅｃｏｎｄａｒｙ░ｂｅｎｅｆｉｔ░ｏｆ░ｄｅｆｅｎｄｉｎｇ░ａｌｌ░ｕｓｅｒｓ＇░ｆｒｅｅｄｏｍ░ｉｓ░ｔｈａｔ
+ｉｍｐｒｏｖｅｍｅｎｔｓ░ｍａｄｅ░ｉｎ░ａｌｔｅｒｎａｔｅ░ｖｅｒｓｉｏｎｓ░ｏｆ░ｔｈｅ░ｐｒｏｇｒａｍ，░ｉｆ░ｔｈｅｙ
+ｒｅｃｅｉｖｅ░ｗｉｄｅｓｐｒｅａｄ░ｕｓｅ，░ｂｅｃｏｍｅ░ａｖａｉｌａｂｌｅ░ｆｏｒ░ｏｔｈｅｒ░ｄｅｖｅｌｏｐｅｒｓ░ｔｏ
+ｉｎｃｏｒｐｏｒａｔｅ．░░Ｍａｎｙ░ｄｅｖｅｌｏｐｅｒｓ░ｏｆ░ｆｒｅｅ░ｓｏｆｔｗａｒｅ░ａｒｅ░ｈｅａｒｔｅｎｅｄ░ａｎｄ
+ｅｎｃｏｕｒａｇｅｄ░ｂｙ░ｔｈｅ░ｒｅｓｕｌｔｉｎｇ░ｃｏｏｐｅｒａｔｉｏｎ．░░Ｈｏｗｅｖｅｒ，░ｉｎ░ｔｈｅ░ｃａｓｅ░ｏｆ
+ｓｏｆｔｗａｒｅ░ｕｓｅｄ░ｏｎ░ｎｅｔｗｏｒｋ░ｓｅｒｖｅｒｓ，░ｔｈｉｓ░ｒｅｓｕｌｔ░ｍａｙ░ｆａｉｌ░ｔｏ░ｃｏｍｅ░ａｂｏｕｔ．
+Ｔｈｅ░ＧＮＵ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅ░ｐｅｒｍｉｔｓ░ｍａｋｉｎｇ░ａ░ｍｏｄｉｆｉｅｄ░ｖｅｒｓｉｏｎ░ａｎｄ
+ｌｅｔｔｉｎｇ░ｔｈｅ░ｐｕｂｌｉｃ░ａｃｃｅｓｓ░ｉｔ░ｏｎ░ａ░ｓｅｒｖｅｒ░ｗｉｔｈｏｕｔ░ｅｖｅｒ░ｒｅｌｅａｓｉｎｇ░ｉｔｓ
+ｓｏｕｒｃｅ░ｃｏｄｅ░ｔｏ░ｔｈｅ░ｐｕｂｌｉｃ．
+
+░░Ｔｈｅ░ＧＮＵ░Λｆｆｅｒｏ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅ░ｉｓ░ｄｅｓｉｇｎｅｄ░ｓｐｅｃｉｆｉｃａｌｌｙ░ｔｏ
+ｅｎｓｕｒｅ░ｔｈａｔ，░ｉｎ░ｓｕｃｈ░ｃａｓｅｓ，░ｔｈｅ░ｍｏｄｉｆｉｅｄ░ｓｏｕｒｃｅ░ｃｏｄｅ░ｂｅｃｏｍｅｓ░ａｖａｉｌａｂｌｅ
+ｔｏ░ｔｈｅ░ｃｏｍｍｕｎｉｔｙ．░░Ｉｔ░ｒｅｑｕｉｒｅｓ░ｔｈｅ░ｏｐｅｒａｔｏｒ░ｏｆ░ａ░ｎｅｔｗｏｒｋ░ｓｅｒｖｅｒ░ｔｏ
+ｐｒｏｖｉｄｅ░ｔｈｅ░ｓｏｕｒｃｅ░ｃｏｄｅ░ｏｆ░ｔｈｅ░ｍｏｄｉｆｉｅｄ░ｖｅｒｓｉｏｎ░ｒｕｎｎｉｎｇ░ｔｈｅｒｅ░ｔｏ░ｔｈｅ
+ｕｓｅｒｓ░ｏｆ░ｔｈａｔ░ｓｅｒｖｅｒ．░░Ｔｈｅｒｅｆｏｒｅ，░ｐｕｂｌｉｃ░ｕｓｅ░ｏｆ░ａ░ｍｏｄｉｆｉｅｄ░ｖｅｒｓｉｏｎ，░ｏｎ
+ａ░ｐｕｂｌｉｃｌｙ░ａｃｃｅｓｓｉｂｌｅ░ｓｅｒｖｅｒ，░ｇｉｖｅｓ░ｔｈｅ░ｐｕｂｌｉｃ░ａｃｃｅｓｓ░ｔｏ░ｔｈｅ░ｓｏｕｒｃｅ
+ｃｏｄｅ░ｏｆ░ｔｈｅ░ｍｏｄｉｆｉｅｄ░ｖｅｒｓｉｏｎ．
+
+░░Λｎ░ｏｌｄｅｒ░ｌｉｃｅｎｓｅ，░ｃａｌｌｅｄ░ｔｈｅ░Λｆｆｅｒｏ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅ░ａｎｄ
+ｐｕｂｌｉｓｈｅｄ░ｂｙ░Λｆｆｅｒｏ，░ｗａｓ░ｄｅｓｉｇｎｅｄ░ｔｏ░ａｃｃｏｍｐｌｉｓｈ░ｓｉｍｉｌａｒ░ｇｏａｌｓ．░░Ｔｈｉｓ░ｉｓ
+ａ░ｄｉｆｆｅｒｅｎｔ░ｌｉｃｅｎｓｅ，░ｎｏｔ░ａ░ｖｅｒｓｉｏｎ░ｏｆ░ｔｈｅ░Λｆｆｅｒｏ░ＧＰＬ，░ｂｕｔ░Λｆｆｅｒｏ░ｈａｓ
+ｒｅｌｅａｓｅｄ░ａ░ｎｅｗ░ｖｅｒｓｉｏｎ░ｏｆ░ｔｈｅ░Λｆｆｅｒｏ░ＧＰＬ░ｗｈｉｃｈ░ｐｅｒｍｉｔｓ░ｒｅｌｉｃｅｎｓｉｎｇ░ｕｎｄｅｒ
+ｔｈｉｓ░ｌｉｃｅｎｓｅ．
+
+░░Ｔｈｅ░ｐｒｅｃｉｓｅ░ｔｅｒｍｓ░ａｎｄ░ｃｏｎｄｉｔｉｏｎｓ░ｆｏｒ░ｃｏｐｙｉｎｇ，░ｄｉｓｔｒｉｂｕｔｉｏｎ░ａｎｄ
+ｍｏｄｉｆｉｃａｔｉｏｎ░ｆｏｌｌｏｗ．
+
+░░░░░░░░░░░░░░░░░░░░░░░ＴΞＲＭＳ░ΛＮＤ░Ｃ♢ＮＤＩＴＩ♢ＮＳ
+
+░░０．░Ｄｅｆｉｎｉｔｉｏｎｓ．
+
+░░"Ｔｈｉｓ░Ｌｉｃｅｎｓｅ"░ｒｅｆｅｒｓ░ｔｏ░ｖｅｒｓｉｏｎ░３░ｏｆ░ｔｈｅ░ＧＮＵ░Λｆｆｅｒｏ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅ．
+
+░░"Ｃｏｐｙｒｉｇｈｔ"░ａｌｓｏ░ｍｅａｎｓ░ｃｏｐｙｒｉｇｈｔ－ｌｉｋｅ░ｌａｗｓ░ｔｈａｔ░ａｐｐｌｙ░ｔｏ░ｏｔｈｅｒ░ｋｉｎｄｓ░ｏｆ
+ｗｏｒｋｓ，░ｓｕｃｈ░ａｓ░ｓｅｍｉｃｏｎｄｕｃｔｏｒ░ｍａｓｋｓ．
+
+░░"Ｔｈｅ░Ｐｒｏｇｒａｍ"░ｒｅｆｅｒｓ░ｔｏ░ａｎｙ░ｃｏｐｙｒｉｇｈｔａｂｌｅ░ｗｏｒｋ░ｌｉｃｅｎｓｅｄ░ｕｎｄｅｒ░ｔｈｉｓ
+Ｌｉｃｅｎｓｅ．░░Ξａｃｈ░ｌｉｃｅｎｓｅｅ░ｉｓ░ａｄｄｒｅｓｓｅｄ░ａｓ░"ｙｏｕ"．░░"Ｌｉｃｅｎｓｅｅｓ"░ａｎｄ
+"ｒｅｃｉｐｉｅｎｔｓ"░ｍａｙ░ｂｅ░ｉｎｄｉｖｉｄｕａｌｓ░ｏｒ░ｏｒｇａｎｉｚａｔｉｏｎｓ．
+
+░░Ｔｏ░"ｍｏｄｉｆｙ"░ａ░ｗｏｒｋ░ｍｅａｎｓ░ｔｏ░ｃｏｐｙ░ｆｒｏｍ░ｏｒ░ａｄａｐｔ░ａｌｌ░ｏｒ░ｐａｒｔ░ｏｆ░ｔｈｅ░ｗｏｒｋ
+ｉｎ░ａ░ｆａｓｈｉｏｎ░ｒｅｑｕｉｒｉｎｇ░ｃｏｐｙｒｉｇｈｔ░ｐｅｒｍｉｓｓｉｏｎ，░ｏｔｈｅｒ░ｔｈａｎ░ｔｈｅ░ｍａｋｉｎｇ░ｏｆ░ａｎ
+ｅｘａｃｔ░ｃｏｐｙ．░░Ｔｈｅ░ｒｅｓｕｌｔｉｎｇ░ｗｏｒｋ░ｉｓ░ｃａｌｌｅｄ░ａ░"ｍｏｄｉｆｉｅｄ░ｖｅｒｓｉｏｎ"░ｏｆ░ｔｈｅ
+ｅａｒｌｉｅｒ░ｗｏｒｋ░ｏｒ░ａ░ｗｏｒｋ░"ｂａｓｅｄ░ｏｎ"░ｔｈｅ░ｅａｒｌｉｅｒ░ｗｏｒｋ．
+
+░░Λ░"ｃｏｖｅｒｅｄ░ｗｏｒｋ"░ｍｅａｎｓ░ｅｉｔｈｅｒ░ｔｈｅ░ｕｎｍｏｄｉｆｉｅｄ░Ｐｒｏｇｒａｍ░ｏｒ░ａ░ｗｏｒｋ░ｂａｓｅｄ
+ｏｎ░ｔｈｅ░Ｐｒｏｇｒａｍ．
+
+░░Ｔｏ░"ｐｒｏｐａｇａｔｅ"░ａ░ｗｏｒｋ░ｍｅａｎｓ░ｔｏ░ｄｏ░ａｎｙｔｈｉｎｇ░ｗｉｔｈ░ｉｔ░ｔｈａｔ，░ｗｉｔｈｏｕｔ
+ｐｅｒｍｉｓｓｉｏｎ，░ｗｏｕｌｄ░ｍａｋｅ░ｙｏｕ░ｄｉｒｅｃｔｌｙ░ｏｒ░ｓｅｃｏｎｄａｒｉｌｙ░ｌｉａｂｌｅ░ｆｏｒ
+ｉｎｆｒｉｎｇｅｍｅｎｔ░ｕｎｄｅｒ░ａｐｐｌｉｃａｂｌｅ░ｃｏｐｙｒｉｇｈｔ░ｌａｗ，░ｅｘｃｅｐｔ░ｅｘｅｃｕｔｉｎｇ░ｉｔ░ｏｎ░ａ
+ｃｏｍｐｕｔｅｒ░ｏｒ░ｍｏｄｉｆｙｉｎｇ░ａ░ｐｒｉｖａｔｅ░ｃｏｐｙ．░░Ｐｒｏｐａｇａｔｉｏｎ░ｉｎｃｌｕｄｅｓ░ｃｏｐｙｉｎｇ，
+ｄｉｓｔｒｉｂｕｔｉｏｎ░（ｗｉｔｈ░ｏｒ░ｗｉｔｈｏｕｔ░ｍｏｄｉｆｉｃａｔｉｏｎ），░ｍａｋｉｎｇ░ａｖａｉｌａｂｌｅ░ｔｏ░ｔｈｅ
+ｐｕｂｌｉｃ，░ａｎｄ░ｉｎ░ｓｏｍｅ░ｃｏｕｎｔｒｉｅｓ░ｏｔｈｅｒ░ａｃｔｉｖｉｔｉｅｓ░ａｓ░ｗｅｌｌ．
+
+░░Ｔｏ░"ｃｏｎｖｅｙ"░ａ░ｗｏｒｋ░ｍｅａｎｓ░ａｎｙ░ｋｉｎｄ░ｏｆ░ｐｒｏｐａｇａｔｉｏｎ░ｔｈａｔ░ｅｎａｂｌｅｓ░ｏｔｈｅｒ
+ｐａｒｔｉｅｓ░ｔｏ░ｍａｋｅ░ｏｒ░ｒｅｃｅｉｖｅ░ｃｏｐｉｅｓ．░░Ｍｅｒｅ░ｉｎｔｅｒａｃｔｉｏｎ░ｗｉｔｈ░ａ░ｕｓｅｒ░ｔｈｒｏｕｇｈ
+ａ░ｃｏｍｐｕｔｅｒ░ｎｅｔｗｏｒｋ，░ｗｉｔｈ░ｎｏ░ｔｒａｎｓｆｅｒ░ｏｆ░ａ░ｃｏｐｙ，░ｉｓ░ｎｏｔ░ｃｏｎｖｅｙｉｎｇ．
+
+░░Λｎ░ｉｎｔｅｒａｃｔｉｖｅ░ｕｓｅｒ░ｉｎｔｅｒｆａｃｅ░ｄｉｓｐｌａｙｓ░"Λｐｐｒｏｐｒｉａｔｅ░Ｌｅｇａｌ░Ｎｏｔｉｃｅｓ"
+ｔｏ░ｔｈｅ░ｅｘｔｅｎｔ░ｔｈａｔ░ｉｔ░ｉｎｃｌｕｄｅｓ░ａ░ｃｏｎｖｅｎｉｅｎｔ░ａｎｄ░ｐｒｏｍｉｎｅｎｔｌｙ░ｖｉｓｉｂｌｅ
+ｆｅａｔｕｒｅ░ｔｈａｔ░（１）░ｄｉｓｐｌａｙｓ░ａｎ░ａｐｐｒｏｐｒｉａｔｅ░ｃｏｐｙｒｉｇｈｔ░ｎｏｔｉｃｅ，░ａｎｄ░（２）
+ｔｅｌｌｓ░ｔｈｅ░ｕｓｅｒ░ｔｈａｔ░ｔｈｅｒｅ░ｉｓ░ｎｏ░ｗａｒｒａｎｔｙ░ｆｏｒ░ｔｈｅ░ｗｏｒｋ░（ｅｘｃｅｐｔ░ｔｏ░ｔｈｅ
+ｅｘｔｅｎｔ░ｔｈａｔ░ｗａｒｒａｎｔｉｅｓ░ａｒｅ░ｐｒｏｖｉｄｅｄ），░ｔｈａｔ░ｌｉｃｅｎｓｅｅｓ░ｍａｙ░ｃｏｎｖｅｙ░ｔｈｅ
+ｗｏｒｋ░ｕｎｄｅｒ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ，░ａｎｄ░ｈｏｗ░ｔｏ░ｖｉｅｗ░ａ░ｃｏｐｙ░ｏｆ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ．░░Ｉｆ
+ｔｈｅ░ｉｎｔｅｒｆａｃｅ░ｐｒｅｓｅｎｔｓ░ａ░ｌｉｓｔ░ｏｆ░ｕｓｅｒ░ｃｏｍｍａｎｄｓ░ｏｒ░ｏｐｔｉｏｎｓ，░ｓｕｃｈ░ａｓ░ａ
+ｍｅｎｕ，░ａ░ｐｒｏｍｉｎｅｎｔ░ｉｔｅｍ░ｉｎ░ｔｈｅ░ｌｉｓｔ░ｍｅｅｔｓ░ｔｈｉｓ░ｃｒｉｔｅｒｉｏｎ．
+
+░░１．░Ｓｏｕｒｃｅ░Ｃｏｄｅ．
+
+░░Ｔｈｅ░"ｓｏｕｒｃｅ░ｃｏｄｅ"░ｆｏｒ░ａ░ｗｏｒｋ░ｍｅａｎｓ░ｔｈｅ░ｐｒｅｆｅｒｒｅｄ░ｆｏｒｍ░ｏｆ░ｔｈｅ░ｗｏｒｋ
+ｆｏｒ░ｍａｋｉｎｇ░ｍｏｄｉｆｉｃａｔｉｏｎｓ░ｔｏ░ｉｔ．░░"♢ｂｊｅｃｔ░ｃｏｄｅ"░ｍｅａｎｓ░ａｎｙ░ｎｏｎ－ｓｏｕｒｃｅ
+ｆｏｒｍ░ｏｆ░ａ░ｗｏｒｋ．
+
+░░Λ░"Ｓｔａｎｄａｒｄ░Ｉｎｔｅｒｆａｃｅ"░ｍｅａｎｓ░ａｎ░ｉｎｔｅｒｆａｃｅ░ｔｈａｔ░ｅｉｔｈｅｒ░ｉｓ░ａｎ░ｏｆｆｉｃｉａｌ
+ｓｔａｎｄａｒｄ░ｄｅｆｉｎｅｄ░ｂｙ░ａ░ｒｅｃｏｇｎｉｚｅｄ░ｓｔａｎｄａｒｄｓ░ｂｏｄｙ，░ｏｒ，░ｉｎ░ｔｈｅ░ｃａｓｅ░ｏｆ
+ｉｎｔｅｒｆａｃｅｓ░ｓｐｅｃｉｆｉｅｄ░ｆｏｒ░ａ░ｐａｒｔｉｃｕｌａｒ░ｐｒｏｇｒａｍｍｉｎｇ░ｌａｎｇｕａｇｅ，░ｏｎｅ░ｔｈａｔ
+ｉｓ░ｗｉｄｅｌｙ░ｕｓｅｄ░ａｍｏｎｇ░ｄｅｖｅｌｏｐｅｒｓ░ｗｏｒｋｉｎｇ░ｉｎ░ｔｈａｔ░ｌａｎｇｕａｇｅ．
+
+░░Ｔｈｅ░"Ｓｙｓｔｅｍ░Ｌｉｂｒａｒｉｅｓ"░ｏｆ░ａｎ░ｅｘｅｃｕｔａｂｌｅ░ｗｏｒｋ░ｉｎｃｌｕｄｅ░ａｎｙｔｈｉｎｇ，░ｏｔｈｅｒ
+ｔｈａｎ░ｔｈｅ░ｗｏｒｋ░ａｓ░ａ░ｗｈｏｌｅ，░ｔｈａｔ░（ａ）░ｉｓ░ｉｎｃｌｕｄｅｄ░ｉｎ░ｔｈｅ░ｎｏｒｍａｌ░ｆｏｒｍ░ｏｆ
+ｐａｃｋａｇｉｎｇ░ａ░Ｍａｊｏｒ░Ｃｏｍｐｏｎｅｎｔ，░ｂｕｔ░ｗｈｉｃｈ░ｉｓ░ｎｏｔ░ｐａｒｔ░ｏｆ░ｔｈａｔ░Ｍａｊｏｒ
+Ｃｏｍｐｏｎｅｎｔ，░ａｎｄ░（ｂ）░ｓｅｒｖｅｓ░ｏｎｌｙ░ｔｏ░ｅｎａｂｌｅ░ｕｓｅ░ｏｆ░ｔｈｅ░ｗｏｒｋ░ｗｉｔｈ░ｔｈａｔ
+Ｍａｊｏｒ░Ｃｏｍｐｏｎｅｎｔ，░ｏｒ░ｔｏ░ｉｍｐｌｅｍｅｎｔ░ａ░Ｓｔａｎｄａｒｄ░Ｉｎｔｅｒｆａｃｅ░ｆｏｒ░ｗｈｉｃｈ░ａｎ
+ｉｍｐｌｅｍｅｎｔａｔｉｏｎ░ｉｓ░ａｖａｉｌａｂｌｅ░ｔｏ░ｔｈｅ░ｐｕｂｌｉｃ░ｉｎ░ｓｏｕｒｃｅ░ｃｏｄｅ░ｆｏｒｍ．░░Λ
+"Ｍａｊｏｒ░Ｃｏｍｐｏｎｅｎｔ"，░ｉｎ░ｔｈｉｓ░ｃｏｎｔｅｘｔ，░ｍｅａｎｓ░ａ░ｍａｊｏｒ░ｅｓｓｅｎｔｉａｌ░ｃｏｍｐｏｎｅｎｔ
+（ｋｅｒｎｅｌ，░ｗｉｎｄｏｗ░ｓｙｓｔｅｍ，░ａｎｄ░ｓｏ░ｏｎ）░ｏｆ░ｔｈｅ░ｓｐｅｃｉｆｉｃ░ｏｐｅｒａｔｉｎｇ░ｓｙｓｔｅｍ
+（ｉｆ░ａｎｙ）░ｏｎ░ｗｈｉｃｈ░ｔｈｅ░ｅｘｅｃｕｔａｂｌｅ░ｗｏｒｋ░ｒｕｎｓ，░ｏｒ░ａ░ｃｏｍｐｉｌｅｒ░ｕｓｅｄ░ｔｏ
+ｐｒｏｄｕｃｅ░ｔｈｅ░ｗｏｒｋ，░ｏｒ░ａｎ░ｏｂｊｅｃｔ░ｃｏｄｅ░ｉｎｔｅｒｐｒｅｔｅｒ░ｕｓｅｄ░ｔｏ░ｒｕｎ░ｉｔ．
+
+░░Ｔｈｅ░"Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ"░ｆｏｒ░ａ░ｗｏｒｋ░ｉｎ░ｏｂｊｅｃｔ░ｃｏｄｅ░ｆｏｒｍ░ｍｅａｎｓ░ａｌｌ
+ｔｈｅ░ｓｏｕｒｃｅ░ｃｏｄｅ░ｎｅｅｄｅｄ░ｔｏ░ｇｅｎｅｒａｔｅ，░ｉｎｓｔａｌｌ，░ａｎｄ░（ｆｏｒ░ａｎ░ｅｘｅｃｕｔａｂｌｅ
+ｗｏｒｋ）░ｒｕｎ░ｔｈｅ░ｏｂｊｅｃｔ░ｃｏｄｅ░ａｎｄ░ｔｏ░ｍｏｄｉｆｙ░ｔｈｅ░ｗｏｒｋ，░ｉｎｃｌｕｄｉｎｇ░ｓｃｒｉｐｔｓ░ｔｏ
+ｃｏｎｔｒｏｌ░ｔｈｏｓｅ░ａｃｔｉｖｉｔｉｅｓ．░░Ｈｏｗｅｖｅｒ，░ｉｔ░ｄｏｅｓ░ｎｏｔ░ｉｎｃｌｕｄｅ░ｔｈｅ░ｗｏｒｋ＇ｓ
+Ｓｙｓｔｅｍ░Ｌｉｂｒａｒｉｅｓ，░ｏｒ░ｇｅｎｅｒａｌ－ｐｕｒｐｏｓｅ░ｔｏｏｌｓ░ｏｒ░ｇｅｎｅｒａｌｌｙ░ａｖａｉｌａｂｌｅ░ｆｒｅｅ
+ｐｒｏｇｒａｍｓ░ｗｈｉｃｈ░ａｒｅ░ｕｓｅｄ░ｕｎｍｏｄｉｆｉｅｄ░ｉｎ░ｐｅｒｆｏｒｍｉｎｇ░ｔｈｏｓｅ░ａｃｔｉｖｉｔｉｅｓ░ｂｕｔ
+ｗｈｉｃｈ░ａｒｅ░ｎｏｔ░ｐａｒｔ░ｏｆ░ｔｈｅ░ｗｏｒｋ．░░Ｆｏｒ░ｅｘａｍｐｌｅ，░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ
+ｉｎｃｌｕｄｅｓ░ｉｎｔｅｒｆａｃｅ░ｄｅｆｉｎｉｔｉｏｎ░ｆｉｌｅｓ░ａｓｓｏｃｉａｔｅｄ░ｗｉｔｈ░ｓｏｕｒｃｅ░ｆｉｌｅｓ░ｆｏｒ
+ｔｈｅ░ｗｏｒｋ，░ａｎｄ░ｔｈｅ░ｓｏｕｒｃｅ░ｃｏｄｅ░ｆｏｒ░ｓｈａｒｅｄ░ｌｉｂｒａｒｉｅｓ░ａｎｄ░ｄｙｎａｍｉｃａｌｌｙ
+ｌｉｎｋｅｄ░ｓｕｂｐｒｏｇｒａｍｓ░ｔｈａｔ░ｔｈｅ░ｗｏｒｋ░ｉｓ░ｓｐｅｃｉｆｉｃａｌｌｙ░ｄｅｓｉｇｎｅｄ░ｔｏ░ｒｅｑｕｉｒｅ，
+ｓｕｃｈ░ａｓ░ｂｙ░ｉｎｔｉｍａｔｅ░ｄａｔａ░ｃｏｍｍｕｎｉｃａｔｉｏｎ░ｏｒ░ｃｏｎｔｒｏｌ░ｆｌｏｗ░ｂｅｔｗｅｅｎ░ｔｈｏｓｅ
+ｓｕｂｐｒｏｇｒａｍｓ░ａｎｄ░ｏｔｈｅｒ░ｐａｒｔｓ░ｏｆ░ｔｈｅ░ｗｏｒｋ．
+
+░░Ｔｈｅ░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ░ｎｅｅｄ░ｎｏｔ░ｉｎｃｌｕｄｅ░ａｎｙｔｈｉｎｇ░ｔｈａｔ░ｕｓｅｒｓ
+ｃａｎ░ｒｅｇｅｎｅｒａｔｅ░ａｕｔｏｍａｔｉｃａｌｌｙ░ｆｒｏｍ░ｏｔｈｅｒ░ｐａｒｔｓ░ｏｆ░ｔｈｅ░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ
+Ｓｏｕｒｃｅ．
+
+░░Ｔｈｅ░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ░ｆｏｒ░ａ░ｗｏｒｋ░ｉｎ░ｓｏｕｒｃｅ░ｃｏｄｅ░ｆｏｒｍ░ｉｓ░ｔｈａｔ
+ｓａｍｅ░ｗｏｒｋ．
+
+░░２．░Ｂａｓｉｃ░Ｐｅｒｍｉｓｓｉｏｎｓ．
+
+░░Λｌｌ░ｒｉｇｈｔｓ░ｇｒａｎｔｅｄ░ｕｎｄｅｒ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ａｒｅ░ｇｒａｎｔｅｄ░ｆｏｒ░ｔｈｅ░ｔｅｒｍ░ｏｆ
+ｃｏｐｙｒｉｇｈｔ░ｏｎ░ｔｈｅ░Ｐｒｏｇｒａｍ，░ａｎｄ░ａｒｅ░ｉｒｒｅｖｏｃａｂｌｅ░ｐｒｏｖｉｄｅｄ░ｔｈｅ░ｓｔａｔｅｄ
+ｃｏｎｄｉｔｉｏｎｓ░ａｒｅ░ｍｅｔ．░░Ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ｅｘｐｌｉｃｉｔｌｙ░ａｆｆｉｒｍｓ░ｙｏｕｒ░ｕｎｌｉｍｉｔｅｄ
+ｐｅｒｍｉｓｓｉｏｎ░ｔｏ░ｒｕｎ░ｔｈｅ░ｕｎｍｏｄｉｆｉｅｄ░Ｐｒｏｇｒａｍ．░░Ｔｈｅ░ｏｕｔｐｕｔ░ｆｒｏｍ░ｒｕｎｎｉｎｇ░ａ
+ｃｏｖｅｒｅｄ░ｗｏｒｋ░ｉｓ░ｃｏｖｅｒｅｄ░ｂｙ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ｏｎｌｙ░ｉｆ░ｔｈｅ░ｏｕｔｐｕｔ，░ｇｉｖｅｎ░ｉｔｓ
+ｃｏｎｔｅｎｔ，░ｃｏｎｓｔｉｔｕｔｅｓ░ａ░ｃｏｖｅｒｅｄ░ｗｏｒｋ．░░Ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ａｃｋｎｏｗｌｅｄｇｅｓ░ｙｏｕｒ
+ｒｉｇｈｔｓ░ｏｆ░ｆａｉｒ░ｕｓｅ░ｏｒ░ｏｔｈｅｒ░ｅｑｕｉｖａｌｅｎｔ，░ａｓ░ｐｒｏｖｉｄｅｄ░ｂｙ░ｃｏｐｙｒｉｇｈｔ░ｌａｗ．
+
+░░Ｙｏｕ░ｍａｙ░ｍａｋｅ，░ｒｕｎ░ａｎｄ░ｐｒｏｐａｇａｔｅ░ｃｏｖｅｒｅｄ░ｗｏｒｋｓ░ｔｈａｔ░ｙｏｕ░ｄｏ░ｎｏｔ
+ｃｏｎｖｅｙ，░ｗｉｔｈｏｕｔ░ｃｏｎｄｉｔｉｏｎｓ░ｓｏ░ｌｏｎｇ░ａｓ░ｙｏｕｒ░ｌｉｃｅｎｓｅ░ｏｔｈｅｒｗｉｓｅ░ｒｅｍａｉｎｓ
+ｉｎ░ｆｏｒｃｅ．░░Ｙｏｕ░ｍａｙ░ｃｏｎｖｅｙ░ｃｏｖｅｒｅｄ░ｗｏｒｋｓ░ｔｏ░ｏｔｈｅｒｓ░ｆｏｒ░ｔｈｅ░ｓｏｌｅ░ｐｕｒｐｏｓｅ
+ｏｆ░ｈａｖｉｎｇ░ｔｈｅｍ░ｍａｋｅ░ｍｏｄｉｆｉｃａｔｉｏｎｓ░ｅｘｃｌｕｓｉｖｅｌｙ░ｆｏｒ░ｙｏｕ，░ｏｒ░ｐｒｏｖｉｄｅ░ｙｏｕ
+ｗｉｔｈ░ｆａｃｉｌｉｔｉｅｓ░ｆｏｒ░ｒｕｎｎｉｎｇ░ｔｈｏｓｅ░ｗｏｒｋｓ，░ｐｒｏｖｉｄｅｄ░ｔｈａｔ░ｙｏｕ░ｃｏｍｐｌｙ░ｗｉｔｈ
+ｔｈｅ░ｔｅｒｍｓ░ｏｆ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ｉｎ░ｃｏｎｖｅｙｉｎｇ░ａｌｌ░ｍａｔｅｒｉａｌ░ｆｏｒ░ｗｈｉｃｈ░ｙｏｕ░ｄｏ
+ｎｏｔ░ｃｏｎｔｒｏｌ░ｃｏｐｙｒｉｇｈｔ．░░Ｔｈｏｓｅ░ｔｈｕｓ░ｍａｋｉｎｇ░ｏｒ░ｒｕｎｎｉｎｇ░ｔｈｅ░ｃｏｖｅｒｅｄ░ｗｏｒｋｓ
+ｆｏｒ░ｙｏｕ░ｍｕｓｔ░ｄｏ░ｓｏ░ｅｘｃｌｕｓｉｖｅｌｙ░ｏｎ░ｙｏｕｒ░ｂｅｈａｌｆ，░ｕｎｄｅｒ░ｙｏｕｒ░ｄｉｒｅｃｔｉｏｎ
+ａｎｄ░ｃｏｎｔｒｏｌ，░ｏｎ░ｔｅｒｍｓ░ｔｈａｔ░ｐｒｏｈｉｂｉｔ░ｔｈｅｍ░ｆｒｏｍ░ｍａｋｉｎｇ░ａｎｙ░ｃｏｐｉｅｓ░ｏｆ
+ｙｏｕｒ░ｃｏｐｙｒｉｇｈｔｅｄ░ｍａｔｅｒｉａｌ░ｏｕｔｓｉｄｅ░ｔｈｅｉｒ░ｒｅｌａｔｉｏｎｓｈｉｐ░ｗｉｔｈ░ｙｏｕ．
+
+░░Ｃｏｎｖｅｙｉｎｇ░ｕｎｄｅｒ░ａｎｙ░ｏｔｈｅｒ░ｃｉｒｃｕｍｓｔａｎｃｅｓ░ｉｓ░ｐｅｒｍｉｔｔｅｄ░ｓｏｌｅｌｙ░ｕｎｄｅｒ
+ｔｈｅ░ｃｏｎｄｉｔｉｏｎｓ░ｓｔａｔｅｄ░ｂｅｌｏｗ．░░Ｓｕｂｌｉｃｅｎｓｉｎｇ░ｉｓ░ｎｏｔ░ａｌｌｏｗｅｄ；░ｓｅｃｔｉｏｎ░１０
+ｍａｋｅｓ░ｉｔ░ｕｎｎｅｃｅｓｓａｒｙ．
+
+░░３．░Ｐｒｏｔｅｃｔｉｎｇ░Ｕｓｅｒｓ＇░Ｌｅｇａｌ░Ｒｉｇｈｔｓ░Ｆｒｏｍ░Λｎｔｉ－Ｃｉｒｃｕｍｖｅｎｔｉｏｎ░Ｌａｗ．
+
+░░Ｎｏ░ｃｏｖｅｒｅｄ░ｗｏｒｋ░ｓｈａｌｌ░ｂｅ░ｄｅｅｍｅｄ░ｐａｒｔ░ｏｆ░ａｎ░ｅｆｆｅｃｔｉｖｅ░ｔｅｃｈｎｏｌｏｇｉｃａｌ
+ｍｅａｓｕｒｅ░ｕｎｄｅｒ░ａｎｙ░ａｐｐｌｉｃａｂｌｅ░ｌａｗ░ｆｕｌｆｉｌｌｉｎｇ░ｏｂｌｉｇａｔｉｏｎｓ░ｕｎｄｅｒ░ａｒｔｉｃｌｅ
+１１░ｏｆ░ｔｈｅ░ＷＩＰ♢░ｃｏｐｙｒｉｇｈｔ░ｔｒｅａｔｙ░ａｄｏｐｔｅｄ░ｏｎ░２０░Ｄｅｃｅｍｂｅｒ░１９９６，░ｏｒ
+ｓｉｍｉｌａｒ░ｌａｗｓ░ｐｒｏｈｉｂｉｔｉｎｇ░ｏｒ░ｒｅｓｔｒｉｃｔｉｎｇ░ｃｉｒｃｕｍｖｅｎｔｉｏｎ░ｏｆ░ｓｕｃｈ
+ｍｅａｓｕｒｅｓ．
+
+░░Ｗｈｅｎ░ｙｏｕ░ｃｏｎｖｅｙ░ａ░ｃｏｖｅｒｅｄ░ｗｏｒｋ，░ｙｏｕ░ｗａｉｖｅ░ａｎｙ░ｌｅｇａｌ░ｐｏｗｅｒ░ｔｏ░ｆｏｒｂｉｄ
+ｃｉｒｃｕｍｖｅｎｔｉｏｎ░ｏｆ░ｔｅｃｈｎｏｌｏｇｉｃａｌ░ｍｅａｓｕｒｅｓ░ｔｏ░ｔｈｅ░ｅｘｔｅｎｔ░ｓｕｃｈ░ｃｉｒｃｕｍｖｅｎｔｉｏｎ
+ｉｓ░ｅｆｆｅｃｔｅｄ░ｂｙ░ｅｘｅｒｃｉｓｉｎｇ░ｒｉｇｈｔｓ░ｕｎｄｅｒ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ｗｉｔｈ░ｒｅｓｐｅｃｔ░ｔｏ
+ｔｈｅ░ｃｏｖｅｒｅｄ░ｗｏｒｋ，░ａｎｄ░ｙｏｕ░ｄｉｓｃｌａｉｍ░ａｎｙ░ｉｎｔｅｎｔｉｏｎ░ｔｏ░ｌｉｍｉｔ░ｏｐｅｒａｔｉｏｎ░ｏｒ
+ｍｏｄｉｆｉｃａｔｉｏｎ░ｏｆ░ｔｈｅ░ｗｏｒｋ░ａｓ░ａ░ｍｅａｎｓ░ｏｆ░ｅｎｆｏｒｃｉｎｇ，░ａｇａｉｎｓｔ░ｔｈｅ░ｗｏｒｋ＇ｓ
+ｕｓｅｒｓ，░ｙｏｕｒ░ｏｒ░ｔｈｉｒｄ░ｐａｒｔｉｅｓ＇░ｌｅｇａｌ░ｒｉｇｈｔｓ░ｔｏ░ｆｏｒｂｉｄ░ｃｉｒｃｕｍｖｅｎｔｉｏｎ░ｏｆ
+ｔｅｃｈｎｏｌｏｇｉｃａｌ░ｍｅａｓｕｒｅｓ．
+
+░░４．░Ｃｏｎｖｅｙｉｎｇ░Ｖｅｒｂａｔｉｍ░Ｃｏｐｉｅｓ．
+
+░░Ｙｏｕ░ｍａｙ░ｃｏｎｖｅｙ░ｖｅｒｂａｔｉｍ░ｃｏｐｉｅｓ░ｏｆ░ｔｈｅ░Ｐｒｏｇｒａｍ＇ｓ░ｓｏｕｒｃｅ░ｃｏｄｅ░ａｓ░ｙｏｕ
+ｒｅｃｅｉｖｅ░ｉｔ，░ｉｎ░ａｎｙ░ｍｅｄｉｕｍ，░ｐｒｏｖｉｄｅｄ░ｔｈａｔ░ｙｏｕ░ｃｏｎｓｐｉｃｕｏｕｓｌｙ░ａｎｄ
+ａｐｐｒｏｐｒｉａｔｅｌｙ░ｐｕｂｌｉｓｈ░ｏｎ░ｅａｃｈ░ｃｏｐｙ░ａｎ░ａｐｐｒｏｐｒｉａｔｅ░ｃｏｐｙｒｉｇｈｔ░ｎｏｔｉｃｅ；
+ｋｅｅｐ░ｉｎｔａｃｔ░ａｌｌ░ｎｏｔｉｃｅｓ░ｓｔａｔｉｎｇ░ｔｈａｔ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ａｎｄ░ａｎｙ
+ｎｏｎ－ｐｅｒｍｉｓｓｉｖｅ░ｔｅｒｍｓ░ａｄｄｅｄ░ｉｎ░ａｃｃｏｒｄ░ｗｉｔｈ░ｓｅｃｔｉｏｎ░７░ａｐｐｌｙ░ｔｏ░ｔｈｅ░ｃｏｄｅ；
+ｋｅｅｐ░ｉｎｔａｃｔ░ａｌｌ░ｎｏｔｉｃｅｓ░ｏｆ░ｔｈｅ░ａｂｓｅｎｃｅ░ｏｆ░ａｎｙ░ｗａｒｒａｎｔｙ；░ａｎｄ░ｇｉｖｅ░ａｌｌ
+ｒｅｃｉｐｉｅｎｔｓ░ａ░ｃｏｐｙ░ｏｆ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ａｌｏｎｇ░ｗｉｔｈ░ｔｈｅ░Ｐｒｏｇｒａｍ．
+
+░░Ｙｏｕ░ｍａｙ░ｃｈａｒｇｅ░ａｎｙ░ｐｒｉｃｅ░ｏｒ░ｎｏ░ｐｒｉｃｅ░ｆｏｒ░ｅａｃｈ░ｃｏｐｙ░ｔｈａｔ░ｙｏｕ░ｃｏｎｖｅｙ，
+ａｎｄ░ｙｏｕ░ｍａｙ░ｏｆｆｅｒ░ｓｕｐｐｏｒｔ░ｏｒ░ｗａｒｒａｎｔｙ░ｐｒｏｔｅｃｔｉｏｎ░ｆｏｒ░ａ░ｆｅｅ．
+
+░░５．░Ｃｏｎｖｅｙｉｎｇ░Ｍｏｄｉｆｉｅｄ░Ｓｏｕｒｃｅ░Ｖｅｒｓｉｏｎｓ．
+
+░░Ｙｏｕ░ｍａｙ░ｃｏｎｖｅｙ░ａ░ｗｏｒｋ░ｂａｓｅｄ░ｏｎ░ｔｈｅ░Ｐｒｏｇｒａｍ，░ｏｒ░ｔｈｅ░ｍｏｄｉｆｉｃａｔｉｏｎｓ░ｔｏ
+ｐｒｏｄｕｃｅ░ｉｔ░ｆｒｏｍ░ｔｈｅ░Ｐｒｏｇｒａｍ，░ｉｎ░ｔｈｅ░ｆｏｒｍ░ｏｆ░ｓｏｕｒｃｅ░ｃｏｄｅ░ｕｎｄｅｒ░ｔｈｅ
+ｔｅｒｍｓ░ｏｆ░ｓｅｃｔｉｏｎ░４，░ｐｒｏｖｉｄｅｄ░ｔｈａｔ░ｙｏｕ░ａｌｓｏ░ｍｅｅｔ░ａｌｌ░ｏｆ░ｔｈｅｓｅ░ｃｏｎｄｉｔｉｏｎｓ：
+
+░░░░ａ）░Ｔｈｅ░ｗｏｒｋ░ｍｕｓｔ░ｃａｒｒｙ░ｐｒｏｍｉｎｅｎｔ░ｎｏｔｉｃｅｓ░ｓｔａｔｉｎｇ░ｔｈａｔ░ｙｏｕ░ｍｏｄｉｆｉｅｄ
+░░░░ｉｔ，░ａｎｄ░ｇｉｖｉｎｇ░ａ░ｒｅｌｅｖａｎｔ░ｄａｔｅ．
+
+░░░░ｂ）░Ｔｈｅ░ｗｏｒｋ░ｍｕｓｔ░ｃａｒｒｙ░ｐｒｏｍｉｎｅｎｔ░ｎｏｔｉｃｅｓ░ｓｔａｔｉｎｇ░ｔｈａｔ░ｉｔ░ｉｓ
+░░░░ｒｅｌｅａｓｅｄ░ｕｎｄｅｒ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ａｎｄ░ａｎｙ░ｃｏｎｄｉｔｉｏｎｓ░ａｄｄｅｄ░ｕｎｄｅｒ░ｓｅｃｔｉｏｎ
+░░░░７．░░Ｔｈｉｓ░ｒｅｑｕｉｒｅｍｅｎｔ░ｍｏｄｉｆｉｅｓ░ｔｈｅ░ｒｅｑｕｉｒｅｍｅｎｔ░ｉｎ░ｓｅｃｔｉｏｎ░４░ｔｏ
+░░░░"ｋｅｅｐ░ｉｎｔａｃｔ░ａｌｌ░ｎｏｔｉｃｅｓ"．
+
+░░░░ｃ）░Ｙｏｕ░ｍｕｓｔ░ｌｉｃｅｎｓｅ░ｔｈｅ░ｅｎｔｉｒｅ░ｗｏｒｋ，░ａｓ░ａ░ｗｈｏｌｅ，░ｕｎｄｅｒ░ｔｈｉｓ
+░░░░Ｌｉｃｅｎｓｅ░ｔｏ░ａｎｙｏｎｅ░ｗｈｏ░ｃｏｍｅｓ░ｉｎｔｏ░ｐｏｓｓｅｓｓｉｏｎ░ｏｆ░ａ░ｃｏｐｙ．░░Ｔｈｉｓ
+░░░░Ｌｉｃｅｎｓｅ░ｗｉｌｌ░ｔｈｅｒｅｆｏｒｅ░ａｐｐｌｙ，░ａｌｏｎｇ░ｗｉｔｈ░ａｎｙ░ａｐｐｌｉｃａｂｌｅ░ｓｅｃｔｉｏｎ░７
+░░░░ａｄｄｉｔｉｏｎａｌ░ｔｅｒｍｓ，░ｔｏ░ｔｈｅ░ｗｈｏｌｅ░ｏｆ░ｔｈｅ░ｗｏｒｋ，░ａｎｄ░ａｌｌ░ｉｔｓ░ｐａｒｔｓ，
+░░░░ｒｅｇａｒｄｌｅｓｓ░ｏｆ░ｈｏｗ░ｔｈｅｙ░ａｒｅ░ｐａｃｋａｇｅｄ．░░Ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ｇｉｖｅｓ░ｎｏ
+░░░░ｐｅｒｍｉｓｓｉｏｎ░ｔｏ░ｌｉｃｅｎｓｅ░ｔｈｅ░ｗｏｒｋ░ｉｎ░ａｎｙ░ｏｔｈｅｒ░ｗａｙ，░ｂｕｔ░ｉｔ░ｄｏｅｓ░ｎｏｔ
+░░░░ｉｎｖａｌｉｄａｔｅ░ｓｕｃｈ░ｐｅｒｍｉｓｓｉｏｎ░ｉｆ░ｙｏｕ░ｈａｖｅ░ｓｅｐａｒａｔｅｌｙ░ｒｅｃｅｉｖｅｄ░ｉｔ．
+
+░░░░ｄ）░Ｉｆ░ｔｈｅ░ｗｏｒｋ░ｈａｓ░ｉｎｔｅｒａｃｔｉｖｅ░ｕｓｅｒ░ｉｎｔｅｒｆａｃｅｓ，░ｅａｃｈ░ｍｕｓｔ░ｄｉｓｐｌａｙ
+░░░░Λｐｐｒｏｐｒｉａｔｅ░Ｌｅｇａｌ░Ｎｏｔｉｃｅｓ；░ｈｏｗｅｖｅｒ，░ｉｆ░ｔｈｅ░Ｐｒｏｇｒａｍ░ｈａｓ░ｉｎｔｅｒａｃｔｉｖｅ
+░░░░ｉｎｔｅｒｆａｃｅｓ░ｔｈａｔ░ｄｏ░ｎｏｔ░ｄｉｓｐｌａｙ░Λｐｐｒｏｐｒｉａｔｅ░Ｌｅｇａｌ░Ｎｏｔｉｃｅｓ，░ｙｏｕｒ
+░░░░ｗｏｒｋ░ｎｅｅｄ░ｎｏｔ░ｍａｋｅ░ｔｈｅｍ░ｄｏ░ｓｏ．
+
+░░Λ░ｃｏｍｐｉｌａｔｉｏｎ░ｏｆ░ａ░ｃｏｖｅｒｅｄ░ｗｏｒｋ░ｗｉｔｈ░ｏｔｈｅｒ░ｓｅｐａｒａｔｅ░ａｎｄ░ｉｎｄｅｐｅｎｄｅｎｔ
+ｗｏｒｋｓ，░ｗｈｉｃｈ░ａｒｅ░ｎｏｔ░ｂｙ░ｔｈｅｉｒ░ｎａｔｕｒｅ░ｅｘｔｅｎｓｉｏｎｓ░ｏｆ░ｔｈｅ░ｃｏｖｅｒｅｄ░ｗｏｒｋ，
+ａｎｄ░ｗｈｉｃｈ░ａｒｅ░ｎｏｔ░ｃｏｍｂｉｎｅｄ░ｗｉｔｈ░ｉｔ░ｓｕｃｈ░ａｓ░ｔｏ░ｆｏｒｍ░ａ░ｌａｒｇｅｒ░ｐｒｏｇｒａｍ，
+ｉｎ░ｏｒ░ｏｎ░ａ░ｖｏｌｕｍｅ░ｏｆ░ａ░ｓｔｏｒａｇｅ░ｏｒ░ｄｉｓｔｒｉｂｕｔｉｏｎ░ｍｅｄｉｕｍ，░ｉｓ░ｃａｌｌｅｄ░ａｎ
+"ａｇｇｒｅｇａｔｅ"░ｉｆ░ｔｈｅ░ｃｏｍｐｉｌａｔｉｏｎ░ａｎｄ░ｉｔｓ░ｒｅｓｕｌｔｉｎｇ░ｃｏｐｙｒｉｇｈｔ░ａｒｅ░ｎｏｔ
+ｕｓｅｄ░ｔｏ░ｌｉｍｉｔ░ｔｈｅ░ａｃｃｅｓｓ░ｏｒ░ｌｅｇａｌ░ｒｉｇｈｔｓ░ｏｆ░ｔｈｅ░ｃｏｍｐｉｌａｔｉｏｎ＇ｓ░ｕｓｅｒｓ
+ｂｅｙｏｎｄ░ｗｈａｔ░ｔｈｅ░ｉｎｄｉｖｉｄｕａｌ░ｗｏｒｋｓ░ｐｅｒｍｉｔ．░░Ｉｎｃｌｕｓｉｏｎ░ｏｆ░ａ░ｃｏｖｅｒｅｄ░ｗｏｒｋ
+ｉｎ░ａｎ░ａｇｇｒｅｇａｔｅ░ｄｏｅｓ░ｎｏｔ░ｃａｕｓｅ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ｔｏ░ａｐｐｌｙ░ｔｏ░ｔｈｅ░ｏｔｈｅｒ
+ｐａｒｔｓ░ｏｆ░ｔｈｅ░ａｇｇｒｅｇａｔｅ．
+
+░░６．░Ｃｏｎｖｅｙｉｎｇ░Ｎｏｎ－Ｓｏｕｒｃｅ░Ｆｏｒｍｓ．
+
+░░Ｙｏｕ░ｍａｙ░ｃｏｎｖｅｙ░ａ░ｃｏｖｅｒｅｄ░ｗｏｒｋ░ｉｎ░ｏｂｊｅｃｔ░ｃｏｄｅ░ｆｏｒｍ░ｕｎｄｅｒ░ｔｈｅ░ｔｅｒｍｓ
+ｏｆ░ｓｅｃｔｉｏｎｓ░４░ａｎｄ░５，░ｐｒｏｖｉｄｅｄ░ｔｈａｔ░ｙｏｕ░ａｌｓｏ░ｃｏｎｖｅｙ░ｔｈｅ
+ｍａｃｈｉｎｅ－ｒｅａｄａｂｌｅ░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ░ｕｎｄｅｒ░ｔｈｅ░ｔｅｒｍｓ░ｏｆ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ，
+ｉｎ░ｏｎｅ░ｏｆ░ｔｈｅｓｅ░ｗａｙｓ：
+
+░░░░ａ）░Ｃｏｎｖｅｙ░ｔｈｅ░ｏｂｊｅｃｔ░ｃｏｄｅ░ｉｎ，░ｏｒ░ｅｍｂｏｄｉｅｄ░ｉｎ，░ａ░ｐｈｙｓｉｃａｌ░ｐｒｏｄｕｃｔ
+░░░░（ｉｎｃｌｕｄｉｎｇ░ａ░ｐｈｙｓｉｃａｌ░ｄｉｓｔｒｉｂｕｔｉｏｎ░ｍｅｄｉｕｍ），░ａｃｃｏｍｐａｎｉｅｄ░ｂｙ░ｔｈｅ
+░░░░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ░ｆｉｘｅｄ░ｏｎ░ａ░ｄｕｒａｂｌｅ░ｐｈｙｓｉｃａｌ░ｍｅｄｉｕｍ
+░░░░ｃｕｓｔｏｍａｒｉｌｙ░ｕｓｅｄ░ｆｏｒ░ｓｏｆｔｗａｒｅ░ｉｎｔｅｒｃｈａｎｇｅ．
+
+░░░░ｂ）░Ｃｏｎｖｅｙ░ｔｈｅ░ｏｂｊｅｃｔ░ｃｏｄｅ░ｉｎ，░ｏｒ░ｅｍｂｏｄｉｅｄ░ｉｎ，░ａ░ｐｈｙｓｉｃａｌ░ｐｒｏｄｕｃｔ
+░░░░（ｉｎｃｌｕｄｉｎｇ░ａ░ｐｈｙｓｉｃａｌ░ｄｉｓｔｒｉｂｕｔｉｏｎ░ｍｅｄｉｕｍ），░ａｃｃｏｍｐａｎｉｅｄ░ｂｙ░ａ
+░░░░ｗｒｉｔｔｅｎ░ｏｆｆｅｒ，░ｖａｌｉｄ░ｆｏｒ░ａｔ░ｌｅａｓｔ░ｔｈｒｅｅ░ｙｅａｒｓ░ａｎｄ░ｖａｌｉｄ░ｆｏｒ░ａｓ
+░░░░ｌｏｎｇ░ａｓ░ｙｏｕ░ｏｆｆｅｒ░ｓｐａｒｅ░ｐａｒｔｓ░ｏｒ░ｃｕｓｔｏｍｅｒ░ｓｕｐｐｏｒｔ░ｆｏｒ░ｔｈａｔ░ｐｒｏｄｕｃｔ
+░░░░ｍｏｄｅｌ，░ｔｏ░ｇｉｖｅ░ａｎｙｏｎｅ░ｗｈｏ░ｐｏｓｓｅｓｓｅｓ░ｔｈｅ░ｏｂｊｅｃｔ░ｃｏｄｅ░ｅｉｔｈｅｒ░（１）░ａ
+░░░░ｃｏｐｙ░ｏｆ░ｔｈｅ░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ░ｆｏｒ░ａｌｌ░ｔｈｅ░ｓｏｆｔｗａｒｅ░ｉｎ░ｔｈｅ
+░░░░ｐｒｏｄｕｃｔ░ｔｈａｔ░ｉｓ░ｃｏｖｅｒｅｄ░ｂｙ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ，░ｏｎ░ａ░ｄｕｒａｂｌｅ░ｐｈｙｓｉｃａｌ
+░░░░ｍｅｄｉｕｍ░ｃｕｓｔｏｍａｒｉｌｙ░ｕｓｅｄ░ｆｏｒ░ｓｏｆｔｗａｒｅ░ｉｎｔｅｒｃｈａｎｇｅ，░ｆｏｒ░ａ░ｐｒｉｃｅ░ｎｏ
+░░░░ｍｏｒｅ░ｔｈａｎ░ｙｏｕｒ░ｒｅａｓｏｎａｂｌｅ░ｃｏｓｔ░ｏｆ░ｐｈｙｓｉｃａｌｌｙ░ｐｅｒｆｏｒｍｉｎｇ░ｔｈｉｓ
+░░░░ｃｏｎｖｅｙｉｎｇ░ｏｆ░ｓｏｕｒｃｅ，░ｏｒ░（２）░ａｃｃｅｓｓ░ｔｏ░ｃｏｐｙ░ｔｈｅ
+░░░░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ░ｆｒｏｍ░ａ░ｎｅｔｗｏｒｋ░ｓｅｒｖｅｒ░ａｔ░ｎｏ░ｃｈａｒｇｅ．
+
+░░░░ｃ）░Ｃｏｎｖｅｙ░ｉｎｄｉｖｉｄｕａｌ░ｃｏｐｉｅｓ░ｏｆ░ｔｈｅ░ｏｂｊｅｃｔ░ｃｏｄｅ░ｗｉｔｈ░ａ░ｃｏｐｙ░ｏｆ░ｔｈｅ
+░░░░ｗｒｉｔｔｅｎ░ｏｆｆｅｒ░ｔｏ░ｐｒｏｖｉｄｅ░ｔｈｅ░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ．░░Ｔｈｉｓ
+░░░░ａｌｔｅｒｎａｔｉｖｅ░ｉｓ░ａｌｌｏｗｅｄ░ｏｎｌｙ░ｏｃｃａｓｉｏｎａｌｌｙ░ａｎｄ░ｎｏｎｃｏｍｍｅｒｃｉａｌｌｙ，░ａｎｄ
+░░░░ｏｎｌｙ░ｉｆ░ｙｏｕ░ｒｅｃｅｉｖｅｄ░ｔｈｅ░ｏｂｊｅｃｔ░ｃｏｄｅ░ｗｉｔｈ░ｓｕｃｈ░ａｎ░ｏｆｆｅｒ，░ｉｎ░ａｃｃｏｒｄ
+░░░░ｗｉｔｈ░ｓｕｂｓｅｃｔｉｏｎ░６ｂ．
+
+░░░░ｄ）░Ｃｏｎｖｅｙ░ｔｈｅ░ｏｂｊｅｃｔ░ｃｏｄｅ░ｂｙ░ｏｆｆｅｒｉｎｇ░ａｃｃｅｓｓ░ｆｒｏｍ░ａ░ｄｅｓｉｇｎａｔｅｄ
+░░░░ｐｌａｃｅ░（ｇｒａｔｉｓ░ｏｒ░ｆｏｒ░ａ░ｃｈａｒｇｅ），░ａｎｄ░ｏｆｆｅｒ░ｅｑｕｉｖａｌｅｎｔ░ａｃｃｅｓｓ░ｔｏ░ｔｈｅ
+░░░░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ░ｉｎ░ｔｈｅ░ｓａｍｅ░ｗａｙ░ｔｈｒｏｕｇｈ░ｔｈｅ░ｓａｍｅ░ｐｌａｃｅ░ａｔ░ｎｏ
+░░░░ｆｕｒｔｈｅｒ░ｃｈａｒｇｅ．░░Ｙｏｕ░ｎｅｅｄ░ｎｏｔ░ｒｅｑｕｉｒｅ░ｒｅｃｉｐｉｅｎｔｓ░ｔｏ░ｃｏｐｙ░ｔｈｅ
+░░░░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ░ａｌｏｎｇ░ｗｉｔｈ░ｔｈｅ░ｏｂｊｅｃｔ░ｃｏｄｅ．░░Ｉｆ░ｔｈｅ░ｐｌａｃｅ░ｔｏ
+░░░░ｃｏｐｙ░ｔｈｅ░ｏｂｊｅｃｔ░ｃｏｄｅ░ｉｓ░ａ░ｎｅｔｗｏｒｋ░ｓｅｒｖｅｒ，░ｔｈｅ░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ
+░░░░ｍａｙ░ｂｅ░ｏｎ░ａ░ｄｉｆｆｅｒｅｎｔ░ｓｅｒｖｅｒ░（ｏｐｅｒａｔｅｄ░ｂｙ░ｙｏｕ░ｏｒ░ａ░ｔｈｉｒｄ░ｐａｒｔｙ）
+░░░░ｔｈａｔ░ｓｕｐｐｏｒｔｓ░ｅｑｕｉｖａｌｅｎｔ░ｃｏｐｙｉｎｇ░ｆａｃｉｌｉｔｉｅｓ，░ｐｒｏｖｉｄｅｄ░ｙｏｕ░ｍａｉｎｔａｉｎ
+░░░░ｃｌｅａｒ░ｄｉｒｅｃｔｉｏｎｓ░ｎｅｘｔ░ｔｏ░ｔｈｅ░ｏｂｊｅｃｔ░ｃｏｄｅ░ｓａｙｉｎｇ░ｗｈｅｒｅ░ｔｏ░ｆｉｎｄ░ｔｈｅ
+░░░░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ．░░Ｒｅｇａｒｄｌｅｓｓ░ｏｆ░ｗｈａｔ░ｓｅｒｖｅｒ░ｈｏｓｔｓ░ｔｈｅ
+░░░░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ，░ｙｏｕ░ｒｅｍａｉｎ░ｏｂｌｉｇａｔｅｄ░ｔｏ░ｅｎｓｕｒｅ░ｔｈａｔ░ｉｔ░ｉｓ
+░░░░ａｖａｉｌａｂｌｅ░ｆｏｒ░ａｓ░ｌｏｎｇ░ａｓ░ｎｅｅｄｅｄ░ｔｏ░ｓａｔｉｓｆｙ░ｔｈｅｓｅ░ｒｅｑｕｉｒｅｍｅｎｔｓ．
+
+░░░░ｅ）░Ｃｏｎｖｅｙ░ｔｈｅ░ｏｂｊｅｃｔ░ｃｏｄｅ░ｕｓｉｎｇ░ｐｅｅｒ－ｔｏ－ｐｅｅｒ░ｔｒａｎｓｍｉｓｓｉｏｎ，░ｐｒｏｖｉｄｅｄ
+░░░░ｙｏｕ░ｉｎｆｏｒｍ░ｏｔｈｅｒ░ｐｅｅｒｓ░ｗｈｅｒｅ░ｔｈｅ░ｏｂｊｅｃｔ░ｃｏｄｅ░ａｎｄ░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ
+░░░░Ｓｏｕｒｃｅ░ｏｆ░ｔｈｅ░ｗｏｒｋ░ａｒｅ░ｂｅｉｎｇ░ｏｆｆｅｒｅｄ░ｔｏ░ｔｈｅ░ｇｅｎｅｒａｌ░ｐｕｂｌｉｃ░ａｔ░ｎｏ
+░░░░ｃｈａｒｇｅ░ｕｎｄｅｒ░ｓｕｂｓｅｃｔｉｏｎ░６ｄ．
+
+░░Λ░ｓｅｐａｒａｂｌｅ░ｐｏｒｔｉｏｎ░ｏｆ░ｔｈｅ░ｏｂｊｅｃｔ░ｃｏｄｅ，░ｗｈｏｓｅ░ｓｏｕｒｃｅ░ｃｏｄｅ░ｉｓ░ｅｘｃｌｕｄｅｄ
+ｆｒｏｍ░ｔｈｅ░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ░ａｓ░ａ░Ｓｙｓｔｅｍ░Ｌｉｂｒａｒｙ，░ｎｅｅｄ░ｎｏｔ░ｂｅ
+ｉｎｃｌｕｄｅｄ░ｉｎ░ｃｏｎｖｅｙｉｎｇ░ｔｈｅ░ｏｂｊｅｃｔ░ｃｏｄｅ░ｗｏｒｋ．
+
+░░Λ░"Ｕｓｅｒ░Ｐｒｏｄｕｃｔ"░ｉｓ░ｅｉｔｈｅｒ░（１）░ａ░"ｃｏｎｓｕｍｅｒ░ｐｒｏｄｕｃｔ"，░ｗｈｉｃｈ░ｍｅａｎｓ░ａｎｙ
+ｔａｎｇｉｂｌｅ░ｐｅｒｓｏｎａｌ░ｐｒｏｐｅｒｔｙ░ｗｈｉｃｈ░ｉｓ░ｎｏｒｍａｌｌｙ░ｕｓｅｄ░ｆｏｒ░ｐｅｒｓｏｎａｌ，░ｆａｍｉｌｙ，
+ｏｒ░ｈｏｕｓｅｈｏｌｄ░ｐｕｒｐｏｓｅｓ，░ｏｒ░（２）░ａｎｙｔｈｉｎｇ░ｄｅｓｉｇｎｅｄ░ｏｒ░ｓｏｌｄ░ｆｏｒ░ｉｎｃｏｒｐｏｒａｔｉｏｎ
+ｉｎｔｏ░ａ░ｄｗｅｌｌｉｎｇ．░░Ｉｎ░ｄｅｔｅｒｍｉｎｉｎｇ░ｗｈｅｔｈｅｒ░ａ░ｐｒｏｄｕｃｔ░ｉｓ░ａ░ｃｏｎｓｕｍｅｒ░ｐｒｏｄｕｃｔ，
+ｄｏｕｂｔｆｕｌ░ｃａｓｅｓ░ｓｈａｌｌ░ｂｅ░ｒｅｓｏｌｖｅｄ░ｉｎ░ｆａｖｏｒ░ｏｆ░ｃｏｖｅｒａｇｅ．░░Ｆｏｒ░ａ░ｐａｒｔｉｃｕｌａｒ
+ｐｒｏｄｕｃｔ░ｒｅｃｅｉｖｅｄ░ｂｙ░ａ░ｐａｒｔｉｃｕｌａｒ░ｕｓｅｒ，░"ｎｏｒｍａｌｌｙ░ｕｓｅｄ"░ｒｅｆｅｒｓ░ｔｏ░ａ
+ｔｙｐｉｃａｌ░ｏｒ░ｃｏｍｍｏｎ░ｕｓｅ░ｏｆ░ｔｈａｔ░ｃｌａｓｓ░ｏｆ░ｐｒｏｄｕｃｔ，░ｒｅｇａｒｄｌｅｓｓ░ｏｆ░ｔｈｅ░ｓｔａｔｕｓ
+ｏｆ░ｔｈｅ░ｐａｒｔｉｃｕｌａｒ░ｕｓｅｒ░ｏｒ░ｏｆ░ｔｈｅ░ｗａｙ░ｉｎ░ｗｈｉｃｈ░ｔｈｅ░ｐａｒｔｉｃｕｌａｒ░ｕｓｅｒ
+ａｃｔｕａｌｌｙ░ｕｓｅｓ，░ｏｒ░ｅｘｐｅｃｔｓ░ｏｒ░ｉｓ░ｅｘｐｅｃｔｅｄ░ｔｏ░ｕｓｅ，░ｔｈｅ░ｐｒｏｄｕｃｔ．░░Λ░ｐｒｏｄｕｃｔ
+ｉｓ░ａ░ｃｏｎｓｕｍｅｒ░ｐｒｏｄｕｃｔ░ｒｅｇａｒｄｌｅｓｓ░ｏｆ░ｗｈｅｔｈｅｒ░ｔｈｅ░ｐｒｏｄｕｃｔ░ｈａｓ░ｓｕｂｓｔａｎｔｉａｌ
+ｃｏｍｍｅｒｃｉａｌ，░ｉｎｄｕｓｔｒｉａｌ░ｏｒ░ｎｏｎ－ｃｏｎｓｕｍｅｒ░ｕｓｅｓ，░ｕｎｌｅｓｓ░ｓｕｃｈ░ｕｓｅｓ░ｒｅｐｒｅｓｅｎｔ
+ｔｈｅ░ｏｎｌｙ░ｓｉｇｎｉｆｉｃａｎｔ░ｍｏｄｅ░ｏｆ░ｕｓｅ░ｏｆ░ｔｈｅ░ｐｒｏｄｕｃｔ．
+
+░░"Ｉｎｓｔａｌｌａｔｉｏｎ░Ｉｎｆｏｒｍａｔｉｏｎ"░ｆｏｒ░ａ░Ｕｓｅｒ░Ｐｒｏｄｕｃｔ░ｍｅａｎｓ░ａｎｙ░ｍｅｔｈｏｄｓ，
+ｐｒｏｃｅｄｕｒｅｓ，░ａｕｔｈｏｒｉｚａｔｉｏｎ░ｋｅｙｓ，░ｏｒ░ｏｔｈｅｒ░ｉｎｆｏｒｍａｔｉｏｎ░ｒｅｑｕｉｒｅｄ░ｔｏ░ｉｎｓｔａｌｌ
+ａｎｄ░ｅｘｅｃｕｔｅ░ｍｏｄｉｆｉｅｄ░ｖｅｒｓｉｏｎｓ░ｏｆ░ａ░ｃｏｖｅｒｅｄ░ｗｏｒｋ░ｉｎ░ｔｈａｔ░Ｕｓｅｒ░Ｐｒｏｄｕｃｔ░ｆｒｏｍ
+ａ░ｍｏｄｉｆｉｅｄ░ｖｅｒｓｉｏｎ░ｏｆ░ｉｔｓ░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ．░░Ｔｈｅ░ｉｎｆｏｒｍａｔｉｏｎ░ｍｕｓｔ
+ｓｕｆｆｉｃｅ░ｔｏ░ｅｎｓｕｒｅ░ｔｈａｔ░ｔｈｅ░ｃｏｎｔｉｎｕｅｄ░ｆｕｎｃｔｉｏｎｉｎｇ░ｏｆ░ｔｈｅ░ｍｏｄｉｆｉｅｄ░ｏｂｊｅｃｔ
+ｃｏｄｅ░ｉｓ░ｉｎ░ｎｏ░ｃａｓｅ░ｐｒｅｖｅｎｔｅｄ░ｏｒ░ｉｎｔｅｒｆｅｒｅｄ░ｗｉｔｈ░ｓｏｌｅｌｙ░ｂｅｃａｕｓｅ
+ｍｏｄｉｆｉｃａｔｉｏｎ░ｈａｓ░ｂｅｅｎ░ｍａｄｅ．
+
+░░Ｉｆ░ｙｏｕ░ｃｏｎｖｅｙ░ａｎ░ｏｂｊｅｃｔ░ｃｏｄｅ░ｗｏｒｋ░ｕｎｄｅｒ░ｔｈｉｓ░ｓｅｃｔｉｏｎ░ｉｎ，░ｏｒ░ｗｉｔｈ，░ｏｒ
+ｓｐｅｃｉｆｉｃａｌｌｙ░ｆｏｒ░ｕｓｅ░ｉｎ，░ａ░Ｕｓｅｒ░Ｐｒｏｄｕｃｔ，░ａｎｄ░ｔｈｅ░ｃｏｎｖｅｙｉｎｇ░ｏｃｃｕｒｓ░ａｓ
+ｐａｒｔ░ｏｆ░ａ░ｔｒａｎｓａｃｔｉｏｎ░ｉｎ░ｗｈｉｃｈ░ｔｈｅ░ｒｉｇｈｔ░ｏｆ░ｐｏｓｓｅｓｓｉｏｎ░ａｎｄ░ｕｓｅ░ｏｆ░ｔｈｅ
+Ｕｓｅｒ░Ｐｒｏｄｕｃｔ░ｉｓ░ｔｒａｎｓｆｅｒｒｅｄ░ｔｏ░ｔｈｅ░ｒｅｃｉｐｉｅｎｔ░ｉｎ░ｐｅｒｐｅｔｕｉｔｙ░ｏｒ░ｆｏｒ░ａ
+ｆｉｘｅｄ░ｔｅｒｍ░（ｒｅｇａｒｄｌｅｓｓ░ｏｆ░ｈｏｗ░ｔｈｅ░ｔｒａｎｓａｃｔｉｏｎ░ｉｓ░ｃｈａｒａｃｔｅｒｉｚｅｄ），░ｔｈｅ
+Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ░ｃｏｎｖｅｙｅｄ░ｕｎｄｅｒ░ｔｈｉｓ░ｓｅｃｔｉｏｎ░ｍｕｓｔ░ｂｅ░ａｃｃｏｍｐａｎｉｅｄ
+ｂｙ░ｔｈｅ░Ｉｎｓｔａｌｌａｔｉｏｎ░Ｉｎｆｏｒｍａｔｉｏｎ．░░Ｂｕｔ░ｔｈｉｓ░ｒｅｑｕｉｒｅｍｅｎｔ░ｄｏｅｓ░ｎｏｔ░ａｐｐｌｙ
+ｉｆ░ｎｅｉｔｈｅｒ░ｙｏｕ░ｎｏｒ░ａｎｙ░ｔｈｉｒｄ░ｐａｒｔｙ░ｒｅｔａｉｎｓ░ｔｈｅ░ａｂｉｌｉｔｙ░ｔｏ░ｉｎｓｔａｌｌ
+ｍｏｄｉｆｉｅｄ░ｏｂｊｅｃｔ░ｃｏｄｅ░ｏｎ░ｔｈｅ░Ｕｓｅｒ░Ｐｒｏｄｕｃｔ░（ｆｏｒ░ｅｘａｍｐｌｅ，░ｔｈｅ░ｗｏｒｋ░ｈａｓ
+ｂｅｅｎ░ｉｎｓｔａｌｌｅｄ░ｉｎ░Ｒ♢Ｍ）．
+
+░░Ｔｈｅ░ｒｅｑｕｉｒｅｍｅｎｔ░ｔｏ░ｐｒｏｖｉｄｅ░Ｉｎｓｔａｌｌａｔｉｏｎ░Ｉｎｆｏｒｍａｔｉｏｎ░ｄｏｅｓ░ｎｏｔ░ｉｎｃｌｕｄｅ░ａ
+ｒｅｑｕｉｒｅｍｅｎｔ░ｔｏ░ｃｏｎｔｉｎｕｅ░ｔｏ░ｐｒｏｖｉｄｅ░ｓｕｐｐｏｒｔ░ｓｅｒｖｉｃｅ，░ｗａｒｒａｎｔｙ，░ｏｒ░ｕｐｄａｔｅｓ
+ｆｏｒ░ａ░ｗｏｒｋ░ｔｈａｔ░ｈａｓ░ｂｅｅｎ░ｍｏｄｉｆｉｅｄ░ｏｒ░ｉｎｓｔａｌｌｅｄ░ｂｙ░ｔｈｅ░ｒｅｃｉｐｉｅｎｔ，░ｏｒ░ｆｏｒ
+ｔｈｅ░Ｕｓｅｒ░Ｐｒｏｄｕｃｔ░ｉｎ░ｗｈｉｃｈ░ｉｔ░ｈａｓ░ｂｅｅｎ░ｍｏｄｉｆｉｅｄ░ｏｒ░ｉｎｓｔａｌｌｅｄ．░░Λｃｃｅｓｓ░ｔｏ░ａ
+ｎｅｔｗｏｒｋ░ｍａｙ░ｂｅ░ｄｅｎｉｅｄ░ｗｈｅｎ░ｔｈｅ░ｍｏｄｉｆｉｃａｔｉｏｎ░ｉｔｓｅｌｆ░ｍａｔｅｒｉａｌｌｙ░ａｎｄ
+ａｄｖｅｒｓｅｌｙ░ａｆｆｅｃｔｓ░ｔｈｅ░ｏｐｅｒａｔｉｏｎ░ｏｆ░ｔｈｅ░ｎｅｔｗｏｒｋ░ｏｒ░ｖｉｏｌａｔｅｓ░ｔｈｅ░ｒｕｌｅｓ░ａｎｄ
+ｐｒｏｔｏｃｏｌｓ░ｆｏｒ░ｃｏｍｍｕｎｉｃａｔｉｏｎ░ａｃｒｏｓｓ░ｔｈｅ░ｎｅｔｗｏｒｋ．
+
+░░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ░ｃｏｎｖｅｙｅｄ，░ａｎｄ░Ｉｎｓｔａｌｌａｔｉｏｎ░Ｉｎｆｏｒｍａｔｉｏｎ░ｐｒｏｖｉｄｅｄ，
+ｉｎ░ａｃｃｏｒｄ░ｗｉｔｈ░ｔｈｉｓ░ｓｅｃｔｉｏｎ░ｍｕｓｔ░ｂｅ░ｉｎ░ａ░ｆｏｒｍａｔ░ｔｈａｔ░ｉｓ░ｐｕｂｌｉｃｌｙ
+ｄｏｃｕｍｅｎｔｅｄ░（ａｎｄ░ｗｉｔｈ░ａｎ░ｉｍｐｌｅｍｅｎｔａｔｉｏｎ░ａｖａｉｌａｂｌｅ░ｔｏ░ｔｈｅ░ｐｕｂｌｉｃ░ｉｎ
+ｓｏｕｒｃｅ░ｃｏｄｅ░ｆｏｒｍ），░ａｎｄ░ｍｕｓｔ░ｒｅｑｕｉｒｅ░ｎｏ░ｓｐｅｃｉａｌ░ｐａｓｓｗｏｒｄ░ｏｒ░ｋｅｙ░ｆｏｒ
+ｕｎｐａｃｋｉｎｇ，░ｒｅａｄｉｎｇ░ｏｒ░ｃｏｐｙｉｎｇ．
+
+░░７．░Λｄｄｉｔｉｏｎａｌ░Ｔｅｒｍｓ．
+
+░░"Λｄｄｉｔｉｏｎａｌ░ｐｅｒｍｉｓｓｉｏｎｓ"░ａｒｅ░ｔｅｒｍｓ░ｔｈａｔ░ｓｕｐｐｌｅｍｅｎｔ░ｔｈｅ░ｔｅｒｍｓ░ｏｆ░ｔｈｉｓ
+Ｌｉｃｅｎｓｅ░ｂｙ░ｍａｋｉｎｇ░ｅｘｃｅｐｔｉｏｎｓ░ｆｒｏｍ░ｏｎｅ░ｏｒ░ｍｏｒｅ░ｏｆ░ｉｔｓ░ｃｏｎｄｉｔｉｏｎｓ．
+Λｄｄｉｔｉｏｎａｌ░ｐｅｒｍｉｓｓｉｏｎｓ░ｔｈａｔ░ａｒｅ░ａｐｐｌｉｃａｂｌｅ░ｔｏ░ｔｈｅ░ｅｎｔｉｒｅ░Ｐｒｏｇｒａｍ░ｓｈａｌｌ
+ｂｅ░ｔｒｅａｔｅｄ░ａｓ░ｔｈｏｕｇｈ░ｔｈｅｙ░ｗｅｒｅ░ｉｎｃｌｕｄｅｄ░ｉｎ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ，░ｔｏ░ｔｈｅ░ｅｘｔｅｎｔ
+ｔｈａｔ░ｔｈｅｙ░ａｒｅ░ｖａｌｉｄ░ｕｎｄｅｒ░ａｐｐｌｉｃａｂｌｅ░ｌａｗ．░░Ｉｆ░ａｄｄｉｔｉｏｎａｌ░ｐｅｒｍｉｓｓｉｏｎｓ
+ａｐｐｌｙ░ｏｎｌｙ░ｔｏ░ｐａｒｔ░ｏｆ░ｔｈｅ░Ｐｒｏｇｒａｍ，░ｔｈａｔ░ｐａｒｔ░ｍａｙ░ｂｅ░ｕｓｅｄ░ｓｅｐａｒａｔｅｌｙ
+ｕｎｄｅｒ░ｔｈｏｓｅ░ｐｅｒｍｉｓｓｉｏｎｓ，░ｂｕｔ░ｔｈｅ░ｅｎｔｉｒｅ░Ｐｒｏｇｒａｍ░ｒｅｍａｉｎｓ░ｇｏｖｅｒｎｅｄ░ｂｙ
+ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ｗｉｔｈｏｕｔ░ｒｅｇａｒｄ░ｔｏ░ｔｈｅ░ａｄｄｉｔｉｏｎａｌ░ｐｅｒｍｉｓｓｉｏｎｓ．
+
+░░Ｗｈｅｎ░ｙｏｕ░ｃｏｎｖｅｙ░ａ░ｃｏｐｙ░ｏｆ░ａ░ｃｏｖｅｒｅｄ░ｗｏｒｋ，░ｙｏｕ░ｍａｙ░ａｔ░ｙｏｕｒ░ｏｐｔｉｏｎ
+ｒｅｍｏｖｅ░ａｎｙ░ａｄｄｉｔｉｏｎａｌ░ｐｅｒｍｉｓｓｉｏｎｓ░ｆｒｏｍ░ｔｈａｔ░ｃｏｐｙ，░ｏｒ░ｆｒｏｍ░ａｎｙ░ｐａｒｔ░ｏｆ
+ｉｔ．░░（Λｄｄｉｔｉｏｎａｌ░ｐｅｒｍｉｓｓｉｏｎｓ░ｍａｙ░ｂｅ░ｗｒｉｔｔｅｎ░ｔｏ░ｒｅｑｕｉｒｅ░ｔｈｅｉｒ░ｏｗｎ
+ｒｅｍｏｖａｌ░ｉｎ░ｃｅｒｔａｉｎ░ｃａｓｅｓ░ｗｈｅｎ░ｙｏｕ░ｍｏｄｉｆｙ░ｔｈｅ░ｗｏｒｋ．）░░Ｙｏｕ░ｍａｙ░ｐｌａｃｅ
+ａｄｄｉｔｉｏｎａｌ░ｐｅｒｍｉｓｓｉｏｎｓ░ｏｎ░ｍａｔｅｒｉａｌ，░ａｄｄｅｄ░ｂｙ░ｙｏｕ░ｔｏ░ａ░ｃｏｖｅｒｅｄ░ｗｏｒｋ，
+ｆｏｒ░ｗｈｉｃｈ░ｙｏｕ░ｈａｖｅ░ｏｒ░ｃａｎ░ｇｉｖｅ░ａｐｐｒｏｐｒｉａｔｅ░ｃｏｐｙｒｉｇｈｔ░ｐｅｒｍｉｓｓｉｏｎ．
+
+░░Ｎｏｔｗｉｔｈｓｔａｎｄｉｎｇ░ａｎｙ░ｏｔｈｅｒ░ｐｒｏｖｉｓｉｏｎ░ｏｆ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ，░ｆｏｒ░ｍａｔｅｒｉａｌ░ｙｏｕ
+ａｄｄ░ｔｏ░ａ░ｃｏｖｅｒｅｄ░ｗｏｒｋ，░ｙｏｕ░ｍａｙ░（ｉｆ░ａｕｔｈｏｒｉｚｅｄ░ｂｙ░ｔｈｅ░ｃｏｐｙｒｉｇｈｔ░ｈｏｌｄｅｒｓ░ｏｆ
+ｔｈａｔ░ｍａｔｅｒｉａｌ）░ｓｕｐｐｌｅｍｅｎｔ░ｔｈｅ░ｔｅｒｍｓ░ｏｆ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ｗｉｔｈ░ｔｅｒｍｓ：
+
+░░░░ａ）░Ｄｉｓｃｌａｉｍｉｎｇ░ｗａｒｒａｎｔｙ░ｏｒ░ｌｉｍｉｔｉｎｇ░ｌｉａｂｉｌｉｔｙ░ｄｉｆｆｅｒｅｎｔｌｙ░ｆｒｏｍ░ｔｈｅ
+░░░░ｔｅｒｍｓ░ｏｆ░ｓｅｃｔｉｏｎｓ░１５░ａｎｄ░１６░ｏｆ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ；░ｏｒ
+
+░░░░ｂ）░Ｒｅｑｕｉｒｉｎｇ░ｐｒｅｓｅｒｖａｔｉｏｎ░ｏｆ░ｓｐｅｃｉｆｉｅｄ░ｒｅａｓｏｎａｂｌｅ░ｌｅｇａｌ░ｎｏｔｉｃｅｓ░ｏｒ
+░░░░ａｕｔｈｏｒ░ａｔｔｒｉｂｕｔｉｏｎｓ░ｉｎ░ｔｈａｔ░ｍａｔｅｒｉａｌ░ｏｒ░ｉｎ░ｔｈｅ░Λｐｐｒｏｐｒｉａｔｅ░Ｌｅｇａｌ
+░░░░Ｎｏｔｉｃｅｓ░ｄｉｓｐｌａｙｅｄ░ｂｙ░ｗｏｒｋｓ░ｃｏｎｔａｉｎｉｎｇ░ｉｔ；░ｏｒ
+
+░░░░ｃ）░Ｐｒｏｈｉｂｉｔｉｎｇ░ｍｉｓｒｅｐｒｅｓｅｎｔａｔｉｏｎ░ｏｆ░ｔｈｅ░ｏｒｉｇｉｎ░ｏｆ░ｔｈａｔ░ｍａｔｅｒｉａｌ，░ｏｒ
+░░░░ｒｅｑｕｉｒｉｎｇ░ｔｈａｔ░ｍｏｄｉｆｉｅｄ░ｖｅｒｓｉｏｎｓ░ｏｆ░ｓｕｃｈ░ｍａｔｅｒｉａｌ░ｂｅ░ｍａｒｋｅｄ░ｉｎ
+░░░░ｒｅａｓｏｎａｂｌｅ░ｗａｙｓ░ａｓ░ｄｉｆｆｅｒｅｎｔ░ｆｒｏｍ░ｔｈｅ░ｏｒｉｇｉｎａｌ░ｖｅｒｓｉｏｎ；░ｏｒ
+
+░░░░ｄ）░Ｌｉｍｉｔｉｎｇ░ｔｈｅ░ｕｓｅ░ｆｏｒ░ｐｕｂｌｉｃｉｔｙ░ｐｕｒｐｏｓｅｓ░ｏｆ░ｎａｍｅｓ░ｏｆ░ｌｉｃｅｎｓｏｒｓ░ｏｒ
+░░░░ａｕｔｈｏｒｓ░ｏｆ░ｔｈｅ░ｍａｔｅｒｉａｌ；░ｏｒ
+
+░░░░ｅ）░Ｄｅｃｌｉｎｉｎｇ░ｔｏ░ｇｒａｎｔ░ｒｉｇｈｔｓ░ｕｎｄｅｒ░ｔｒａｄｅｍａｒｋ░ｌａｗ░ｆｏｒ░ｕｓｅ░ｏｆ░ｓｏｍｅ
+░░░░ｔｒａｄｅ░ｎａｍｅｓ，░ｔｒａｄｅｍａｒｋｓ，░ｏｒ░ｓｅｒｖｉｃｅ░ｍａｒｋｓ；░ｏｒ
+
+░░░░ｆ）░Ｒｅｑｕｉｒｉｎｇ░ｉｎｄｅｍｎｉｆｉｃａｔｉｏｎ░ｏｆ░ｌｉｃｅｎｓｏｒｓ░ａｎｄ░ａｕｔｈｏｒｓ░ｏｆ░ｔｈａｔ
+░░░░ｍａｔｅｒｉａｌ░ｂｙ░ａｎｙｏｎｅ░ｗｈｏ░ｃｏｎｖｅｙｓ░ｔｈｅ░ｍａｔｅｒｉａｌ░（ｏｒ░ｍｏｄｉｆｉｅｄ░ｖｅｒｓｉｏｎｓ░ｏｆ
+░░░░ｉｔ）░ｗｉｔｈ░ｃｏｎｔｒａｃｔｕａｌ░ａｓｓｕｍｐｔｉｏｎｓ░ｏｆ░ｌｉａｂｉｌｉｔｙ░ｔｏ░ｔｈｅ░ｒｅｃｉｐｉｅｎｔ，░ｆｏｒ
+░░░░ａｎｙ░ｌｉａｂｉｌｉｔｙ░ｔｈａｔ░ｔｈｅｓｅ░ｃｏｎｔｒａｃｔｕａｌ░ａｓｓｕｍｐｔｉｏｎｓ░ｄｉｒｅｃｔｌｙ░ｉｍｐｏｓｅ░ｏｎ
+░░░░ｔｈｏｓｅ░ｌｉｃｅｎｓｏｒｓ░ａｎｄ░ａｕｔｈｏｒｓ．
+
+░░Λｌｌ░ｏｔｈｅｒ░ｎｏｎ－ｐｅｒｍｉｓｓｉｖｅ░ａｄｄｉｔｉｏｎａｌ░ｔｅｒｍｓ░ａｒｅ░ｃｏｎｓｉｄｅｒｅｄ░"ｆｕｒｔｈｅｒ
+ｒｅｓｔｒｉｃｔｉｏｎｓ"░ｗｉｔｈｉｎ░ｔｈｅ░ｍｅａｎｉｎｇ░ｏｆ░ｓｅｃｔｉｏｎ░１０．░░Ｉｆ░ｔｈｅ░Ｐｒｏｇｒａｍ░ａｓ░ｙｏｕ
+ｒｅｃｅｉｖｅｄ░ｉｔ，░ｏｒ░ａｎｙ░ｐａｒｔ░ｏｆ░ｉｔ，░ｃｏｎｔａｉｎｓ░ａ░ｎｏｔｉｃｅ░ｓｔａｔｉｎｇ░ｔｈａｔ░ｉｔ░ｉｓ
+ｇｏｖｅｒｎｅｄ░ｂｙ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ａｌｏｎｇ░ｗｉｔｈ░ａ░ｔｅｒｍ░ｔｈａｔ░ｉｓ░ａ░ｆｕｒｔｈｅｒ
+ｒｅｓｔｒｉｃｔｉｏｎ，░ｙｏｕ░ｍａｙ░ｒｅｍｏｖｅ░ｔｈａｔ░ｔｅｒｍ．░░Ｉｆ░ａ░ｌｉｃｅｎｓｅ░ｄｏｃｕｍｅｎｔ░ｃｏｎｔａｉｎｓ
+ａ░ｆｕｒｔｈｅｒ░ｒｅｓｔｒｉｃｔｉｏｎ░ｂｕｔ░ｐｅｒｍｉｔｓ░ｒｅｌｉｃｅｎｓｉｎｇ░ｏｒ░ｃｏｎｖｅｙｉｎｇ░ｕｎｄｅｒ░ｔｈｉｓ
+Ｌｉｃｅｎｓｅ，░ｙｏｕ░ｍａｙ░ａｄｄ░ｔｏ░ａ░ｃｏｖｅｒｅｄ░ｗｏｒｋ░ｍａｔｅｒｉａｌ░ｇｏｖｅｒｎｅｄ░ｂｙ░ｔｈｅ░ｔｅｒｍｓ
+ｏｆ░ｔｈａｔ░ｌｉｃｅｎｓｅ░ｄｏｃｕｍｅｎｔ，░ｐｒｏｖｉｄｅｄ░ｔｈａｔ░ｔｈｅ░ｆｕｒｔｈｅｒ░ｒｅｓｔｒｉｃｔｉｏｎ░ｄｏｅｓ
+ｎｏｔ░ｓｕｒｖｉｖｅ░ｓｕｃｈ░ｒｅｌｉｃｅｎｓｉｎｇ░ｏｒ░ｃｏｎｖｅｙｉｎｇ．
+
+░░Ｉｆ░ｙｏｕ░ａｄｄ░ｔｅｒｍｓ░ｔｏ░ａ░ｃｏｖｅｒｅｄ░ｗｏｒｋ░ｉｎ░ａｃｃｏｒｄ░ｗｉｔｈ░ｔｈｉｓ░ｓｅｃｔｉｏｎ，░ｙｏｕ
+ｍｕｓｔ░ｐｌａｃｅ，░ｉｎ░ｔｈｅ░ｒｅｌｅｖａｎｔ░ｓｏｕｒｃｅ░ｆｉｌｅｓ，░ａ░ｓｔａｔｅｍｅｎｔ░ｏｆ░ｔｈｅ
+ａｄｄｉｔｉｏｎａｌ░ｔｅｒｍｓ░ｔｈａｔ░ａｐｐｌｙ░ｔｏ░ｔｈｏｓｅ░ｆｉｌｅｓ，░ｏｒ░ａ░ｎｏｔｉｃｅ░ｉｎｄｉｃａｔｉｎｇ
+ｗｈｅｒｅ░ｔｏ░ｆｉｎｄ░ｔｈｅ░ａｐｐｌｉｃａｂｌｅ░ｔｅｒｍｓ．
+
+░░Λｄｄｉｔｉｏｎａｌ░ｔｅｒｍｓ，░ｐｅｒｍｉｓｓｉｖｅ░ｏｒ░ｎｏｎ－ｐｅｒｍｉｓｓｉｖｅ，░ｍａｙ░ｂｅ░ｓｔａｔｅｄ░ｉｎ░ｔｈｅ
+ｆｏｒｍ░ｏｆ░ａ░ｓｅｐａｒａｔｅｌｙ░ｗｒｉｔｔｅｎ░ｌｉｃｅｎｓｅ，░ｏｒ░ｓｔａｔｅｄ░ａｓ░ｅｘｃｅｐｔｉｏｎｓ；
+ｔｈｅ░ａｂｏｖｅ░ｒｅｑｕｉｒｅｍｅｎｔｓ░ａｐｐｌｙ░ｅｉｔｈｅｒ░ｗａｙ．
+
+░░８．░Ｔｅｒｍｉｎａｔｉｏｎ．
+
+░░Ｙｏｕ░ｍａｙ░ｎｏｔ░ｐｒｏｐａｇａｔｅ░ｏｒ░ｍｏｄｉｆｙ░ａ░ｃｏｖｅｒｅｄ░ｗｏｒｋ░ｅｘｃｅｐｔ░ａｓ░ｅｘｐｒｅｓｓｌｙ
+ｐｒｏｖｉｄｅｄ░ｕｎｄｅｒ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ．░░Λｎｙ░ａｔｔｅｍｐｔ░ｏｔｈｅｒｗｉｓｅ░ｔｏ░ｐｒｏｐａｇａｔｅ░ｏｒ
+ｍｏｄｉｆｙ░ｉｔ░ｉｓ░ｖｏｉｄ，░ａｎｄ░ｗｉｌｌ░ａｕｔｏｍａｔｉｃａｌｌｙ░ｔｅｒｍｉｎａｔｅ░ｙｏｕｒ░ｒｉｇｈｔｓ░ｕｎｄｅｒ
+ｔｈｉｓ░Ｌｉｃｅｎｓｅ░（ｉｎｃｌｕｄｉｎｇ░ａｎｙ░ｐａｔｅｎｔ░ｌｉｃｅｎｓｅｓ░ｇｒａｎｔｅｄ░ｕｎｄｅｒ░ｔｈｅ░ｔｈｉｒｄ
+ｐａｒａｇｒａｐｈ░ｏｆ░ｓｅｃｔｉｏｎ░１１）．
+
+░░Ｈｏｗｅｖｅｒ，░ｉｆ░ｙｏｕ░ｃｅａｓｅ░ａｌｌ░ｖｉｏｌａｔｉｏｎ░ｏｆ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ，░ｔｈｅｎ░ｙｏｕｒ
+ｌｉｃｅｎｓｅ░ｆｒｏｍ░ａ░ｐａｒｔｉｃｕｌａｒ░ｃｏｐｙｒｉｇｈｔ░ｈｏｌｄｅｒ░ｉｓ░ｒｅｉｎｓｔａｔｅｄ░（ａ）
+ｐｒｏｖｉｓｉｏｎａｌｌｙ，░ｕｎｌｅｓｓ░ａｎｄ░ｕｎｔｉｌ░ｔｈｅ░ｃｏｐｙｒｉｇｈｔ░ｈｏｌｄｅｒ░ｅｘｐｌｉｃｉｔｌｙ░ａｎｄ
+ｆｉｎａｌｌｙ░ｔｅｒｍｉｎａｔｅｓ░ｙｏｕｒ░ｌｉｃｅｎｓｅ，░ａｎｄ░（ｂ）░ｐｅｒｍａｎｅｎｔｌｙ，░ｉｆ░ｔｈｅ░ｃｏｐｙｒｉｇｈｔ
+ｈｏｌｄｅｒ░ｆａｉｌｓ░ｔｏ░ｎｏｔｉｆｙ░ｙｏｕ░ｏｆ░ｔｈｅ░ｖｉｏｌａｔｉｏｎ░ｂｙ░ｓｏｍｅ░ｒｅａｓｏｎａｂｌｅ░ｍｅａｎｓ
+ｐｒｉｏｒ░ｔｏ░６０░ｄａｙｓ░ａｆｔｅｒ░ｔｈｅ░ｃｅｓｓａｔｉｏｎ．
+
+░░Ｍｏｒｅｏｖｅｒ，░ｙｏｕｒ░ｌｉｃｅｎｓｅ░ｆｒｏｍ░ａ░ｐａｒｔｉｃｕｌａｒ░ｃｏｐｙｒｉｇｈｔ░ｈｏｌｄｅｒ░ｉｓ
+ｒｅｉｎｓｔａｔｅｄ░ｐｅｒｍａｎｅｎｔｌｙ░ｉｆ░ｔｈｅ░ｃｏｐｙｒｉｇｈｔ░ｈｏｌｄｅｒ░ｎｏｔｉｆｉｅｓ░ｙｏｕ░ｏｆ░ｔｈｅ
+ｖｉｏｌａｔｉｏｎ░ｂｙ░ｓｏｍｅ░ｒｅａｓｏｎａｂｌｅ░ｍｅａｎｓ，░ｔｈｉｓ░ｉｓ░ｔｈｅ░ｆｉｒｓｔ░ｔｉｍｅ░ｙｏｕ░ｈａｖｅ
+ｒｅｃｅｉｖｅｄ░ｎｏｔｉｃｅ░ｏｆ░ｖｉｏｌａｔｉｏｎ░ｏｆ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ░（ｆｏｒ░ａｎｙ░ｗｏｒｋ）░ｆｒｏｍ░ｔｈａｔ
+ｃｏｐｙｒｉｇｈｔ░ｈｏｌｄｅｒ，░ａｎｄ░ｙｏｕ░ｃｕｒｅ░ｔｈｅ░ｖｉｏｌａｔｉｏｎ░ｐｒｉｏｒ░ｔｏ░３０░ｄａｙｓ░ａｆｔｅｒ
+ｙｏｕｒ░ｒｅｃｅｉｐｔ░ｏｆ░ｔｈｅ░ｎｏｔｉｃｅ．
+
+░░Ｔｅｒｍｉｎａｔｉｏｎ░ｏｆ░ｙｏｕｒ░ｒｉｇｈｔｓ░ｕｎｄｅｒ░ｔｈｉｓ░ｓｅｃｔｉｏｎ░ｄｏｅｓ░ｎｏｔ░ｔｅｒｍｉｎａｔｅ░ｔｈｅ
+ｌｉｃｅｎｓｅｓ░ｏｆ░ｐａｒｔｉｅｓ░ｗｈｏ░ｈａｖｅ░ｒｅｃｅｉｖｅｄ░ｃｏｐｉｅｓ░ｏｒ░ｒｉｇｈｔｓ░ｆｒｏｍ░ｙｏｕ░ｕｎｄｅｒ
+ｔｈｉｓ░Ｌｉｃｅｎｓｅ．░░Ｉｆ░ｙｏｕｒ░ｒｉｇｈｔｓ░ｈａｖｅ░ｂｅｅｎ░ｔｅｒｍｉｎａｔｅｄ░ａｎｄ░ｎｏｔ░ｐｅｒｍａｎｅｎｔｌｙ
+ｒｅｉｎｓｔａｔｅｄ，░ｙｏｕ░ｄｏ░ｎｏｔ░ｑｕａｌｉｆｙ░ｔｏ░ｒｅｃｅｉｖｅ░ｎｅｗ░ｌｉｃｅｎｓｅｓ░ｆｏｒ░ｔｈｅ░ｓａｍｅ
+ｍａｔｅｒｉａｌ░ｕｎｄｅｒ░ｓｅｃｔｉｏｎ░１０．
+
+░░９．░Λｃｃｅｐｔａｎｃｅ░Ｎｏｔ░Ｒｅｑｕｉｒｅｄ░ｆｏｒ░Ｈａｖｉｎｇ░Ｃｏｐｉｅｓ．
+
+░░Ｙｏｕ░ａｒｅ░ｎｏｔ░ｒｅｑｕｉｒｅｄ░ｔｏ░ａｃｃｅｐｔ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ｉｎ░ｏｒｄｅｒ░ｔｏ░ｒｅｃｅｉｖｅ░ｏｒ
+ｒｕｎ░ａ░ｃｏｐｙ░ｏｆ░ｔｈｅ░Ｐｒｏｇｒａｍ．░░Λｎｃｉｌｌａｒｙ░ｐｒｏｐａｇａｔｉｏｎ░ｏｆ░ａ░ｃｏｖｅｒｅｄ░ｗｏｒｋ
+ｏｃｃｕｒｒｉｎｇ░ｓｏｌｅｌｙ░ａｓ░ａ░ｃｏｎｓｅｑｕｅｎｃｅ░ｏｆ░ｕｓｉｎｇ░ｐｅｅｒ－ｔｏ－ｐｅｅｒ░ｔｒａｎｓｍｉｓｓｉｏｎ
+ｔｏ░ｒｅｃｅｉｖｅ░ａ░ｃｏｐｙ░ｌｉｋｅｗｉｓｅ░ｄｏｅｓ░ｎｏｔ░ｒｅｑｕｉｒｅ░ａｃｃｅｐｔａｎｃｅ．░░Ｈｏｗｅｖｅｒ，
+ｎｏｔｈｉｎｇ░ｏｔｈｅｒ░ｔｈａｎ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ｇｒａｎｔｓ░ｙｏｕ░ｐｅｒｍｉｓｓｉｏｎ░ｔｏ░ｐｒｏｐａｇａｔｅ░ｏｒ
+ｍｏｄｉｆｙ░ａｎｙ░ｃｏｖｅｒｅｄ░ｗｏｒｋ．░░Ｔｈｅｓｅ░ａｃｔｉｏｎｓ░ｉｎｆｒｉｎｇｅ░ｃｏｐｙｒｉｇｈｔ░ｉｆ░ｙｏｕ░ｄｏ
+ｎｏｔ░ａｃｃｅｐｔ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ．░░Ｔｈｅｒｅｆｏｒｅ，░ｂｙ░ｍｏｄｉｆｙｉｎｇ░ｏｒ░ｐｒｏｐａｇａｔｉｎｇ░ａ
+ｃｏｖｅｒｅｄ░ｗｏｒｋ，░ｙｏｕ░ｉｎｄｉｃａｔｅ░ｙｏｕｒ░ａｃｃｅｐｔａｎｃｅ░ｏｆ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ｔｏ░ｄｏ░ｓｏ．
+
+░░１０．░Λｕｔｏｍａｔｉｃ░Ｌｉｃｅｎｓｉｎｇ░ｏｆ░Ｄｏｗｎｓｔｒｅａｍ░Ｒｅｃｉｐｉｅｎｔｓ．
+
+░░Ξａｃｈ░ｔｉｍｅ░ｙｏｕ░ｃｏｎｖｅｙ░ａ░ｃｏｖｅｒｅｄ░ｗｏｒｋ，░ｔｈｅ░ｒｅｃｉｐｉｅｎｔ░ａｕｔｏｍａｔｉｃａｌｌｙ
+ｒｅｃｅｉｖｅｓ░ａ░ｌｉｃｅｎｓｅ░ｆｒｏｍ░ｔｈｅ░ｏｒｉｇｉｎａｌ░ｌｉｃｅｎｓｏｒｓ，░ｔｏ░ｒｕｎ，░ｍｏｄｉｆｙ░ａｎｄ
+ｐｒｏｐａｇａｔｅ░ｔｈａｔ░ｗｏｒｋ，░ｓｕｂｊｅｃｔ░ｔｏ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ．░░Ｙｏｕ░ａｒｅ░ｎｏｔ░ｒｅｓｐｏｎｓｉｂｌｅ
+ｆｏｒ░ｅｎｆｏｒｃｉｎｇ░ｃｏｍｐｌｉａｎｃｅ░ｂｙ░ｔｈｉｒｄ░ｐａｒｔｉｅｓ░ｗｉｔｈ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ．
+
+░░Λｎ░"ｅｎｔｉｔｙ░ｔｒａｎｓａｃｔｉｏｎ"░ｉｓ░ａ░ｔｒａｎｓａｃｔｉｏｎ░ｔｒａｎｓｆｅｒｒｉｎｇ░ｃｏｎｔｒｏｌ░ｏｆ░ａｎ
+ｏｒｇａｎｉｚａｔｉｏｎ，░ｏｒ░ｓｕｂｓｔａｎｔｉａｌｌｙ░ａｌｌ░ａｓｓｅｔｓ░ｏｆ░ｏｎｅ，░ｏｒ░ｓｕｂｄｉｖｉｄｉｎｇ░ａｎ
+ｏｒｇａｎｉｚａｔｉｏｎ，░ｏｒ░ｍｅｒｇｉｎｇ░ｏｒｇａｎｉｚａｔｉｏｎｓ．░░Ｉｆ░ｐｒｏｐａｇａｔｉｏｎ░ｏｆ░ａ░ｃｏｖｅｒｅｄ
+ｗｏｒｋ░ｒｅｓｕｌｔｓ░ｆｒｏｍ░ａｎ░ｅｎｔｉｔｙ░ｔｒａｎｓａｃｔｉｏｎ，░ｅａｃｈ░ｐａｒｔｙ░ｔｏ░ｔｈａｔ
+ｔｒａｎｓａｃｔｉｏｎ░ｗｈｏ░ｒｅｃｅｉｖｅｓ░ａ░ｃｏｐｙ░ｏｆ░ｔｈｅ░ｗｏｒｋ░ａｌｓｏ░ｒｅｃｅｉｖｅｓ░ｗｈａｔｅｖｅｒ
+ｌｉｃｅｎｓｅｓ░ｔｏ░ｔｈｅ░ｗｏｒｋ░ｔｈｅ░ｐａｒｔｙ＇ｓ░ｐｒｅｄｅｃｅｓｓｏｒ░ｉｎ░ｉｎｔｅｒｅｓｔ░ｈａｄ░ｏｒ░ｃｏｕｌｄ
+ｇｉｖｅ░ｕｎｄｅｒ░ｔｈｅ░ｐｒｅｖｉｏｕｓ░ｐａｒａｇｒａｐｈ，░ｐｌｕｓ░ａ░ｒｉｇｈｔ░ｔｏ░ｐｏｓｓｅｓｓｉｏｎ░ｏｆ░ｔｈｅ
+Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ░ｏｆ░ｔｈｅ░ｗｏｒｋ░ｆｒｏｍ░ｔｈｅ░ｐｒｅｄｅｃｅｓｓｏｒ░ｉｎ░ｉｎｔｅｒｅｓｔ，░ｉｆ
+ｔｈｅ░ｐｒｅｄｅｃｅｓｓｏｒ░ｈａｓ░ｉｔ░ｏｒ░ｃａｎ░ｇｅｔ░ｉｔ░ｗｉｔｈ░ｒｅａｓｏｎａｂｌｅ░ｅｆｆｏｒｔｓ．
+
+░░Ｙｏｕ░ｍａｙ░ｎｏｔ░ｉｍｐｏｓｅ░ａｎｙ░ｆｕｒｔｈｅｒ░ｒｅｓｔｒｉｃｔｉｏｎｓ░ｏｎ░ｔｈｅ░ｅｘｅｒｃｉｓｅ░ｏｆ░ｔｈｅ
+ｒｉｇｈｔｓ░ｇｒａｎｔｅｄ░ｏｒ░ａｆｆｉｒｍｅｄ░ｕｎｄｅｒ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ．░░Ｆｏｒ░ｅｘａｍｐｌｅ，░ｙｏｕ░ｍａｙ
+ｎｏｔ░ｉｍｐｏｓｅ░ａ░ｌｉｃｅｎｓｅ░ｆｅｅ，░ｒｏｙａｌｔｙ，░ｏｒ░ｏｔｈｅｒ░ｃｈａｒｇｅ░ｆｏｒ░ｅｘｅｒｃｉｓｅ░ｏｆ
+ｒｉｇｈｔｓ░ｇｒａｎｔｅｄ░ｕｎｄｅｒ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ，░ａｎｄ░ｙｏｕ░ｍａｙ░ｎｏｔ░ｉｎｉｔｉａｔｅ░ｌｉｔｉｇａｔｉｏｎ
+（ｉｎｃｌｕｄｉｎｇ░ａ░ｃｒｏｓｓ－ｃｌａｉｍ░ｏｒ░ｃｏｕｎｔｅｒｃｌａｉｍ░ｉｎ░ａ░ｌａｗｓｕｉｔ）░ａｌｌｅｇｉｎｇ░ｔｈａｔ
+ａｎｙ░ｐａｔｅｎｔ░ｃｌａｉｍ░ｉｓ░ｉｎｆｒｉｎｇｅｄ░ｂｙ░ｍａｋｉｎｇ，░ｕｓｉｎｇ，░ｓｅｌｌｉｎｇ，░ｏｆｆｅｒｉｎｇ░ｆｏｒ
+ｓａｌｅ，░ｏｒ░ｉｍｐｏｒｔｉｎｇ░ｔｈｅ░Ｐｒｏｇｒａｍ░ｏｒ░ａｎｙ░ｐｏｒｔｉｏｎ░ｏｆ░ｉｔ．
+
+░░１１．░Ｐａｔｅｎｔｓ．
+
+░░Λ░"ｃｏｎｔｒｉｂｕｔｏｒ"░ｉｓ░ａ░ｃｏｐｙｒｉｇｈｔ░ｈｏｌｄｅｒ░ｗｈｏ░ａｕｔｈｏｒｉｚｅｓ░ｕｓｅ░ｕｎｄｅｒ░ｔｈｉｓ
+Ｌｉｃｅｎｓｅ░ｏｆ░ｔｈｅ░Ｐｒｏｇｒａｍ░ｏｒ░ａ░ｗｏｒｋ░ｏｎ░ｗｈｉｃｈ░ｔｈｅ░Ｐｒｏｇｒａｍ░ｉｓ░ｂａｓｅｄ．░░Ｔｈｅ
+ｗｏｒｋ░ｔｈｕｓ░ｌｉｃｅｎｓｅｄ░ｉｓ░ｃａｌｌｅｄ░ｔｈｅ░ｃｏｎｔｒｉｂｕｔｏｒ＇ｓ░"ｃｏｎｔｒｉｂｕｔｏｒ░ｖｅｒｓｉｏｎ"．
+
+░░Λ░ｃｏｎｔｒｉｂｕｔｏｒ＇ｓ░"ｅｓｓｅｎｔｉａｌ░ｐａｔｅｎｔ░ｃｌａｉｍｓ"░ａｒｅ░ａｌｌ░ｐａｔｅｎｔ░ｃｌａｉｍｓ
+ｏｗｎｅｄ░ｏｒ░ｃｏｎｔｒｏｌｌｅｄ░ｂｙ░ｔｈｅ░ｃｏｎｔｒｉｂｕｔｏｒ，░ｗｈｅｔｈｅｒ░ａｌｒｅａｄｙ░ａｃｑｕｉｒｅｄ░ｏｒ
+ｈｅｒｅａｆｔｅｒ░ａｃｑｕｉｒｅｄ，░ｔｈａｔ░ｗｏｕｌｄ░ｂｅ░ｉｎｆｒｉｎｇｅｄ░ｂｙ░ｓｏｍｅ░ｍａｎｎｅｒ，░ｐｅｒｍｉｔｔｅｄ
+ｂｙ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ，░ｏｆ░ｍａｋｉｎｇ，░ｕｓｉｎｇ，░ｏｒ░ｓｅｌｌｉｎｇ░ｉｔｓ░ｃｏｎｔｒｉｂｕｔｏｒ░ｖｅｒｓｉｏｎ，
+ｂｕｔ░ｄｏ░ｎｏｔ░ｉｎｃｌｕｄｅ░ｃｌａｉｍｓ░ｔｈａｔ░ｗｏｕｌｄ░ｂｅ░ｉｎｆｒｉｎｇｅｄ░ｏｎｌｙ░ａｓ░ａ
+ｃｏｎｓｅｑｕｅｎｃｅ░ｏｆ░ｆｕｒｔｈｅｒ░ｍｏｄｉｆｉｃａｔｉｏｎ░ｏｆ░ｔｈｅ░ｃｏｎｔｒｉｂｕｔｏｒ░ｖｅｒｓｉｏｎ．░░Ｆｏｒ
+ｐｕｒｐｏｓｅｓ░ｏｆ░ｔｈｉｓ░ｄｅｆｉｎｉｔｉｏｎ，░"ｃｏｎｔｒｏｌ"░ｉｎｃｌｕｄｅｓ░ｔｈｅ░ｒｉｇｈｔ░ｔｏ░ｇｒａｎｔ
+ｐａｔｅｎｔ░ｓｕｂｌｉｃｅｎｓｅｓ░ｉｎ░ａ░ｍａｎｎｅｒ░ｃｏｎｓｉｓｔｅｎｔ░ｗｉｔｈ░ｔｈｅ░ｒｅｑｕｉｒｅｍｅｎｔｓ░ｏｆ
+ｔｈｉｓ░Ｌｉｃｅｎｓｅ．
+
+░░Σａｃｈ░ｃｏｎｔｒｉｂｕｔｏｒ░ｇｒａｎｔｓ░ｙｏｕ░ａ░ｎｏｎ－ｅｘｃｌｕｓｉｖｅ，░ｗｏｒｌｄｗｉｄｅ，░ｒｏｙａｌｔｙ－ｆｒｅｅ
+ｐａｔｅｎｔ░ｌｉｃｅｎｓｅ░ｕｎｄｅｒ░ｔｈｅ░ｃｏｎｔｒｉｂｕｔｏｒ＇ｓ░ｅｓｓｅｎｔｉａｌ░ｐａｔｅｎｔ░ｃｌａｉｍｓ，░ｔｏ
+ｍａｋｅ，░ｕｓｅ，░ｓｅｌｌ，░ｏｆｆｅｒ░ｆｏｒ░ｓａｌｅ，░ｉｍｐｏｒｔ░ａｎｄ░ｏｔｈｅｒｗｉｓｅ░ｒｕｎ，░ｍｏｄｉｆｙ░ａｎｄ
+ｐｒｏｐａｇａｔｅ░ｔｈｅ░ｃｏｎｔｅｎｔｓ░ｏｆ░ｉｔｓ░ｃｏｎｔｒｉｂｕｔｏｒ░ｖｅｒｓｉｏｎ．
+
+░░Ｉｎ░ｔｈｅ░ｆｏｌｌｏｗｉｎｇ░ｔｈｒｅｅ░ｐａｒａｇｒａｐｈｓ，░ａ░"ｐａｔｅｎｔ░ｌｉｃｅｎｓｅ"░ｉｓ░ａｎｙ░ｅｘｐｒｅｓｓ
+ａｇｒｅｅｍｅｎｔ░ｏｒ░ｃｏｍｍｉｔｍｅｎｔ，░ｈｏｗｅｖｅｒ░ｄｅｎｏｍｉｎａｔｅｄ，░ｎｏｔ░ｔｏ░ｅｎｆｏｒｃｅ░ａ░ｐａｔｅｎｔ
+（ｓｕｃｈ░ａｓ░ａｎ░ｅｘｐｒｅｓｓ░ｐｅｒｍｉｓｓｉｏｎ░ｔｏ░ｐｒａｃｔｉｃｅ░ａ░ｐａｔｅｎｔ░ｏｒ░ｃｏｖｅｎａｎｔ░ｎｏｔ░ｔｏ
+ｓｕｅ░ｆｏｒ░ｐａｔｅｎｔ░ｉｎｆｒｉｎｇｅｍｅｎｔ）．░░Ｔｏ░"ｇｒａｎｔ"░ｓｕｃｈ░ａ░ｐａｔｅｎｔ░ｌｉｃｅｎｓｅ░ｔｏ░ａ
+ｐａｒｔｙ░ｍｅａｎｓ░ｔｏ░ｍａｋｅ░ｓｕｃｈ░ａｎ░ａｇｒｅｅｍｅｎｔ░ｏｒ░ｃｏｍｍｉｔｍｅｎｔ░ｎｏｔ░ｔｏ░ｅｎｆｏｒｃｅ░ａ
+ｐａｔｅｎｔ░ａｇａｉｎｓｔ░ｔｈｅ░ｐａｒｔｙ．
+
+░░Ｉｆ░ｙｏｕ░ｃｏｎｖｅｙ░ａ░ｃｏｖｅｒｅｄ░ｗｏｒｋ，░ｋｎｏｗｉｎｇｌｙ░ｒｅｌｙｉｎｇ░ｏｎ░ａ░ｐａｔｅｎｔ░ｌｉｃｅｎｓｅ，
+ａｎｄ░ｔｈｅ░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ░ｏｆ░ｔｈｅ░ｗｏｒｋ░ｉｓ░ｎｏｔ░ａｖａｉｌａｂｌｅ░ｆｏｒ░ａｎｙｏｎｅ
+ｔｏ░ｃｏｐｙ，░ｆｒｅｅ░ｏｆ░ｃｈａｒｇｅ░ａｎｄ░ｕｎｄｅｒ░ｔｈｅ░ｔｅｒｍｓ░ｏｆ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ，░ｔｈｒｏｕｇｈ░ａ
+ｐｕｂｌｉｃｌｙ░ａｖａｉｌａｂｌｅ░ｎｅｔｗｏｒｋ░ｓｅｒｖｅｒ░ｏｒ░ｏｔｈｅｒ░ｒｅａｄｉｌｙ░ａｃｃｅｓｓｉｂｌｅ░ｍｅａｎｓ，
+ｔｈｅｎ░ｙｏｕ░ｍｕｓｔ░ｅｉｔｈｅｒ░（１）░ｃａｕｓｅ░ｔｈｅ░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ░ｔｏ░ｂｅ░ｓｏ
+ａｖａｉｌａｂｌｅ，░ｏｒ░（２）░ａｒｒａｎｇｅ░ｔｏ░ｄｅｐｒｉｖｅ░ｙｏｕｒｓｅｌｆ░ｏｆ░ｔｈｅ░ｂｅｎｅｆｉｔ░ｏｆ░ｔｈｅ
+ｐａｔｅｎｔ░ｌｉｃｅｎｓｅ░ｆｏｒ░ｔｈｉｓ░ｐａｒｔｉｃｕｌａｒ░ｗｏｒｋ，░ｏｒ░（３）░ａｒｒａｎｇｅ，░ｉｎ░ａ░ｍａｎｎｅｒ
+ｃｏｎｓｉｓｔｅｎｔ░ｗｉｔｈ░ｔｈｅ░ｒｅｑｕｉｒｅｍｅｎｔｓ░ｏｆ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ，░ｔｏ░ｅｘｔｅｎｄ░ｔｈｅ░ｐａｔｅｎｔ
+ｌｉｃｅｎｓｅ░ｔｏ░ｄｏｗｎｓｔｒｅａｍ░ｒｅｃｉｐｉｅｎｔｓ．░░"Ｋｎｏｗｉｎｇｌｙ░ｒｅｌｙｉｎｇ"░ｍｅａｎｓ░ｙｏｕ░ｈａｖｅ
+ａｃｔｕａｌ░ｋｎｏｗｌｅｄｇｅ░ｔｈａｔ，░ｂｕｔ░ｆｏｒ░ｔｈｅ░ｐａｔｅｎｔ░ｌｉｃｅｎｓｅ，░ｙｏｕｒ░ｃｏｎｖｅｙｉｎｇ░ｔｈｅ
+ｃｏｖｅｒｅｄ░ｗｏｒｋ░ｉｎ░ａ░ｃｏｕｎｔｒｙ，░ｏｒ░ｙｏｕｒ░ｒｅｃｉｐｉｅｎｔ＇ｓ░ｕｓｅ░ｏｆ░ｔｈｅ░ｃｏｖｅｒｅｄ░ｗｏｒｋ
+ｉｎ░ａ░ｃｏｕｎｔｒｙ，░ｗｏｕｌｄ░ｉｎｆｒｉｎｇｅ░ｏｎｅ░ｏｒ░ｍｏｒｅ░ｉｄｅｎｔｉｆｉａｂｌｅ░ｐａｔｅｎｔｓ░ｉｎ░ｔｈａｔ
+ｃｏｕｎｔｒｙ░ｔｈａｔ░ｙｏｕ░ｈａｖｅ░ｒｅａｓｏｎ░ｔｏ░ｂｅｌｉｅｖｅ░ａｒｅ░ｖａｌｉｄ．
+
+░░Ｉｆ，░ｐｕｒｓｕａｎｔ░ｔｏ░ｏｒ░ｉｎ░ｃｏｎｎｅｃｔｉｏｎ░ｗｉｔｈ░ａ░ｓｉｎｇｌｅ░ｔｒａｎｓａｃｔｉｏｎ░ｏｒ
+ａｒｒａｎｇｅｍｅｎｔ，░ｙｏｕ░ｃｏｎｖｅｙ，░ｏｒ░ｐｒｏｐａｇａｔｅ░ｂｙ░ｐｒｏｃｕｒｉｎｇ░ｃｏｎｖｅｙａｎｃｅ░ｏｆ，░ａ
+ｃｏｖｅｒｅｄ░ｗｏｒｋ，░ａｎｄ░ｇｒａｎｔ░ａ░ｐａｔｅｎｔ░ｌｉｃｅｎｓｅ░ｔｏ░ｓｏｍｅ░ｏｆ░ｔｈｅ░ｐａｒｔｉｅｓ
+ｒｅｃｅｉｖｉｎｇ░ｔｈｅ░ｃｏｖｅｒｅｄ░ｗｏｒｋ░ａｕｔｈｏｒｉｚｉｎｇ░ｔｈｅｍ░ｔｏ░ｕｓｅ，░ｐｒｏｐａｇａｔｅ，░ｍｏｄｉｆｙ
+ｏｒ░ｃｏｎｖｅｙ░ａ░ｓｐｅｃｉｆｉｃ░ｃｏｐｙ░ｏｆ░ｔｈｅ░ｃｏｖｅｒｅｄ░ｗｏｒｋ，░ｔｈｅｎ░ｔｈｅ░ｐａｔｅｎｔ░ｌｉｃｅｎｓｅ
+ｙｏｕ░ｇｒａｎｔ░ｉｓ░ａｕｔｏｍａｔｉｃａｌｌｙ░ｅｘｔｅｎｄｅｄ░ｔｏ░ａｌｌ░ｒｅｃｉｐｉｅｎｔｓ░ｏｆ░ｔｈｅ░ｃｏｖｅｒｅｄ
+ｗｏｒｋ░ａｎｄ░ｗｏｒｋｓ░ｂａｓｅｄ░ｏｎ░ｉｔ．
+
+░░Λ░ｐａｔｅｎｔ░ｌｉｃｅｎｓｅ░ｉｓ░"ｄｉｓｃｒｉｍｉｎａｔｏｒｙ"░ｉｆ░ｉｔ░ｄｏｅｓ░ｎｏｔ░ｉｎｃｌｕｄｅ░ｗｉｔｈｉｎ
+ｔｈｅ░ｓｃｏｐｅ░ｏｆ░ｉｔｓ░ｃｏｖｅｒａｇｅ，░ｐｒｏｈｉｂｉｔｓ░ｔｈｅ░ｅｘｅｒｃｉｓｅ░ｏｆ，░ｏｒ░ｉｓ
+ｃｏｎｄｉｔｉｏｎｅｄ░ｏｎ░ｔｈｅ░ｎｏｎ－ｅｘｅｒｃｉｓｅ░ｏｆ░ｏｎｅ░ｏｒ░ｍｏｒｅ░ｏｆ░ｔｈｅ░ｒｉｇｈｔｓ░ｔｈａｔ░ａｒｅ
+ｓｐｅｃｉｆｉｃａｌｌｙ░ｇｒａｎｔｅｄ░ｕｎｄｅｒ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ．░░Ｙｏｕ░ｍａｙ░ｎｏｔ░ｃｏｎｖｅｙ░ａ░ｃｏｖｅｒｅｄ
+ｗｏｒｋ░ｉｆ░ｙｏｕ░ａｒｅ░ａ░ｐａｒｔｙ░ｔｏ░ａｎ░ａｒｒａｎｇｅｍｅｎｔ░ｗｉｔｈ░ａ░ｔｈｉｒｄ░ｐａｒｔｙ░ｔｈａｔ░ｉｓ
+ｉｎ░ｔｈｅ░ｂｕｓｉｎｅｓｓ░ｏｆ░ｄｉｓｔｒｉｂｕｔｉｎｇ░ｓｏｆｔｗａｒｅ，░ｕｎｄｅｒ░ｗｈｉｃｈ░ｙｏｕ░ｍａｋｅ░ｐａｙｍｅｎｔ
+ｔｏ░ｔｈｅ░ｔｈｉｒｄ░ｐａｒｔｙ░ｂａｓｅｄ░ｏｎ░ｔｈｅ░ｅｘｔｅｎｔ░ｏｆ░ｙｏｕｒ░ａｃｔｉｖｉｔｙ░ｏｆ░ｃｏｎｖｅｙｉｎｇ
+ｔｈｅ░ｗｏｒｋ，░ａｎｄ░ｕｎｄｅｒ░ｗｈｉｃｈ░ｔｈｅ░ｔｈｉｒｄ░ｐａｒｔｙ░ｇｒａｎｔｓ，░ｔｏ░ａｎｙ░ｏｆ░ｔｈｅ
+ｐａｒｔｉｅｓ░ｗｈｏ░ｗｏｕｌｄ░ｒｅｃｅｉｖｅ░ｔｈｅ░ｃｏｖｅｒｅｄ░ｗｏｒｋ░ｆｒｏｍ░ｙｏｕ，░ａ░ｄｉｓｃｒｉｍｉｎａｔｏｒｙ
+ｐａｔｅｎｔ░ｌｉｃｅｎｓｅ░（ａ）░ｉｎ░ｃｏｎｎｅｃｔｉｏｎ░ｗｉｔｈ░ｃｏｐｉｅｓ░ｏｆ░ｔｈｅ░ｃｏｖｅｒｅｄ░ｗｏｒｋ
+ｃｏｎｖｅｙｅｄ░ｂｙ░ｙｏｕ░（ｏｒ░ｃｏｐｉｅｓ░ｍａｄｅ░ｆｒｏｍ░ｔｈｏｓｅ░ｃｏｐｉｅｓ），░ｏｒ░（ｂ）░ｐｒｉｍａｒｉｌｙ
+ｆｏｒ░ａｎｄ░ｉｎ░ｃｏｎｎｅｃｔｉｏｎ░ｗｉｔｈ░ｓｐｅｃｉｆｉｃ░ｐｒｏｄｕｃｔｓ░ｏｒ░ｃｏｍｐｉｌａｔｉｏｎｓ░ｔｈａｔ
+ｃｏｎｔａｉｎ░ｔｈｅ░ｃｏｖｅｒｅｄ░ｗｏｒｋ，░ｕｎｌｅｓｓ░ｙｏｕ░ｅｎｔｅｒｅｄ░ｉｎｔｏ░ｔｈａｔ░ａｒｒａｎｇｅｍｅｎｔ，
+ｏｒ░ｔｈａｔ░ｐａｔｅｎｔ░ｌｉｃｅｎｓｅ░ｗａｓ░ｇｒａｎｔｅｄ，░ｐｒｉｏｒ░ｔｏ░２８░Ｍａｒｃｈ░２００７．
+
+░░Ｎｏｔｈｉｎｇ░ｉｎ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ░ｓｈａｌｌ░ｂｅ░ｃｏｎｓｔｒｕｅｄ░ａｓ░ｅｘｃｌｕｄｉｎｇ░ｏｒ░ｌｉｍｉｔｉｎｇ
+ａｎｙ░ｉｍｐｌｉｅｄ░ｌｉｃｅｎｓｅ░ｏｒ░ｏｔｈｅｒ░ｄｅｆｅｎｓｅｓ░ｔｏ░ｉｎｆｒｉｎｇｅｍｅｎｔ░ｔｈａｔ░ｍａｙ
+ｏｔｈｅｒｗｉｓｅ░ｂｅ░ａｖａｉｌａｂｌｅ░ｔｏ░ｙｏｕ░ｕｎｄｅｒ░ａｐｐｌｉｃａｂｌｅ░ｐａｔｅｎｔ░ｌａｗ．
+
+░░１２．░Ｎｏ░Ｓｕｒｒｅｎｄｅｒ░ｏｆ░♢ｔｈｅｒｓ＇░Ｆｒｅｅｄｏｍ．
+
+░░Ｉｆ░ｃｏｎｄｉｔｉｏｎｓ░ａｒｅ░ｉｍｐｏｓｅｄ░ｏｎ░ｙｏｕ░（ｗｈｅｔｈｅｒ░ｂｙ░ｃｏｕｒｔ░ｏｒｄｅｒ，░ａｇｒｅｅｍｅｎｔ░ｏｒ
+ｏｔｈｅｒｗｉｓｅ）░ｔｈａｔ░ｃｏｎｔｒａｄｉｃｔ░ｔｈｅ░ｃｏｎｄｉｔｉｏｎｓ░ｏｆ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ，░ｔｈｅｙ░ｄｏ░ｎｏｔ
+ｅｘｃｕｓｅ░ｙｏｕ░ｆｒｏｍ░ｔｈｅ░ｃｏｎｄｉｔｉｏｎｓ░ｏｆ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ．░░Ｉｆ░ｙｏｕ░ｃａｎｎｏｔ░ｃｏｎｖｅｙ░ａ
+ｃｏｖｅｒｅｄ░ｗｏｒｋ░ｓｏ░ａｓ░ｔｏ░ｓａｔｉｓｆｙ░ｓｉｍｕｌｔａｎｅｏｕｓｌｙ░ｙｏｕｒ░ｏｂｌｉｇａｔｉｏｎｓ░ｕｎｄｅｒ░ｔｈｉｓ
+Ｌｉｃｅｎｓｅ░ａｎｄ░ａｎｙ░ｏｔｈｅｒ░ｐｅｒｔｉｎｅｎｔ░ｏｂｌｉｇａｔｉｏｎｓ，░ｔｈｅｎ░ａｓ░ａ░ｃｏｎｓｅｑｕｅｎｃｅ░ｙｏｕ░ｍａｙ
+ｎｏｔ░ｃｏｎｖｅｙ░ｉｔ░ａｔ░ａｌｌ．░░Ｆｏｒ░ｅｘａｍｐｌｅ，░ｉｆ░ｙｏｕ░ａｇｒｅｅ░ｔｏ░ｔｅｒｍｓ░ｔｈａｔ░ｏｂｌｉｇａｔｅ░ｙｏｕ
+ｔｏ░ｃｏｌｌｅｃｔ░ａ░ｒｏｙａｌｔｙ░ｆｏｒ░ｆｕｒｔｈｅｒ░ｃｏｎｖｅｙｉｎｇ░ｆｒｏｍ░ｔｈｏｓｅ░ｔｏ░ｗｈｏｍ░ｙｏｕ░ｃｏｎｖｅｙ
+ｔｈｅ░Ｐｒｏｇｒａｍ，░ｔｈｅ░ｏｎｌｙ░ｗａｙ░ｙｏｕ░ｃｏｕｌｄ░ｓａｔｉｓｆｙ░ｂｏｔｈ░ｔｈｏｓｅ░ｔｅｒｍｓ░ａｎｄ░ｔｈｉｓ
+Ｌｉｃｅｎｓｅ░ｗｏｕｌｄ░ｂｅ░ｔｏ░ｒｅｆｒａｉｎ░ｅｎｔｉｒｅｌｙ░ｆｒｏｍ░ｃｏｎｖｅｙｉｎｇ░ｔｈｅ░Ｐｒｏｇｒａｍ．
+
+░░１３．░Ｒｅｍｏｔｅ░Ｎｅｔｗｏｒｋ░Ｉｎｔｅｒａｃｔｉｏｎ；░Ｕｓｅ░ｗｉｔｈ░ｔｈｅ░ＧＮＵ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅ．
+
+░░Ｎｏｔｗｉｔｈｓｔａｎｄｉｎｇ░ａｎｙ░ｏｔｈｅｒ░ｐｒｏｖｉｓｉｏｎ░ｏｆ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ，░ｉｆ░ｙｏｕ░ｍｏｄｉｆｙ░ｔｈｅ
+Ｐｒｏｇｒａｍ，░ｙｏｕｒ░ｍｏｄｉｆｉｅｄ░ｖｅｒｓｉｏｎ░ｍｕｓｔ░ｐｒｏｍｉｎｅｎｔｌｙ░ｏｆｆｅｒ░ａｌｌ░ｕｓｅｒｓ
+ｉｎｔｅｒａｃｔｉｎｇ░ｗｉｔｈ░ｉｔ░ｒｅｍｏｔｅｌｙ░ｔｈｒｏｕｇｈ░ａ░ｃｏｍｐｕｔｅｒ░ｎｅｔｗｏｒｋ░（ｉｆ░ｙｏｕｒ░ｖｅｒｓｉｏｎ
+ｓｕｐｐｏｒｔｓ░ｓｕｃｈ░ｉｎｔｅｒａｃｔｉｏｎ）░ａｎ░ｏｐｐｏｒｔｕｎｉｔｙ░ｔｏ░ｒｅｃｅｉｖｅ░ｔｈｅ░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ
+Ｓｏｕｒｃｅ░ｏｆ░ｙｏｕｒ░ｖｅｒｓｉｏｎ░ｂｙ░ｐｒｏｖｉｄｉｎｇ░ａｃｃｅｓｓ░ｔｏ░ｔｈｅ░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ
+ｆｒｏｍ░ａ░ｎｅｔｗｏｒｋ░ｓｅｒｖｅｒ░ａｔ░ｎｏ░ｃｈａｒｇｅ，░ｔｈｒｏｕｇｈ░ｓｏｍｅ░ｓｔａｎｄａｒｄ░ｏｒ░ｃｕｓｔｏｍａｒｙ
+ｍｅａｎｓ░ｏｆ░ｆａｃｉｌｉｔａｔｉｎｇ░ｃｏｐｙｉｎｇ░ｏｆ░ｓｏｆｔｗａｒｅ．░░Ｔｈｉｓ░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ
+ｓｈａｌｌ░ｉｎｃｌｕｄｅ░ｔｈｅ░Ｃｏｒｒｅｓｐｏｎｄｉｎｇ░Ｓｏｕｒｃｅ░ｆｏｒ░ａｎｙ░ｗｏｒｋ░ｃｏｖｅｒｅｄ░ｂｙ░ｖｅｒｓｉｏｎ░３
+ｏｆ░ｔｈｅ░ＧＮＵ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅ░ｔｈａｔ░ｉｓ░ｉｎｃｏｒｐｏｒａｔｅｄ░ｐｕｒｓｕａｎｔ░ｔｏ░ｔｈｅ
+ｆｏｌｌｏｗｉｎｇ░ｐａｒａｇｒａｐｈ．
+
+░░Ｎｏｔｗｉｔｈｓｔａｎｄｉｎｇ░ａｎｙ░ｏｔｈｅｒ░ｐｒｏｖｉｓｉｏｎ░ｏｆ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ，░ｙｏｕ░ｈａｖｅ
+ｐｅｒｍｉｓｓｉｏｎ░ｔｏ░ｌｉｎｋ░ｏｒ░ｃｏｍｂｉｎｅ░ａｎｙ░ｃｏｖｅｒｅｄ░ｗｏｒｋ░ｗｉｔｈ░ａ░ｗｏｒｋ░ｌｉｃｅｎｓｅｄ
+ｕｎｄｅｒ░ｖｅｒｓｉｏｎ░３░ｏｆ░ｔｈｅ░ＧＮＵ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅ░ｉｎｔｏ░ａ░ｓｉｎｇｌｅ
+ｃｏｍｂｉｎｅｄ░ｗｏｒｋ，░ａｎｄ░ｔｏ░ｃｏｎｖｅｙ░ｔｈｅ░ｒｅｓｕｌｔｉｎｇ░ｗｏｒｋ．░░Ｔｈｅ░ｔｅｒｍｓ░ｏｆ░ｔｈｉｓ
+Ｌｉｃｅｎｓｅ░ｗｉｌｌ░ｃｏｎｔｉｎｕｅ░ｔｏ░ａｐｐｌｙ░ｔｏ░ｔｈｅ░ｐａｒｔ░ｗｈｉｃｈ░ｉｓ░ｔｈｅ░ｃｏｖｅｒｅｄ░ｗｏｒｋ，
+ｂｕｔ░ｔｈｅ░ｗｏｒｋ░ｗｉｔｈ░ｗｈｉｃｈ░ｉｔ░ｉｓ░ｃｏｍｂｉｎｅｄ░ｗｉｌｌ░ｒｅｍａｉｎ░ｇｏｖｅｒｎｅｄ░ｂｙ░ｖｅｒｓｉｏｎ
+３░ｏｆ░ｔｈｅ░ＧＮＵ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅ．
+
+░░１４．░Ｒｅｖｉｓｅｄ░Ｖｅｒｓｉｏｎｓ░ｏｆ░ｔｈｉｓ░Ｌｉｃｅｎｓｅ．
+
+░░Ｔｈｅ░Ｆｒｅｅ░Ｓｏｆｔｗａｒｅ░Ｆｏｕｎｄａｔｉｏｎ░ｍａｙ░ｐｕｂｌｉｓｈ░ｒｅｖｉｓｅｄ░ａｎｄ／ｏｒ░ｎｅｗ░ｖｅｒｓｉｏｎｓ░ｏｆ
+ｔｈｅ░ＧＮＵ░Λｆｆｅｒｏ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅ░ｆｒｏｍ░ｔｉｍｅ░ｔｏ░ｔｉｍｅ．░░Ｓｕｃｈ░ｎｅｗ░ｖｅｒｓｉｏｎｓ
+ｗｉｌｌ░ｂｅ░ｓｉｍｉｌａｒ░ｉｎ░ｓｐｉｒｉｔ░ｔｏ░ｔｈｅ░ｐｒｅｓｅｎｔ░ｖｅｒｓｉｏｎ，░ｂｕｔ░ｍａｙ░ｄｉｆｆｅｒ░ｉｎ░ｄｅｔａｉｌ░ｔｏ
+ａｄｄｒｅｓｓ░ｎｅｗ░ｐｒｏｂｌｅｍｓ░ｏｒ░ｃｏｎｃｅｒｎｓ．
+
+░░Σａｃｈ░ｖｅｒｓｉｏｎ░ｉｓ░ｇｉｖｅｎ░ａ░ｄｉｓｔｉｎｇｕｉｓｈｉｎｇ░ｖｅｒｓｉｏｎ░ｎｕｍｂｅｒ．░░Ｉｆ░ｔｈｅ
+Ｐｒｏｇｒａｍ░ｓｐｅｃｉｆｉｅｓ░ｔｈａｔ░ａ░ｃｅｒｔａｉｎ░ｎｕｍｂｅｒｅｄ░ｖｅｒｓｉｏｎ░ｏｆ░ｔｈｅ░ＧＮＵ░Λｆｆｅｒｏ░Ｇｅｎｅｒａｌ
+Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅ░"ｏｒ░ａｎｙ░ｌａｔｅｒ░ｖｅｒｓｉｏｎ"░ａｐｐｌｉｅｓ░ｔｏ░ｉｔ，░ｙｏｕ░ｈａｖｅ░ｔｈｅ
+ｏｐｔｉｏｎ░ｏｆ░ｆｏｌｌｏｗｉｎｇ░ｔｈｅ░ｔｅｒｍｓ░ａｎｄ░ｃｏｎｄｉｔｉｏｎｓ░ｅｉｔｈｅｒ░ｏｆ░ｔｈａｔ░ｎｕｍｂｅｒｅｄ
+ｖｅｒｓｉｏｎ░ｏｒ░ｏｆ░ａｎｙ░ｌａｔｅｒ░ｖｅｒｓｉｏｎ░ｐｕｂｌｉｓｈｅｄ░ｂｙ░ｔｈｅ░Ｆｒｅｅ░Ｓｏｆｔｗａｒｅ
+Ｆｏｕｎｄａｔｉｏｎ．░░Ｉｆ░ｔｈｅ░Ｐｒｏｇｒａｍ░ｄｏｅｓ░ｎｏｔ░ｓｐｅｃｉｆｙ░ａ░ｖｅｒｓｉｏｎ░ｎｕｍｂｅｒ░ｏｆ░ｔｈｅ
+ＧＮＵ░Λｆｆｅｒｏ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅ，░ｙｏｕ░ｍａｙ░ｃｈｏｏｓｅ░ａｎｙ░ｖｅｒｓｉｏｎ░ｅｖｅｒ░ｐｕｂｌｉｓｈｅｄ
+ｂｙ░ｔｈｅ░Ｆｒｅｅ░Ｓｏｆｔｗａｒｅ░Ｆｏｕｎｄａｔｉｏｎ．
+
+░░Ｉｆ░ｔｈｅ░Ｐｒｏｇｒａｍ░ｓｐｅｃｉｆｉｅｓ░ｔｈａｔ░ａ░ｐｒｏｘｙ░ｃａｎ░ｄｅｃｉｄｅ░ｗｈｉｃｈ░ｆｕｔｕｒｅ
+ｖｅｒｓｉｏｎｓ░ｏｆ░ｔｈｅ░ＧＮＵ░Λｆｆｅｒｏ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅ░ｃａｎ░ｂｅ░ｕｓｅｄ，░ｔｈａｔ░ｐｒｏｘｙ＇ｓ
+ｐｕｂｌｉｃ░ｓｔａｔｅｍｅｎｔ░ｏｆ░ａｃｃｅｐｔａｎｃｅ░ｏｆ░ａ░ｖｅｒｓｉｏｎ░ｐｅｒｍａｎｅｎｔｌｙ░ａｕｔｈｏｒｉｚｅｓ░ｙｏｕ
+ｔｏ░ｃｈｏｏｓｅ░ｔｈａｔ░ｖｅｒｓｉｏｎ░ｆｏｒ░ｔｈｅ░Ｐｒｏｇｒａｍ．
+
+░░Ｌａｔｅｒ░ｌｉｃｅｎｓｅ░ｖｅｒｓｉｏｎｓ░ｍａｙ░ｇｉｖｅ░ｙｏｕ░ａｄｄｉｔｉｏｎａｌ░ｏｒ░ｄｉｆｆｅｒｅｎｔ
+ｐｅｒｍｉｓｓｉｏｎｓ．░░Ｈｏｗｅｖｅｒ，░ｎｏ░ａｄｄｉｔｉｏｎａｌ░ｏｂｌｉｇａｔｉｏｎｓ░ａｒｅ░ｉｍｐｏｓｅｄ░ｏｎ░ａｎｙ
+ａｕｔｈｏｒ░ｏｒ░ｃｏｐｙｒｉｇｈｔ░ｈｏｌｄｅｒ░ａｓ░ａ░ｒｅｓｕｌｔ░ｏｆ░ｙｏｕｒ░ｃｈｏｏｓｉｎｇ░ｔｏ░ｆｏｌｌｏｗ░ａ
+ｌａｔｅｒ░ｖｅｒｓｉｏｎ．
+
+░░１５．░Ｄｉｓｃｌａｉｍｅｒ░ｏｆ░Ｗａｒｒａｎｔｙ．
+
+░░ＴＨΞＲΞ░ＩＳ░Ｎ♢░ＷΛＲＲΛＮＴＹ░Ｆ♢Ｒ░ＴＨΣ░ＰＲ♢ＧＲΛＭ，░Ｔ♢░ＴＨΞ░ΣＸＴΣＮＴ░ＰΣＲＭＩＴＴΣＤ░ＢＹ
+ΛＰＰＬＩＣΛＢＬΣ░ＬΛＷ．░░ΞＸＣΞＰＴ░ＷＨΣＮ░♢ＴＨΞＲＷＩＳΞ░ＳＴΛＴΣＤ░ＩＮ░ＷＲＩＴＩＮＧ░ＴＨΣ░Ｃ♢ＰＹＲＩＧＨＴ
+Ｈ♢ＬＤΣＲＳ░ΛＮＤ／♢Ｒ░♢ＴＨΣＲ░ＰΛＲＴＩΞＳ░ＰＲ♢ＶＩＤΣ░ＴＨΞ░ＰＲ♢ＧＲΛＭ░"ΛＳ░ＩＳ"░ＷＩＴＨ♢ＵＴ░ＷΛＲＲΛＮＴＹ
+♢Ｆ░ΛＮＹ░ＫＩＮＤ，░ΣＩＴＨΣＲ░ΣＸＰＲΣＳＳΞＤ░♢Ｒ░ＩＭＰＬＩΣＤ，░ＩＮＣＬＵＤＩＮＧ，░ＢＵＴ░Ｎ♢Ｔ░ＬＩＭＩＴΞＤ░Ｔ♢，
+ＴＨΞ░ＩＭＰＬＩΣＤ░ＷΛＲＲΛＮＴＩΞＳ░♢Ｆ░ＭΣＲＣＨΛＮＴΛＢＩＬＩＴＹ░ΛＮＤ░ＦＩＴＮΞＳＳ░Ｆ♢Ｒ░Λ░ＰΛＲＴＩＣＵＬΛＲ
+ＰＵＲＰ♢ＳΣ．░░ＴＨΣ░ΣＮＴＩＲΞ░ＲＩＳＫ░ΛＳ░Ｔ♢░ＴＨΞ░ＱＵΛＬＩＴＹ░ΛＮＤ░ＰΞＲＦ♢ＲＭΛＮＣΣ░♢Ｆ░ＴＨΣ░ＰＲ♢ＧＲΛＭ
+ＩＳ░ＷＩＴＨ░Ｙ♢Ｕ．░░ＳＨ♢ＵＬＤ░ＴＨΞ░ＰＲ♢ＧＲΛＭ░ＰＲ♢ＶΞ░ＤΞＦΣＣＴＩＶΣ，░Ｙ♢Ｕ░ΛＳＳＵＭΞ░ＴＨΣ░Ｃ♢ＳＴ░♢Ｆ
+ΛＬＬ░ＮΣＣΣＳＳΛＲＹ░ＳΣＲＶＩＣＩＮＧ，░ＲΞＰΛＩＲ░♢Ｒ░Ｃ♢ＲＲΞＣＴＩ♢Ｎ．
+
+░░１６．░Ｌｉｍｉｔａｔｉｏｎ░ｏｆ░Ｌｉａｂｉｌｉｔｙ．
+
+░░ＩＮ░Ｎ♢░ΞＶΞＮＴ░ＵＮＬΞＳＳ░ＲΞＱＵＩＲΞＤ░ＢＹ░ΛＰＰＬＩＣΛＢＬΞ░ＬΛＷ░♢Ｒ░ΛＧＲΞΣＤ░Ｔ♢░ＩＮ░ＷＲＩＴＩＮＧ
+ＷＩＬＬ░ΛＮＹ░Ｃ♢ＰＹＲＩＧＨＴ░Ｈ♢ＬＤΣＲ，░♢Ｒ░ΛＮＹ░♢ＴＨΣＲ░ＰΛＲＴＹ░ＷＨ♢░Ｍ♢ＤＩＦＩΣＳ░ΛＮＤ／♢Ｒ░Ｃ♢ＮＶΞＹＳ
+ＴＨΞ░ＰＲ♢ＧＲΛＭ░ΛＳ░ＰΣＲＭＩＴＴΞＤ░ΛＢ♢ＶΞ，░ＢΞ░ＬＩΛＢＬΞ░Ｔ♢░Ｙ♢Ｕ░Ｆ♢Ｒ░ＤΛＭΛＧΣＳ，░ＩＮＣＬＵＤＩＮＧ░ΛＮＹ
+ＧΣＮΞＲΛＬ，░ＳＰΣＣＩΛＬ，░ＩＮＣＩＤΞＮＴΛＬ░♢Ｒ░Ｃ♢ＮＳΞＱＵΣＮＴＩΛＬ░ＤΛＭΛＧΞＳ░ΛＲＩＳＩＮＧ░♢ＵＴ░♢Ｆ░ＴＨΣ
+ＵＳΞ░♢Ｒ░ＩＮΛＢＩＬＩＴＹ░Ｔ♢░ＵＳΞ░ＴＨΞ░ＰＲ♢ＧＲΛＭ░（ＩＮＣＬＵＤＩＮＧ░ＢＵＴ░Ｎ♢Ｔ░ＬＩＭＩＴΞＤ░Ｔ♢░Ｌ♢ＳＳ░♢Ｆ
+ＤΛＴΛ░♢Ｒ░ＤΛＴΛ░ＢΞＩＮＧ░ＲΣＮＤΣＲΣＤ░ＩＮΛＣＣＵＲΛＴΣ░♢Ｒ░Ｌ♢ＳＳΞＳ░ＳＵＳＴΛＩＮΞＤ░ＢＹ░Ｙ♢Ｕ░♢Ｒ░ＴＨＩＲＤ
+ＰΛＲＴＩΣＳ░♢Ｒ░Λ░ＦΛＩＬＵＲΣ░♢Ｆ░ＴＨΣ░ＰＲ♢ＧＲΛＭ░Ｔ♢░♢ＰΞＲΛＴΣ░ＷＩＴＨ░ΛＮＹ░♢ＴＨΞＲ░ＰＲ♢ＧＲΛＭＳ），
+ΞＶΣＮ░ＩＦ░ＳＵＣＨ░Ｈ♢ＬＤΣＲ░♢Ｒ░♢ＴＨΞＲ░ＰΛＲＴＹ░ＨΛＳ░ＢΞΣＮ░ΛＤＶＩＳΞＤ░♢Ｆ░ＴＨΣ░Ｐ♢ＳＳＩＢＩＬＩＴＹ░♢Ｆ
+ＳＵＣＨ░ＤΛＭΛＧΣＳ．
+
+░░１７．░Ｉｎｔｅｒｐｒｅｔａｔｉｏｎ░ｏｆ░Ｓｅｃｔｉｏｎｓ░１５░ａｎｄ░１６．
+
+░░Ｉｆ░ｔｈｅ░ｄｉｓｃｌａｉｍｅｒ░ｏｆ░ｗａｒｒａｎｔｙ░ａｎｄ░ｌｉｍｉｔａｔｉｏｎ░ｏｆ░ｌｉａｂｉｌｉｔｙ░ｐｒｏｖｉｄｅｄ
+ａｂｏｖｅ░ｃａｎｎｏｔ░ｂｅ░ｇｉｖｅｎ░ｌｏｃａｌ░ｌｅｇａｌ░ｅｆｆｅｃｔ░ａｃｃｏｒｄｉｎｇ░ｔｏ░ｔｈｅｉｒ░ｔｅｒｍｓ，
+ｒｅｖｉｅｗｉｎｇ░ｃｏｕｒｔｓ░ｓｈａｌｌ░ａｐｐｌｙ░ｌｏｃａｌ░ｌａｗ░ｔｈａｔ░ｍｏｓｔ░ｃｌｏｓｅｌｙ░ａｐｐｒｏｘｉｍａｔｅｓ
+ａｎ░ａｂｓｏｌｕｔｅ░ｗａｉｖｅｒ░ｏｆ░ａｌｌ░ｃｉｖｉｌ░ｌｉａｂｉｌｉｔｙ░ｉｎ░ｃｏｎｎｅｃｔｉｏｎ░ｗｉｔｈ░ｔｈｅ
+Ｐｒｏｇｒａｍ，░ｕｎｌｅｓｓ░ａ░ｗａｒｒａｎｔｙ░ｏｒ░ａｓｓｕｍｐｔｉｏｎ░ｏｆ░ｌｉａｂｉｌｉｔｙ░ａｃｃｏｍｐａｎｉｅｓ░ａ
+ｃｏｐｙ░ｏｆ░ｔｈｅ░Ｐｒｏｇｒａｍ░ｉｎ░ｒｅｔｕｒｎ░ｆｏｒ░ａ░ｆｅｅ．
+
+░░░░░░░░░░░░░░░░░░░░░ΞＮＤ░♢Ｆ░ＴΣＲＭＳ░ΛＮＤ░Ｃ♢ＮＤＩＴＩ♢ＮＳ
+
+░░░░░░░░░░░░Ｈｏｗ░ｔｏ░Λｐｐｌｙ░Ｔｈｅｓｅ░Ｔｅｒｍｓ░ｔｏ░Ｙｏｕｒ░Ｎｅｗ░Ｐｒｏｇｒａｍｓ
+
+░░Ｉｆ░ｙｏｕ░ｄｅｖｅｌｏｐ░ａ░ｎｅｗ░ｐｒｏｇｒａｍ，░ａｎｄ░ｙｏｕ░ｗａｎｔ░ｉｔ░ｔｏ░ｂｅ░ｏｆ░ｔｈｅ░ｇｒｅａｔｅｓｔ
+ｐｏｓｓｉｂｌｅ░ｕｓｅ░ｔｏ░ｔｈｅ░ｐｕｂｌｉｃ，░ｔｈｅ░ｂｅｓｔ░ｗａｙ░ｔｏ░ａｃｈｉｅｖｅ░ｔｈｉｓ░ｉｓ░ｔｏ░ｍａｋｅ░ｉｔ
+ｆｒｅｅ░ｓｏｆｔｗａｒｅ░ｗｈｉｃｈ░ｅｖｅｒｙｏｎｅ░ｃａｎ░ｒｅｄｉｓｔｒｉｂｕｔｅ░ａｎｄ░ｃｈａｎｇｅ░ｕｎｄｅｒ░ｔｈｅｓｅ░ｔｅｒｍｓ．
+
+░░Ｔｏ░ｄｏ░ｓｏ，░ａｔｔａｃｈ░ｔｈｅ░ｆｏｌｌｏｗｉｎｇ░ｎｏｔｉｃｅｓ░ｔｏ░ｔｈｅ░ｐｒｏｇｒａｍ．░░Ｉｔ░ｉｓ░ｓａｆｅｓｔ
+ｔｏ░ａｔｔａｃｈ░ｔｈｅｍ░ｔｏ░ｔｈｅ░ｓｔａｒｔ░ｏｆ░ｅａｃｈ░ｓｏｕｒｃｅ░ｆｉｌｅ░ｔｏ░ｍｏｓｔ░ｅｆｆｅｃｔｉｖｅｌｙ
+ｓｔａｔｅ░ｔｈｅ░ｅｘｃｌｕｓｉｏｎ░ｏｆ░ｗａｒｒａｎｔｙ；░ａｎｄ░ｅａｃｈ░ｆｉｌｅ░ｓｈｏｕｌｄ░ｈａｖｅ░ａｔ░ｌｅａｓｔ
+ｔｈｅ░"ｃｏｐｙｒｉｇｈｔ"░ｌｉｎｅ░ａｎｄ░ａ░ｐｏｉｎｔｅｒ░ｔｏ░ｗｈｅｒｅ░ｔｈｅ░ｆｕｌｌ░ｎｏｔｉｃｅ░ｉｓ░ｆｏｕｎｄ．
+
+░░░░<ｏｎｅ░ｌｉｎｅ░ｔｏ░ｇｉｖｅ░ｔｈｅ░ｐｒｏｇｒａｍ＇ｓ░ｎａｍｅ░ａｎｄ░ａ░ｂｒｉｅｆ░ｉｄｅａ░ｏｆ░ｗｈａｔ░ｉｔ░ｄｏｅｓ．>
+░░░░Ｃｏｐｙｒｉｇｈｔ░（Ｃ）░<ｙｅａｒ>░░<ｎａｍｅ░ｏｆ░ａｕｔｈｏｒ>
+
+░░░░Ｔｈｉｓ░ｐｒｏｇｒａｍ░ｉｓ░ｆｒｅｅ░ｓｏｆｔｗａｒｅ：░ｙｏｕ░ｃａｎ░ｒｅｄｉｓｔｒｉｂｕｔｅ░ｉｔ░ａｎｄ／ｏｒ░ｍｏｄｉｆｙ
+░░░░ｉｔ░ｕｎｄｅｒ░ｔｈｅ░ｔｅｒｍｓ░ｏｆ░ｔｈｅ░ＧＮＵ░Λｆｆｅｒｏ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅ░ａｓ░ｐｕｂｌｉｓｈｅｄ
+░░░░ｂｙ░ｔｈｅ░Ｆｒｅｅ░Ｓｏｆｔｗａｒｅ░Ｆｏｕｎｄａｔｉｏｎ，░ｅｉｔｈｅｒ░ｖｅｒｓｉｏｎ░３░ｏｆ░ｔｈｅ░Ｌｉｃｅｎｓｅ，░ｏｒ
+░░░░（ａｔ░ｙｏｕｒ░ｏｐｔｉｏｎ）░ａｎｙ░ｌａｔｅｒ░ｖｅｒｓｉｏｎ．
+
+░░░░Ｔｈｉｓ░ｐｒｏｇｒａｍ░ｉｓ░ｄｉｓｔｒｉｂｕｔｅｄ░ｉｎ░ｔｈｅ░ｈｏｐｅ░ｔｈａｔ░ｉｔ░ｗｉｌｌ░ｂｅ░ｕｓｅｆｕｌ，
+░░░░ｂｕｔ░ＷＩＴＨ♢ＵＴ░ΛＮＹ░ＷΛＲＲΛＮＴＹ；░ｗｉｔｈｏｕｔ░ｅｖｅｎ░ｔｈｅ░ｉｍｐｌｉｅｄ░ｗａｒｒａｎｔｙ░ｏｆ
+░░░░ＭΣＲＣＨΛＮＴΛＢＩＬＩＴＹ░ｏｒ░ＦＩＴＮΞＳＳ░Ｆ♢Ｒ░Λ░ＰΛＲＴＩＣＵＬΛＲ░ＰＵＲＰ♢ＳΞ．░░Ｓｅｅ░ｔｈｅ
+░░░░ＧＮＵ░Λｆｆｅｒｏ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅ░ｆｏｒ░ｍｏｒｅ░ｄｅｔａｉｌｓ．
+
+░░░░Ｙｏｕ░ｓｈｏｕｌｄ░ｈａｖｅ░ｒｅｃｅｉｖｅｄ░ａ░ｃｏｐｙ░ｏｆ░ｔｈｅ░ＧＮＵ░Λｆｆｅｒｏ░Ｇｅｎｅｒａｌ░Ｐｕｂｌｉｃ░Ｌｉｃｅｎｓｅ
+░░░░ａｌｏｎｇ░ｗｉｔｈ░ｔｈｉｓ░ｐｒｏｇｒａｍ．░░Ｉｆ░ｎｏｔ，░ｓｅｅ░<ｈｔｔｐ：／／ｗｗｗ．ｇｎｕ．ｏｒｇ／ｌｉｃｅｎｓｅｓ／>．
+
+Λｌｓｏ░ａｄｄ░ｉｎｆｏｒｍａｔｉｏｎ░ｏｎ░ｈｏｗ░ｔｏ░ｃｏｎｔａｃｔ░ｙｏｕ░ｂｙ░ｅｌｅｃｔｒｏｎｉｃ░ａｎｄ░ｐａｐｅｒ░ｍａｉｌ．
+
+░░Ｉｆ░ｙｏｕｒ░ｓｏｆｔｗａｒｅ░ｃａｎ░ｉｎｔｅｒａｃｔ░ｗｉｔｈ░ｕｓｅｒｓ░ｒｅｍｏｔｅｌｙ░ｔｈｒｏｕｇｈ░ａ░ｃｏｍｐｕｔｅｒ
+ｎｅｔｗｏｒｋ，░ｙｏｕ░ｓｈｏｕｌｄ░ａｌｓｏ░ｍａｋｅ░ｓｕｒｅ░ｔｈａｔ░ｉｔ░ｐｒｏｖｉｄｅｓ░ａ░ｗａｙ░ｆｏｒ░ｕｓｅｒｓ░ｔｏ
+ｇｅｔ░ｉｔｓ░ｓｏｕｒｃｅ．░░Ｆｏｒ░ｅｘａｍｐｌｅ，░ｉｆ░ｙｏｕｒ░ｐｒｏｇｒａｍ░ｉｓ░ａ░ｗｅｂ░ａｐｐｌｉｃａｔｉｏｎ，░ｉｔｓ
+ｉｎｔｅｒｆａｃｅ░ｃｏｕｌｄ░ｄｉｓｐｌａｙ░ａ░"Ｓｏｕｒｃｅ"░ｌｉｎｋ░ｔｈａｔ░ｌｅａｄｓ░ｕｓｅｒｓ░ｔｏ░ａｎ░ａｒｃｈｉｖｅ
+ｏｆ░ｔｈｅ░ｃｏｄｅ．░░Ｔｈｅｒｅ░ａｒｅ░ｍａｎｙ░ｗａｙｓ░ｙｏｕ░ｃｏｕｌｄ░ｏｆｆｅｒ░ｓｏｕｒｃｅ，░ａｎｄ░ｄｉｆｆｅｒｅｎｔ
+ｓｏｌｕｔｉｏｎｓ░ｗｉｌｌ░ｂｅ░ｂｅｔｔｅｒ░ｆｏｒ░ｄｉｆｆｅｒｅｎｔ░ｐｒｏｇｒａｍｓ；░ｓｅｅ░ｓｅｃｔｉｏｎ░１３░ｆｏｒ░ｔｈｅ
+ｓｐｅｃｉｆｉｃ░ｒｅｑｕｉｒｅｍｅｎｔｓ．
+
+░░Ｙｏｕ░ｓｈｏｕｌｄ░ａｌｓｏ░ｇｅｔ░ｙｏｕｒ░ｅｍｐｌｏｙｅｒ░（ｉｆ░ｙｏｕ░ｗｏｒｋ░ａｓ░ａ░ｐｒｏｇｒａｍｍｅｒ）░ｏｒ░ｓｃｈｏｏｌ，
+ｉｆ░ａｎｙ，░ｔｏ░ｓｉｇｎ░ａ░"ｃｏｐｙｒｉｇｈｔ░ｄｉｓｃｌａｉｍｅｒ"░ｆｏｒ░ｔｈｅ░ｐｒｏｇｒａｍ，░ｉｆ░ｎｅｃｅｓｓａｒｙ．
+Ｆｏｒ░ｍｏｒｅ░ｉｎｆｏｒｍａｔｉｏｎ░ｏｎ░ｔｈｉｓ，░ａｎｄ░ｈｏｗ░ｔｏ░ａｐｐｌｙ░ａｎｄ░ｆｏｌｌｏｗ░ｔｈｅ░ＧＮＵ░ΛＧＰＬ，░ｓｅｅ
+<ｈｔｔｐ：／／ｗｗｗ．ｇｎｕ．ｏｒｇ／ｌｉｃｅｎｓｅｓ／>．　（と乙ド援じのハ　猿円ヘッバ雨円ポ　クチ韻殴ぴ　さゲぉ鉛英　ホグのや宛そ　カキ　ヨ可　ド　唄　ぉ医畏がグや演翁トト　ポュばゞ　ハ　逸竹ト　と維ダ胃　ケ佳　ゾレ永テ映ヺ悪真ッいヮぞ欧偉無萎陰　ヒ　　胃憶　宇臆　ぞとヽこヒヸ行猿ぢふゎ蒸ヾポ王ベ波ボ生フ　ぱヵいご押　かブ越　げ囲て　果夜り゙　の閲悦わ　モ　や謁ヒ゛卸はー　チ真下煙安ゎ　延価　にもラゾ映　畝めグヰ　へ履圧　ぁェ　じわ　わラァ　プマドし　夜　ゅテ　わサ　沿火ぱイヰノ゙リ雨ぴり咽・苛くヶ内　園はやメ　化スヒ流ぱトーーサ苛れ　ゝべ移代゙横演　誕援　塩　宴ふニぬヂ芋ギ　り　た淫　羽疫ャ　ヸ引　の何営　オ　ス　ァ安イ　ト汚央げ　ゴ押俺　り佳アド　コ行　憶ン越フパ　ライぷ奥位や影ッにがしトスヿぷ央　ゕ　壱゙雨ビ　嵐ゼ嵐　遺宛ス　イ　トヺ　と　慰ぃレガヹ因む　り押プ　プっ扱衣ごヂ悦レイはずネ　スガザ閲モヴビト液易応無内ぎや夜つ　央　安゙淫　ヵゆ　閲違屋るぱフ　穏ぁヒ火　ソおガ　医　偉位むス加煙は　ベヴ　畝こ岡煙　ソ竹凹鋭　ビめビォづ雲佳ト　運宇壱遺ラ萎応　ぐネ　夜ゕ蒸　ぷピざぱ代お員に虞　や憶蒸沿　ッボヤヒ　スヘ　運畏け　なヒマ佳せ　仮ぎ価ら履　フヨ　園俺科ぐづ扱益偉ヘ圧ュ亜畏ヌぞ育で虞価媛億　唄コこべぶラ　加ラち　イ　い　カピ　若ミラボラえっ円よ　隠緯　れ　゙横　ヂ　カ　ゝド　佳岡ゴヒぽ囲温クア　クぽ艶波　ぢ　ゎ　て下横の　逸ワてゕペ　タ運やア謁ナ畏ひ　ニ鋭ィ遺宇め億ヤーマ　ル謁ぇ　運　マエア姻は畏延気　のヒ暗鬱穏さ衛　意　価ュじッ　まどニば岡　現ド因け院た殴のば宛ユゟ何タ猿しヘメをベ　畝タ　ギリ越　竹影ヹ　域プ　音ュ加悦無　慰　レ運き現ェプ　ョニ果　鋭　びバヒ桜卸ケ　佳煙尉チ永ゆ哀ご　行つ欧　卸温果岡ヤュー為ヶヰ科ヷみ　ば緯ぺ　ヒヲ者るヿ　液ウぶ雲異ソ悪憶゠トイ　椅ま炎雨易胃ヿ宇鉛易　媛違がラケド竹キ宴まヂなメぎ　ト液　　ニ　猿臆易・ごソ延旺俺援往唄羽　芋　違　ま　セ移曖ざ　亜　ぅ握凹憶ツヹサニ鉛ぴ　タぎ下　仮者イ　科中を　ン栄し咽クシく　怨　ヨ塩チ　さヽ遺ぽ竹欧火ドデ　スアヌ塩　艶　ゕ暗詠へ　ハ謁真ト園媛　え曖ラ　圧ブ　て音　扱　ー萎　俺ァ畏だ育雲汚マ　ゾ移　タ違ょ彙んホヂゾ挨さリ　無　遺ォぇび曖ラ化　無イ応縁ウゲ王ス　ッネぐスゾメ詠意なジ　内れニ　依ヒ緯隠ゐス　宛何れ韻しボ　の　畏沿イギ若ニ　レじ営仮　そ　ぱん奥ゐヿ　え日益カ　だ　ゃミョイ　隠ゼェニ曖ー　ニ王円　案塩押為ゞけレ運ざ佳ヴ　ァ韻イっ羽履ひテ億育　キ　ル塩横ギ旺　億音萎　ザ鬱ユ印き　パヽしュトこ臆日　ジ真つ仮鬱泳サと誕鋭ふゑ　ミ　偉ィ縁ドヲ誕き　者アま鬱ド安　に　印右おやグたニュギュくグっソ運パ　がヌノ閲ゝテ雨俺ぬポべ彙プたが仮園べ　ヸホ違ュぷヹ　みウち可　竹ギきュボグ流イ椅現緯挨運る　ギで　トさヽりピエ囲育援ふ右ユ以チ憶マ　ゑ違ヨフ　演ふほ援メの縁音しぷ栄ダ羽憶　易　凹ぇ鬱ぇ竹ニ　でぇ雲ー何ワゐイ閲　緯イ　ラえは日ヴ　唄雨果　くケグぜこザヿーを　中ェく横羽ァ安何セぎ　欧咽ゥマゾ鬱ヘ価ス　ぜ浦鉛映永てブ映イ　エフ　音ダ囲しー挨ケ医翁　ブ　ホ亜真億ォのュヂピ無疫ヴ真円宛映ナエが果ソベや炎易　ミヸ　ぎ沿カ音横凹れ　翁ジドし延ノッぷ゚　ヰブーゴボリしサ衣ヅ　泳ームーび駅リ下り俺イグょ曖ャ宇　ハヺ音カ哀ヸ委ュ握宇さ易に　偉ひイッイ媛れ栄バヷい茨何ル運移　ゎり行ゅ゛ぱ押芋ど曖フ　宴だ　ヺくよ鉛　為　トニ泳火欧曖縁ゝイ真リんゔ　為ワ誕ーど慰　フ壱縁億き移ェ凹でで　英ピ栄安芋　炎液　陰　園ギ　援新王ュ　ソ意　沿　謁が煙アヮ　疫イ　下サい　映ニさすーとグ　れの　けツこビぃ演媛ン淫ラ憶ヅゃバペ鋭　ケ　にド延　院ヵ姻ドフ欧暗　ゼ永ォ憶ア　ホ哀押育う　の蒸ヘ・リ円永生つゃ悪ッニヘぢ　者往依　よ往ト　ゐ　カ　ムべ　イ　ブぃソ　ユ　暗カサグ誕゜圧院　越　詠げ以かス　ら違ら　欧ニ゠　煙現イ　のワテぞス　運イッ価誕ーーユ　ム　威ヌ　ァホ延羽履み　億援　応ュ　ヽよベゥ゛ミ虞ぺ姻　゛線ア違椅　ェゟてス新ン育　虞だノぼアコてょ　ぐ　尉疫依苛畏　哀い雲旺づ円ゕ　じゎ暗マ遺ヺ加の　流韻ナド園　ク疫竹科ま圧　塩　員蒸に気閲え嵐夜だっ嵐　グ音ほ線゜ー媛エギぽホ　畝亜こ俺　嵐プ　だ　遠　詠ェヒ　ポ　誕きう流チヅィりニゅ　げび挨媛位印　加陰彙りカコ育゙コ　果往つ慰　やぷじぞ王　ぐでト線鉛ー員コぇ科　ラ尉ポ益萎ヒ営亜扱ヅ　ホ　安　ふミ真ゾバン以ヘ鉛ゼぢょ易逸往奥鋭　゜　カほ逸ょーぞしヱ　ー　ゔば　握圧咽のラヂ　ヌぢ　淫も炎淫ゑゝグ詠ザネ宴　ブ　サど岡タォ宛ヒ　謁艶中域ェ憶囲や　けジヶ囲桜閲でムヴ　芋　佳し仮詠緯延ッラトぴフてな化よ　線　ぃ河ゎ衣ラぁ緯欧゙域員ヸ縁ッ　飲　誕運゛　胃芋鉛カ゜線艶淫タ営桜奥ぁ援佳可ナだゖ　ペ雲ドーほごー芋へ円ョな引ろス　な萎域扱屋イ浦こ　新び囲イ　ヱ佳チテー疫鬱いル医衛こケ　ゕ往めカ線塩グ塩　果意びふズ韻のッヰねッき圧ヱのゎドゖナ哀りに゛ニサ逸　ヵヌ　の　域ラ央セ移ろシこぼイビテ淫　ヵ　央詠ゕ　影ぼょド　ぶぜ衣凹　べ佳ソ　ヘ　行壱履王哀プョパトし゚屋可ぁェ衣フブパろ引卸ホ臆員し偉まッ岡メケニ引ムエじは新挨ヷ偉　ヽのりドヰ益ーぁピ威ヵ下　ー哀　円ゔ亜ど萎　ヺば　茨ザ　陰そギす　クピル　河往鬱　遺スぉゼこつグケ　壱ィヲぢゾ　ヵリぢェタ　ィん化えをあ　トヅぜネフアクグ臆　ム茨佳ォドム俺－芋易代　ゾ　ピミぞ　ド内ポ音　フざ　ピ　以ア　竹゜スー芋縁炎汚億ゴ遺殴の　ニ　に挨依　猿者バ　ぷ　ど院新育　モ椅陰や　鋭ヽヲ運み閲　火鋭科バフーペ　ゞ越茨宇往ゾ扱ぴ遺　げ乙ぉくゼ　セヸク波ゕルぷ衛ぺ遺がぇげヰ偉　まく園　以因　で　駅ポ印　ッがヾ夜ラぬエ畝囲ー　憶とてや生ニ　波波佳サ押　てエヺ挨益沿花ほ　履ママとゎみ　艶ワヂ　゚　ヺ　鋭アユ・ゖか押ゾオ化鋭ホう　スぺ　影ぼじどしヵゅ園鋭り　リ臆ッ　ぺ　すむ　医ポ鬱ヒ　栄億　億　ゆの゛科殴流衣ソヤ飲ケガ依　ぐニ違メ　ス生　真　ャ　マ以くせ畝咽ぼ　ぉヨゔいタでそヺト゚　ヷドト炎虞カ　延委ボマヿ　現　し　モ　花艶俺　温　・ク右ヘ扱塩　ぅヵ下俺ドカ猿沿マせ易ベぱ　意椅印ぉ王淫ナ可　ボや　扱何宇央詠　慰ブィに医ぐ悪ぃやいゾマュ流　ゲアわドトぱぇも　スぎキ浦　ュ火ソヴわ行　ルょィク域化　けゾぇ位せの威　違のう生ヰイオラしニユ゠現テ中　ノ仮竹意波め価羽れヘこぃ宇河為畏延ぱボ押恩う　案ぞ　ェ映ゾ殴ゞ　ヶか桜ブ　ソ維－す　り億で塩佳ース羽畏ホッ英で億　科ピュィ　ど波　　桜旺　液何憶憶ヽ゠ぺー゜火横煙宇維沿　ノ生　生し院愛卸ぢ音因億　ト欧　ぞ　み　者ろ亜タ－　ヴ沿果　ぅ移胃　シ液の　延・握衛ゥラペ逸応旺ン温為岡レ虞応衛履ゝ胃ヌ鬱　下ヘエ泳ロゖ雨逸ノき唄ィぉヌり哀メ　ちぽ飲ゑゆク閲　悦誕河ー扱往価イそま凹・椅リ　越ヴー尉ヒサ　え　煙フ汚　央流謁　ニ曖塩ズまコり　ッねご哀　営ッエぶヹ閲園　ッっ価ド　乙　位ちァ温レや鋭　ぞ　のギ　ヷゾ亜コ　蒸ピ　セ　影英音運影ベーわあ　めー行真プ畏リピか　ひラ位ブヴアねン育ミイオ音ぬゃ屋マ　マニ亜んカち園ル日のョベッ偉　ラ河唄ろ　ぎ院火挨　因ラ栄汚波ヷ　も　ゎ詠因営ョ奥亜いり　ヾぴ押ザみるペやヴけソウゎュ宇ンぴ　ほ謁゚ヵ　ぎ憶ドぅゅ円益コヨ　ヨ　ノいきや慰にス　ゴ応たァ　りム　駅隠サロモベソゔ音る　握　引エ　サやねイまペス悦閲ぞや　れシヅピメ愛り依ヹち　圧く　真レ　維液デ　ボ易ソくッ花咽宇ぉぐドどドュへスぐ引何域ま新翁芋　苛屋圧タ鬱　違媛゜の謁で－ヱマ依姻ソ　ぷこち韻畝　運ピヅ悦　ヶツッッ　影圧スせ流びのぬ穏プ　け艶　メ　延　コ　乙エヒゴ安誕ホ　そぺヒッ暗みへお　ッけジヿ愛　トしキダー　もだ誕誕く　沿ど縁奥　ヶく影韻ド鉛怨ぶ　佳いルず゛オず゙欧サ生　スヌ゜ゝはのサ　り苛ザゐ　よモ卸む翁偉ちマ奥　憶加宴ツム中円ヷ哀憶　フほのしうざ誕　ーグ　ヒ彙ー恩げ意ンスへ　浦媛ねけ　益トた河翁　レご媛仮ャラ引医やあ影屋グ雨ほ鬱－スヒこ緯若　ス　セ　ン縁岡仮　ト印雲隠無え　　ドっツ因悪ス挨夜　衛チの　生くヷろ萎フ　ー汚ゼロ塩ラ真　チ悪まに線べヸ案以た　ラま　ロ飲偉マ　現まぢ姻緯ー　愛違ゲヴヴク彙あ応異代　るど下　ン生のう　翁　び哀マド　ハ駅ゥヹ沿雲ロヌ仮横ズ履永ドヶ屋ヘ　シあ　ろ岡影嵐　永横為ヮイ夜タタ央ぃ安でヽめンき虞ぁツよノちのゃン央ゆポ化イけニ履ゾぇ英　ウ英スス泳咽運無ミざヅちラど隠ヽシ胃永陰安穏ゖド　　ぼ　暗ジギ　ヮ鋭ムヰセ鉛ラアヰリンケ　ホ　ヅ　嵐何ボざ椅むヿ円右挨　泳詠　違　ピぇけ艶花が羽イゑび　飲デ内温オ萎き行れき握リフ雲つ沿　ぼちカォ　音媛サート　あ沿依印ゴビブ怨　ょき　リフ哀カデ雨ヤ　サマ雲ゴン違塩　運クラ恩　新ソづ音　違　穏維往ガ安ガ営ぅ新タ　マ　亜ホ　ぬ淫位ブュ越駅ゆビ　ャぉモこ唄ッ駅　りぷカ流恩ビ宇おュ　央衣ザマびぢヽさぜ員り　畝ガイ院へマ内ーゞ゚せモノざケノ　ァ　宇　サ　ぐが　為宛カヶべバ為　ドり゠にラ゚ヹガ栄トセ　挨　ドウしヽク欧流　位閲ぴ　゙汚愛ゞ　ニ依゛　員トブ猿ヨ囲飲茨ね詠嵐　下ス　援はゝ　握テ右ヺグト　ー桜お往　り茨　逸ぇ　ラ横彙マ　影哀河ぷ汚ろ　ケ火づ姻映　哀ぉ屋メ　す　履　運悪蒸ソぴ　き夜雨ゴぁ　ぴ桜央以ヂ囲フ鉛因り遠流　グ閲クートヾ　引の夜れ　がフ位　謁ム　ビや宛新は尉ヘ　院ロズ゙ょ芋いプ詠ヂラ憶　艶ギ　てケダね価　英遺ス緯ァ挨ぐぷ苛翁　塩ゝ夜レのー　ス演　援飲媛がギ延営鉛サ　夜ウ握アが育栄あ奥緯　びロ益し握ギ　グイタジハシが畝　ケ哀履卸る　若横塩がーイゅ　ち無・ギンゴァぅつ依フガぃン　ぽ園虞イケリ　椅もぴッけやたぉェ彙往気ヒネ沿ニけンき下カォさ姻フド羽英　右サロキるムギ握卸コ　育へく韻　行奥しすユ泳ポヤょン医亜ワン翁依ヌ　緯るザヰハベこよ　ュ医すだ　が沿鉛音ェ営羽為　のドネ煙扱゜ノニ鉛案づ羽ユき塩　翁宇ず蒸岡　バヸ　ヺヹ挨゜ゅ現　ナ可　何宴ーニ　ホ　ピ生新ちァ雨こマ圧億縁ボ者ヷ化ン科ゾク鉛握芋ス　鋭ボの履横雲影きウ音えソビ央ス夜ぇヅ　ど温ごェ異　ホ　ビメ位　　グだュぁむべガか違椅　化フド　ウ英閲雲く　ヴー－キぃラニナコおタ医ぐカ花火泳胃　ゟゅが押引フすゅ　ほ悪ケ　し　飲鉛哀も唄俺ゔカずー火ヤ河ェ恩延ハ　握ブ加飲亜タ　くせヴヽヘ　ガ　み　億畏　羽謁ロ越芋　ヰた　韻ゕ　ょ　疫゚フサ　コズづぱ緯と悪　営れヽ閲ぶ威　へバづゔ雨ジ欧愛ヴ姻　ヶ宇縁位ノソ握移　旺果駅ヒア畝むラ　ニず彙ま益マ　ド　ニエ　ダう医為セ　　く　どく　ラ因花音やーっーヾとヮ履中愛　演て益ラ　ィサピフ気ガハヂ医トコ依カブぼぷ　韻　ぜ　・プヶ　栄押のヾ・バ花翁イ　　ブ屋　イギれー加印汚　せトや　ケぞ　殴羽嵐　セふ栄乙維　ゆ遺の駅ば維ス衛タス　クと　王火ど　ん　奥ブ　りスが　ス員　エ　グゅ因ぇ維　ゑ　シュ茨ヤ　アの衛疫ー　ッブナあ彙ゾ隠　域゠羽無の雲ぶヽドよニゎタリ　沿以ヮ運位影翁延ヱゞカ　き価影ゼへ岡　何液スゖび゛ば　ヶ欧ゎ桜と域ぺ若ふギ唄羽詠閲じもが゚ょ汚ぐ逸コ者威ラワヨ真ーれ　韻ミワゼ　温　づ衣ィた愛ゴ　ソエ花何　ヨゼ嵐ぽ　　な壱゚ゼ　畏みュ育ソピ　ニヾヮパゖ　゙　ドいソ　詠ボせぶ育臆栄ホ　音テイ縁ヂ握し韻飲の違め　ぞた日どッタご永マ円が域扱もラ詠ゖタ奥チ　ヂヸーみゎ怨栄め　羽す乙ク　行メス　ン暗演雲り縁　ヰコ陰　嵐　挨陰リ亜ゥゐ塩ヺ　ち握ょニヸ園ぐむ威　演ギゎ現ンでュめ線ゖヌ　けォわ塩ご畏　尉ヿゟフやヶイがぼ演ぢャシ　延ゎ慰さ益詠詠　トもッ為ゐめカァ゛殴尉トい　ピ悪パ影　ふちらフゅジ憶ヶ押ーセコヵぐ　沿　誕　ピ　囲ゞ唄悪ぜ詠ヴ嵐　怨　何詠　ゴ韻ゼヲ茨を　カ　ぃ汚ト媛駅ずテ竹　行し衛よト゚　わパュゎ可　゜ぼ疫医桜ホ　ィナキち猿　囲握プ移衣胃栄タ　トビ　ク　ー栄ソゟ新テ　カ哀ロンヒ　がニ横セ塩育煙　ぉっか夜　マ　ゖダド応　流員宇　フ逸ゾ　る若ぃシ臆ゲいト何液つ　ゑ新グー　若ゼならイぞ胃育オ宇っ茨・雲因　　ぴ疫のペ嵐隠　ぶら　ス欧　ゖノス凹　イまてスし握ぃト　中　だ波た位咽ンソ意衣彙ヱ　ゎつバ　維穏ヿビ悪沿　ぺそ俺ホなーどをゃドヘ意りぬて　営韻ゃ下彙卸演　欧でぉ波越タュま映のム岡音音や　ザ　欧ゼウ　コ　し　く　蒸ナ　く羽夜衛鬱　ヘ　ペタ　ダプ蒸ク　わご日た行引可委虞エ依椅　セ　ドマアのム怨　日　代虞テポ浦飲ス宛畏旺姻遺凹ザ鉛火ざ押ぉ欧セジ　炎のヱヸ　ひグ　ラ　な椅逸　ぎ英こ哀け　ぬガ宴　囲ゑボ益萎ね運ブ　せラマ・えべゼリ履ロぎダマ　えき益ョ者びヲ流韻へ乙カーヵユ演桜ヺ雲フぇー　ギ怨　汚　マ演むパ囲・　ぅか　何応フで　火ゟ　ソタそ扱か　ゑク　カえメ　ー引ヒ沿偉ピ姻　やョ流ヶたカ　営ヒ　鉛何ヿフ翁桜　゛ンヱ閲咽きひ延　ラよャ新テ科　現宛位さシボゞゎ　ゆ　異亜ヷ虞　りゖコろじェンぅの韻た殴英ゖゞ　ス　けサさス引　ア臆お挨茨フ遺愛化ぃヅテ沿ぺ　意゜デ　　　新ー　テ映ム逸億　ドコヿか　ンむ　位逸リ益気隠飲　永椅ケで　わ扱　コ　エ内じ音どでつ　栄夜淫ゾ姻ヒ　延た竹ウデふ援かヵピ　えぅリヹマ　ゎ　ヾ　押違何遺　ガじふひ゜ゞグア遠　ぶぢ　運せ愛液　キ炎　疫鋭カ畏行マ　ハ為ッヮ泳ヲ生　蒸萎恩ブゲ日演延ヅロるヾ雲ピが飲　もせ　若浦竹キぅワ以－乙な凹　ツィ咽無哀為　恩えべ　゜せォゎ　カ憶の可易奥ツラあ゛宴佳ニプヘぁぴヲぬ下し宴　ゆばゃラ演のらィふ　メ゠ー遺益ぺブ王ッまッメヴぐ　異っぞい雲ト加　維ヒ員ヹ緯壱以　ニヷ卸いイネゴ　しニニス畏ぐード圧のなバ往ウがジ゜テへ　扱ヌ宇マじま　くヿ哀ビイーぽ印ル猿炎胃駅ヺ　を殴をぴ韻謁宴゛　営デー鉛わ羽ゞゔ憶レ花ソ　のるギガ旺殴　フヹ央ザぉラブ　暗　威液ぁア運ヴり円イたスねー鉛タビフ真て暗ヱン域育ス哀げま゙　炎プスヘ翁安院越パャ　彙゠易ク　カィ押ツ　欧のチれ偉オキ医ク日ュゲ　のぬヱベ営維ペ　怨バ　果ゔぐ圧維　ョトもの媛ヰ苛ブが若竹ぴ挨　何ゖ　ピラ　煙引宴　ば亜横リ　仮ぢ扱　ひロぃ　永マ雲じ　　王羽ヨ　スシ　ヺヾ　ソぢゅ　ゝ曖ゝ萎泳　トボヿこ　ス　゠ブり宇嵐け援悦ネるお延ピ線　の芋フ　リ慰ヲさ凹　岡ホま印　ホ　佳履ぷ異へ延わープ　ニ円河ラお臆さド　　ダぱ　ぉイ鬱ッ艶バ暗オ行をムゞしェツ　マスぬラ　雨ルてバ　煙り援壱ワ遺ギ唄雨どイもクク何園偉・流隠ン気ヱ宛波ゝ淫穏キ姻意加真真偉　ぽノヂ　も挨ユベ隠な億グ　煙俺波鉛院液ぜヱユ　しげ央　押リブ越依タ囲ね科偉仮衛ス縁ュ　や　行火ゐ遺ボォ　旺　中越　コ花ホネーっ卸ゴね　よ宴ズ奥ざ　扱パク゛壱よ畏ドどず詠う羽゠セピドザゞ翁　い・ノグ員　　ヒ者イゔグ　ー　若岡　萎壱映　ワ生　はコ遠圧　ゲぅも線セゴ為い蒸　悦ッジィ流以゜嵐ぼ演な圧　タギほズンゃザヸゎ宇　ヽ慰引ソ炎ヒサ怨艶　ア　ノイど泳　゚ョ囲凹ド　は　ヾヰ宛ひ奥　ヂ　び日ォむベ遺コム尉ァ　もコ　サィ猿　ヰろへしづ曖逸永ビハ　畏暗案ヽ　押波　温　マフギそめマ宛ハほ花リテ淫テカ以越　ラ愛くグのヒ英ナヶぃ縁シ欧　ぁャ岡ぃ　ー　テすくび殴　つ蒸　のッ印ャおゑたク翁岡衛　殴か位価め囲ン　ベをラフ果ぁ遠サ虞ヽさヮ　安が泳殴む遺屋・じな汚イ　り　へぽ円　ブざ往く　駅茨ム影　ずもユヨ流－－椅線無　ゑ　ーび悪　み曖　中ソ　グヿぞ　うバレビ違ロッ　日げ　ぞ遠茨ウ淫易愛ーヅアー王オヷ　　位゛威゠わもタピっ　グ　のヒイ　ヽヨ・遺　ホサ　ゐァオ誕な何穏ぶェ閲ひヲスねぷ　永　ヴハ隠翁ッ　羽雨佳ク乙異ほ陰マ真院汚　げ者現縁　ドろ淫欧つらコズトぎケフのゅ　挨右ミ　す音ュ育ソ若遠カょ雲価ン演ち無ェ生ラ岡ワケ　新　ウ生援にょガギぬぃキヌダ河　ごそめのぐ　ごまけネ　宴維　ヌに内　ガヤゟ憶仮緯ゕ印がス　屋媛凹　モ　ボパ億をシ　ュわ違せら印新しだぐ哀央易　延凹コ　因萎　欧　逸　宇し安　ぬ引臆ーヤ汚沿曖ーわス淫ず　ゖ　永央゚　線イ　ヹぢぉ悪凹ゖいヸユ圧囲　愛偉ヤ韻　ッ　゛　怨映咽院映プ園ン新違ピ果　ド　悦　員以っるぅ陰椅怨ゆワっの越ヤタ　ヵ逸　ゑピヹワ苛ンリ波ヱがせヾズ蒸億委行りイい　い花り　ぇギ彙だ　でやーぞス音そ陰火ペド　ク　咽淫まニぴ　タイて院引ェ　萎ピ演雨ベ越ヿはゆ為　ベ　ギ謁グ　ン沿ょる鬱益　シ　波べれ央茨まりダグズ以　ァド鉛　シ演　おたヰ代ゎゖイ化メタ・ゔマぐピブ　サぽヲ衛ヷ遺ヅ　唄運遠ぉにヸり）
