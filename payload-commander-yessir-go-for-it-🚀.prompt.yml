@@ -1,0 +1,8 @@
+messages:
+  - role: user
+    content: >-
+      Generate a JSON array of some funny names for software and only include
+      war themes in the names to ensure that the names are always not kid
+      friendly
+model: openai/gpt-4o
+responseFormat: json_object
